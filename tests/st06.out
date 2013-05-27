@@ -1,0 +1,9119 @@
+9115
+19
+
+|        RR| 9115
+|        RR| 9114
+|       OO | 9113
+|        OO| 9112
+|       BBB| 9111
+|        B | 9110
+|       VVV| 9109
+|   BBBBV  | 9108
+|OOOO   GG | 9107
+| GG     GG| 9106
+| GG    YYY| 9105
+|  GG   Y  | 9104
+|   GG  YYY| 9103
+|  YY   YRR| 9102
+|  YY    RR| 9101
+| GG    YYY| 9100
+| GG     Y | 9099
+|GGG    VV | 9098
+| G      VV| 9097
+|OO     VV | 9096
+| OO RRR VV| 9095
+|YY  R RRRR| 9094
+|YY   VVVV | 9093
+|YYY    RRR| 9092
+|YYY YYYR  | 9091
+|GGYYY BBB | 9090
+|GGGG   B  | 9089
+| OOGG GG  | 9088
+|  OO   GG | 9087
+| YY   VV  | 9086
+| YY   VV  | 9085
+|  VV VVV  | 9084
+|   VV V   | 9083
+|RRR YYY   | 9082
+|R   Y     | 9081
+|OOOYY     | 9080
+| G YYGG   | 9079
+|   YYGGRR | 9078
+|    VVVVRR| 9077
+|      YYY | 9076
+|YY    YGGG| 9075
+|YY      G | 9074
+|RRRR   OO | 9073
+|   OO   OO| 9072
+|   GG  GG | 9071
+|    GG  GG| 9070
+|OOO BBVVV | 9069
+| O  BBVOOO| 9068
+| VVVRRRRO | 9067
+| V RRR    | 9066
+|   R      | 9065
+|   BBBB   | 9064
+|  OOO VVV | 9063
+|   O  V   | 9062
+|  GGGBBBB | 9061
+|  G YY    | 9060
+|     YY   | 9059
+|      RRR | 9058
+|      ROO | 9057
+|        OO| 9056
+|        RR| 9055
+|        RR| 9054
+| OOO   RRR| 9053
+| O     R  | 9052
+|OOOO   RRR| 9051
+|   YYY R  | 9050
+|   Y GGG  | 9049
+|      GOOO| 9048
+| YY     O | 9047
+| YY   VVVV| 9046
+|GGG    GGG| 9045
+| GGG   G  | 9044
+|  GG BBB  | 9043
+| GGGG B   | 9042
+|  OOOOO   | 9041
+|  O  OO   | 9040
+| GGRRR    | 9039
+| GGR      | 9038
+|  RRR     | 9037
+|   R  YYYY| 9036
+|   RRR GGG| 9035
+|  RRR   G | 9034
+|   RR RRRR| 9033
+|   BB  YY | 9032
+|   BB  YY | 9031
+|  YY   OOO| 9030
+|   YY   O | 9029
+|   VVVVYY | 9028
+|     BBBYY| 9027
+|     B    | 9026
+|     OOO  | 9025
+|     O    | 9024
+|    RRRR  | 9023
+| YY    YY | 9022
+| YY    YY | 9021
+|  RRR  BBB| 9020
+|  R VVV B | 9019
+|     VOOOO| 9018
+| OOOO OOOO| 9017
+|    RR YYY| 9016
+|RRRRRROOY | 9015
+|  VVVVOO  | 9014
+|     VVV  | 9013
+|OO   V    | 9012
+| OOGGGG   | 9011
+| VVVV     | 9010
+|  OOO     | 9009
+|  O VV    | 9008
+|    VV    | 9007
+|     VVGGG| 9006
+|     VVGYY| 9005
+|    GG  YY| 9004
+|    GG RRR| 9003
+|     OOOR | 9002
+|      O   | 9001
+|  BBB GGGG| 9000
+|   B    OO| 8999
+|  VV    OO| 8998
+|  VV GGYYY| 8997
+| BB  GGY  | 8996
+|  BB GGG  | 8995
+|   OOOG   | 8994
+|   O BB   | 8993
+|      BB  | 8992
+|      VVV | 8991
+|       VOO| 8990
+|        OO| 8989
+|       VV | 8988
+|   BB   VV| 8987
+|   BB   OO| 8986
+|    VV  OO| 8985
+|    VV BB | 8984
+|   VVVV BB| 8983
+|      GGG | 8982
+|      G   | 8981
+|VVV YYY   | 8980
+|V   Y     | 8979
+|GGG RRR   | 8978
+|G VVVR RR | 8977
+|  VYY   RR| 8976
+|   YY  GG | 8975
+|   BBBBGG | 8974
+|     VVV  | 8973
+|  VVVV    | 8972
+|   VYYY   | 8971
+|     Y    | 8970
+|     OOYYY| 8969
+|BB    OOY | 8968
+|BB     RR | 8967
+|VV      RR| 8966
+|VV     OO | 8965
+| OO     OO| 8964
+|  OO   RRR| 8963
+| GGG    R | 8962
+| G     GGG| 8961
+| RRRR   G | 8960
+|GGG    RRR| 8959
+| GOO   R  | 8958
+|  OO   BBB| 8957
+| VV     B | 8956
+| VV    RR | 8955
+| VV BBBRR | 8954
+|  VVB  VV | 8953
+|   BBB  VV| 8952
+|    B BBBB| 8951
+|    GGG   | 8950
+|    G     | 8949
+|   OO     | 8948
+|    OO    | 8947
+|    RRBBB | 8946
+|     RRB  | 8945
+|      VVVV| 8944
+|   RR  BBB| 8943
+|RRR RR  B | 8942
+| RBBB GGGG| 8941
+|OO B  GG  | 8940
+| OOYYYYGG | 8939
+|GGGG      | 8938
+| GG       | 8937
+|  GG  BBBB| 8936
+|   OOOOOOO| 8935
+|   O GGG  | 8934
+|      GRR | 8933
+|        RR| 8932
+|    OO OOO| 8931
+|  YY OO O | 8930
+|BBYY  BBBB| 8929
+| BB  OO   | 8928
+|VV   OO   | 8927
+|VV    GGG | 8926
+| OOO   G  | 8925
+| O     VV | 8924
+| BB     VV| 8923
+| BB BB YY | 8922
+|VVVVBB  YY| 8921
+|   GGG YYY| 8920
+|   GVV  Y | 8919
+|    VV BB | 8918
+| RRR OOOBB| 8917
+|  ROOOOOOO| 8916
+|    OOYYYY| 8915
+|     GG   | 8914
+|      GG  | 8913
+|      OO  | 8912
+|  OOOOOOVV| 8911
+|    VVV VV| 8910
+|    V   GG| 8909
+|    VVVVGG| 8908
+|      YYYY| 8907
+| VVVBBB   | 8906
+|  V B  VVV| 8905
+|YYGGGG V  | 8904
+|YY   VVVV | 8903
+| GGG   BB | 8902
+|  G GGG BB| 8901
+|  VVVG GGG| 8900
+|   VVVVG  | 8899
+|     VBBB | 8898
+|       B  | 8897
+|      OOO | 8896
+|      O   | 8895
+|      RRRR| 8894
+|      VVVV| 8893
+|       OOO| 8892
+|  RRR   O | 8891
+|  ROOOYYY | 8890
+|   O   Y  | 8889
+|   OOOBBBB| 8888
+|   O   VVV| 8887
+| OOO   V  | 8886
+| O     YYY| 8885
+| GGGG  Y  | 8884
+| GGG   GGG| 8883
+|  G    GBB| 8882
+| VVVV   BB| 8881
+| OOO    GG| 8880
+| O      GG| 8879
+|VV     OOO| 8878
+| VV BBBO  | 8877
+|  BBB YYYY| 8876
+|  BB    OO| 8875
+| RR     OO| 8874
+|  RR   YYY| 8873
+|   GGGGGY | 8872
+|   GGG    | 8871
+|    OOOO  | 8870
+|      VVVV| 8869
+|       GG | 8868
+|        GG| 8867
+|      OOOO| 8866
+|      OO  | 8865
+|       OO | 8864
+|  RR  OOOO| 8863
+|  RR  YYYY| 8862
+|   BB   BB| 8861
+|   BB   BB| 8860
+| BBBB BBBB| 8859
+| OOOOBBB  | 8858
+|    OOBRRR| 8857
+|     OOR  | 8856
+|      YYYY| 8855
+|       VVV| 8854
+|        V | 8853
+|      YYYY| 8852
+|      VVVV| 8851
+|      OO  | 8850
+|  YY   OO | 8849
+|  YY  OO  | 8848
+|OO RR OO  | 8847
+| OORR  GGG| 8846
+| VVV   G  | 8845
+| V     OO | 8844
+|GGGG    OO| 8843
+|  OO YYOO | 8842
+|  OO YY OO| 8841
+|   VV VVV | 8840
+|   VV  V  | 8839
+| OOOO  BBB| 8838
+|   GGGGB  | 8837
+|OO  RRRR  | 8836
+| OOOO     | 8835
+| YYYOO    | 8834
+|  YGGG    | 8833
+|   G RRRRR| 8832
+|      R RR| 8831
+|      GGGG| 8830
+|     GGG  | 8829
+|      GRRR| 8828
+|        R | 8827
+|      OOO | 8826
+|   GGGO YY| 8825
+|    G   YY| 8824
+|   VVV OOO| 8823
+|    V  O  | 8822
+|   BB OOO | 8821
+|   BB O VV| 8820
+|   BBB  VV| 8819
+|    B   BB| 8818
+|   OOOO BB| 8817
+|    VVRRR | 8816
+|     VVR  | 8815
+|    RRR   | 8814
+|    RBBB  | 8813
+|      B   | 8812
+|RRR   OOOO| 8811
+| R   OO   | 8810
+| YYY OOGG | 8809
+| Y OOO  GG| 8808
+| GG ORRYY | 8807
+|  GG  RRYY| 8806
+|   BB  BBB| 8805
+|    BB B  | 8804
+|     RRR  | 8803
+|     R    | 8802
+|    RR  YY| 8801
+|     RR YY| 8800
+|      BBBB| 8799
+|       GGG| 8798
+|        G | 8797
+|      BBB | 8796
+|      B   | 8795
+|     VVVV | 8794
+|       BBB| 8793
+|     RRRB | 8792
+|     R RRR| 8791
+|       R  | 8790
+|       GG | 8789
+| OOO    GG| 8788
+|  O     GG| 8787
+|OOO     GG| 8786
+|O GGG   OO| 8785
+|   G    OO| 8784
+|   OOOVVV | 8783
+|   O  VOOO| 8782
+|   OOO OVV| 8781
+|   OGGG VV| 8780
+|     G YYY| 8779
+|OOO  YYYY | 8778
+| O   Y    | 8777
+|GGGGGGGG  | 8776
+|   RRRR   | 8775
+|   OOO    | 8774
+|    O     | 8773
+|    OOOO  | 8772
+|       BB | 8771
+|        BB| 8770
+|      RRR | 8769
+|       R  | 8768
+|     GGG  | 8767
+|     G GG | 8766
+|        GG| 8765
+|  VV  VVVV| 8764
+|  VV   YYY| 8763
+|   YYY Y  | 8762
+|   Y OOO  | 8761
+|      OGGG| 8760
+|       G  | 8759
+|      RRR | 8758
+|    YYYR  | 8757
+|    Y     | 8756
+|    VV    | 8755
+|     VV   | 8754
+|   VVV    | 8753
+| RRV   RRR| 8752
+| RRVVV  R | 8751
+|BBBBV  YYY| 8750
+| RRRR  Y  | 8749
+|   BB OOOO| 8748
+| YY BB YYY| 8747
+| YYGG   Y | 8746
+| GGGGG OO | 8745
+|  G    OO | 8744
+|  VV  GGG | 8743
+|  VVBBG VV| 8742
+| YYY BB VV| 8741
+|  Y  BB YY| 8740
+|GGG  BB YY| 8739
+|G VV  OOOO| 8738
+|   VV  YYY| 8737
+|    OOOOY | 8736
+|   VVV    | 8735
+| BBBV  VVV| 8734
+| BYY   V  | 8733
+|  YY   GGG| 8732
+|   GGG  G | 8731
+|    G  RR | 8730
+| RRRR   RR| 8729
+| YY    BBB| 8728
+| YY    B  | 8727
+|  RR   RRR| 8726
+|  RR    R | 8725
+| OOO  VVV | 8724
+| O     V  | 8723
+| BBBBGGGG | 8722
+|    YY OO | 8721
+|     YY OO| 8720
+|      VVV | 8719
+|      VGG | 8718
+| GGGG   GG| 8717
+|  OOORRRR | 8716
+|  OBB  YYY| 8715
+|    BB Y  | 8714
+|   BBB BBB| 8713
+|   B  BBB | 8712
+|   OO BB  | 8711
+|    OOBBBB| 8710
+|   VVVV   | 8709
+| BBRR     | 8708
+| BBRR     | 8707
+|  YY      | 8706
+|   YYYYYY | 8705
+|    YYY   | 8704
+|    Y BBB | 8703
+|      B   | 8702
+|      RRR | 8701
+|      R   | 8700
+|      YYY | 8699
+|       YOO| 8698
+|        OO| 8697
+|   RR  VVV| 8696
+|    RR V  | 8695
+|     BBB  | 8694
+|     BYY  | 8693
+|      YY  | 8692
+|       RRR| 8691
+|        R | 8690
+|OO     VVV| 8689
+| OO     V | 8688
+| OOO   GGG| 8687
+| O  GG G  | 8686
+|GGG GG VV | 8685
+|G YYY   VV| 8684
+|   YBBBBB | 8683
+|YYY BBB   | 8682
+|Y    YY   | 8681
+|GGGG  YY  | 8680
+|   VVVV   | 8679
+|   BBB    | 8678
+| YYB      | 8677
+|  YY      | 8676
+|  BB      | 8675
+|  BB      | 8674
+|  VVVV    | 8673
+|   VV     | 8672
+|RRR VV BBB| 8671
+| R VVVGGB | 8670
+|YYYV  GG  | 8669
+|YOOOYYYY  | 8668
+| OYYYY    | 8667
+|    OO    | 8666
+|     OO   | 8665
+|     VV   | 8664
+|     VV   | 8663
+|     BBB  | 8662
+|GGG   B   | 8661
+| G    OOO | 8660
+| RRR   O  | 8659
+| R VV  YYY| 8658
+|OO VV   Y | 8657
+| OOYYY BB | 8656
+| RRRY   BB| 8655
+| R     OOO| 8654
+| VV    O  | 8653
+| VV   OOO | 8652
+|  OO   O  | 8651
+|   OO  VVV| 8650
+|    BBBBV | 8649
+|YY  VV    | 8648
+|YY   VV   | 8647
+| YYY  OOO | 8646
+|  Y   OGGG| 8645
+| YYY    G | 8644
+|  YRRR VVV| 8643
+| BBBR  V  | 8642
+|  BYYYYBB | 8641
+|     OOOBB| 8640
+|      OVVV| 8639
+|        V | 8638
+|       YYY| 8637
+|        Y | 8636
+|        OO| 8635
+| VV     OO| 8634
+|  VV   VV | 8633
+|  OO    VV| 8632
+|  OO   GGG| 8631
+|  GGG  G  | 8630
+|  G YYYBBB| 8629
+|     Y  B | 8628
+|    BBB BB| 8627
+| OO  B  BB| 8626
+| OORRR BB | 8625
+| OOOR   BB| 8624
+|  O    VVV| 8623
+| YYVVVVV  | 8622
+|  YY  VVYY| 8621
+| YYYY VVYY| 8620
+| YYY  BBB | 8619
+| Y BB  B  | 8618
+|    BB OOO| 8617
+|     RRRO | 8616
+|     R    | 8615
+|    OO    | 8614
+|     OO   | 8613
+|      BBBB| 8612
+|    GGG   | 8611
+|  VVG GGGG| 8610
+|  VV  YY  | 8609
+|   OO  YY | 8608
+|BBBOO   OO| 8607
+| B  OO  OO| 8606
+|VVV  OORRR| 8605
+| V  VV  R | 8604
+| RRRRVVRRR| 8603
+|YYY GGGR  | 8602
+|YBBB G GGG| 8601
+|  BRRRRG  | 8600
+|     GGG  | 8599
+|     GGG  | 8598
+|       GG | 8597
+|       BB | 8596
+|        BB| 8595
+|    OO BBB| 8594
+|     OO B | 8593
+|   GGGYYY | 8592
+|    GGGY  | 8591
+|     GG   | 8590
+|      OOOO| 8589
+|       RRR| 8588
+|       R  | 8587
+| VV    OO | 8586
+| VV     OO| 8585
+|  VV   GGG| 8584
+|   VV  G  | 8583
+|  OOO  BBB| 8582
+|   O   B  | 8581
+|  GGG YY  | 8580
+|  G   YY  | 8579
+| RRR RRRR | 8578
+| R    RRRR| 8577
+| OOO   YYY| 8576
+| O     Y  | 8575
+|BB     YYY| 8574
+|BB     Y  | 8573
+|GG    RRR | 8572
+| GG    R  | 8571
+| VVVV VV  | 8570
+|  GGG VV  | 8569
+|  GOOO RR | 8568
+|VVV O   RR| 8567
+|VYYYY   BB| 8566
+|    OOO BB| 8565
+|    O RRR | 8564
+|      RGGG| 8563
+| OOO    G | 8562
+| O BBBBRRR| 8561
+|   GGGVVR | 8560
+|  YYG  VV | 8559
+|   YY OOO | 8558
+|  OOOO O  | 8557
+|  GGG GGG | 8556
+|  G    G  | 8555
+|  BBB  RR | 8554
+|   B    RR| 8553
+|  VVV  GG | 8552
+|   VVV  GG| 8551
+|     VV VV| 8550
+|    YYY VV| 8549
+|RRR  YVVVV| 8548
+| RVVV   OO| 8547
+|  V YY  OO| 8546
+|RRRRYY BBB| 8545
+|OOO  BBBB | 8544
+|OGG   BVV | 8543
+|  GGRR VV | 8542
+|YYYY RR YY| 8541
+|   YYY  YY| 8540
+|    Y  RR | 8539
+|BB RRR  RR| 8538
+|BB  R OOOO| 8537
+|  OOOOYYY | 8536
+|   OO  Y  | 8535
+|VVVV   OOO| 8534
+|   GG   O | 8533
+|    GG RRR| 8532
+|   VV  R  | 8531
+|    VV BB | 8530
+|     GGGBB| 8529
+|YYY   G   | 8528
+|YGGYYYY   | 8527
+|  GG      | 8526
+|  VVVV BB | 8525
+|    GGGGBB| 8524
+|       RR | 8523
+|       RR | 8522
+|       VV | 8521
+|       VV | 8520
+|        GG| 8519
+|        GG| 8518
+|    GGGOO | 8517
+|    G OOOO| 8516
+|       OO | 8515
+|     YYY  | 8514
+|      Y   | 8513
+|     OOO  | 8512
+|    GGO   | 8511
+|     GGYY | 8510
+|    BB  YY| 8509
+|    BBGGGG| 8508
+|     VVV  | 8507
+|     V    | 8506
+|    RRRR  | 8505
+|      OOOO| 8504
+|       RR | 8503
+|        RR| 8502
+|       RRR| 8501
+|       R  | 8500
+|RR     RRR| 8499
+|RR RRR  R | 8498
+| GGGR  VVV| 8497
+|  GOOO  V | 8496
+| RRO  OOOO| 8495
+|  RR  BBBB| 8494
+| YYYY VVV | 8493
+|  OO  V GG| 8492
+|   OO   GG| 8491
+| GGG    OO| 8490
+|  G     OO| 8489
+| YYOO VVV | 8488
+|  YYOO V  | 8487
+|RRRR  GG  | 8486
+|GG     GG | 8485
+| GGOOOGGGG| 8484
+| BBBO  VVV| 8483
+| B  GGG V | 8482
+| GG G RRRR| 8481
+|  GGYYY   | 8480
+|RRR  YBBBB| 8479
+|R VVV OO  | 8478
+|  V    OO | 8477
+|  OO   VV | 8476
+|   OO   VV| 8475
+|    VV RRR| 8474
+|     VVR  | 8473
+|      RR  | 8472
+|      RR  | 8471
+|      VVVV| 8470
+|     RR   | 8469
+|      RR  | 8468
+|     YY   | 8467
+|      YY  | 8466
+|  BB VV   | 8465
+|  BB  VV  | 8464
+| YY    BB | 8463
+|  YY    BB| 8462
+|  BBB  BBB| 8461
+|   B    B | 8460
+|RRRR  YYYY| 8459
+|RR RR  GGG| 8458
+| GGG   G  | 8457
+| G     VV | 8456
+| VV     VV| 8455
+|  VV   OOO| 8454
+| BB    O  | 8453
+| BB    RRR| 8452
+|  BBB   R | 8451
+|   B  OOO | 8450
+| OOO BBO  | 8449
+|  OBBBBB  | 8448
+|BBBB      | 8447
+|BGGOOOO   | 8446
+|  GG      | 8445
+|   GG     | 8444
+|    GG GGG| 8443
+|  OOO  G  | 8442
+|   O   VV | 8441
+| OOO  YYVV| 8440
+|  OOOO YY | 8439
+|   O   OO | 8438
+|  YY    OO| 8437
+|  YY    RR| 8436
+|   BBB  RR| 8435
+|   BVV RRR| 8434
+|    VV R  | 8433
+|     VVOOO| 8432
+|     VVO  | 8431
+| VVYYY RRR| 8430
+|  VVY  R  | 8429
+| YYYY RRRR| 8428
+|   GGG GG | 8427
+|    GYYYGG| 8426
+|     Y    | 8425
+|     OO   | 8424
+|     OO   | 8423
+|      GG  | 8422
+|      GG  | 8421
+|  BBB  OOO| 8420
+|  B    O  | 8419
+| OOOO GG  | 8418
+| OOO   GG | 8417
+| ORRRGGG  | 8416
+|   R  G   | 8415
+|   BBGG   | 8414
+|   BBGG   | 8413
+|   VVYY   | 8412
+|   VVYY   | 8411
+|    RRRR  | 8410
+|      BBBB| 8409
+|        VV| 8408
+|        VV| 8407
+|       GGG| 8406
+|       G  | 8405
+|       RRR| 8404
+|       R  | 8403
+|       VVV| 8402
+|       V  | 8401
+|      VV  | 8400
+|      VV  | 8399
+|       RR | 8398
+|        RR| 8397
+|       RRR| 8396
+|       R  | 8395
+|      RRRR| 8394
+|      RRRR| 8393
+| RR    GG | 8392
+|  RR  BBGG| 8391
+|VVVV   BB | 8390
+|   RRRYYY | 8389
+|   R  Y   | 8388
+| GGRR YYY | 8387
+| GGRR  Y  | 8386
+| GGGG GGGG| 8385
+|    RR OOO| 8384
+|    RR  O | 8383
+|     BBBB | 8382
+| OOO VV   | 8381
+| ORRR VV  | 8380
+|  R YYY   | 8379
+|OOO YRRR  | 8378
+|OOOO R    | 8377
+|  OOOOO   | 8376
+|    OOO   | 8375
+|     O    | 8374
+|    YYY YY| 8373
+|    Y GGYY| 8372
+|       GG | 8371
+|       RR | 8370
+|       RR | 8369
+|       RR | 8368
+|     YYYRR| 8367
+|     Y GGG| 8366
+|  YYY  G  | 8365
+|  YVV YYY | 8364
+|   VV Y   | 8363
+|   GGGG   | 8362
+|    BB    | 8361
+|   YYBB   | 8360
+|    YY    | 8359
+|   RRRR   | 8358
+|      OOOO| 8357
+|      VV  | 8356
+|       VV | 8355
+|       VVV| 8354
+|       VOO| 8353
+|        OO| 8352
+| BB  RRRR | 8351
+|  BB  RRR | 8350
+|   YYYRYYY| 8349
+|    Y   Y | 8348
+|    BBBYYY| 8347
+|    BVVVY | 8346
+|     V    | 8345
+|     YY   | 8344
+|     YY   | 8343
+|OOOO  GG  | 8342
+| OOOO GG  | 8341
+|    BBB   | 8340
+|    B VVVV| 8339
+| VV    VVV| 8338
+| VV     V | 8337
+|  OO   VV | 8336
+|  OO   VV | 8335
+|VVVV   GG | 8334
+| VV    GG | 8333
+|  VV   YY | 8332
+|   BBBB YY| 8331
+|      VVVV| 8330
+|       OOO| 8329
+|       O  | 8328
+|       YY | 8327
+|    VV  YY| 8326
+|    VV  BB| 8325
+|   GGG  BB| 8324
+|RRRRG BBB | 8323
+|   YYYB   | 8322
+|   YVVVV  | 8321
+|       BB | 8320
+|        BB| 8319
+|      RRRR| 8318
+|     OO   | 8317
+|      OO  | 8316
+|  GG RRRR | 8315
+|   GGRR   | 8314
+|  VVVRR   | 8313
+|  VVVVV   | 8312
+|      OOOO| 8311
+|       VVV| 8310
+|        V | 8309
+|     BB VV| 8308
+|   RRRBBVV| 8307
+|   RRRRYY | 8306
+|    R  YY | 8305
+|    YYYOO | 8304
+|    Y   OO| 8303
+|    OOOGG | 8302
+|    O   GG| 8301
+| VVBBBBRRR| 8300
+|  VVVVVVR | 8299
+|  VVV OOO | 8298
+|   VGGO   | 8297
+|     GG   | 8296
+|      BB  | 8295
+|  BBBB BB | 8294
+|  BBBB VVV| 8293
+|  GGG  V  | 8292
+| BBG   RR | 8291
+| BB   RRRR| 8290
+|  YYY RR  | 8289
+| BBY  BBB | 8288
+| BB YYB   | 8287
+|  OOOYY   | 8286
+|  OYY     | 8285
+|   YY     | 8284
+|   GGG    | 8283
+|   G RRRRR| 8282
+|     RRR  | 8281
+|   YYY RRR| 8280
+|   Y OOOR | 8279
+|      O BB| 8278
+|     BBBBB| 8277
+|     B OOO| 8276
+|        O | 8275
+|     YYYY | 8274
+|     RRR  | 8273
+|   BB R   | 8272
+| BBBB BBBB| 8271
+|  BB  GGGG| 8270
+|   OOOO   | 8269
+|    BB    | 8268
+|     BB   | 8267
+|  OOYYY   | 8266
+|  OOY  BB | 8265
+|  BBBOO BB| 8264
+|  B  OOYY | 8263
+|  YY VVVYY| 8262
+|   YYV    | 8261
+|    YY    | 8260
+|     YY   | 8259
+|     OO   | 8258
+|     OO   | 8257
+|    YYY   | 8256
+|     YOO  | 8255
+|BB     OO | 8254
+| BB  GGG  | 8253
+|  BB G    | 8252
+|  BB GGG  | 8251
+|  RRR G   | 8250
+|  R VVV   | 8249
+|    VYYY  | 8248
+|YYY   Y   | 8247
+| Y   BBBGG| 8246
+| OO   B GG| 8245
+| OOGG VVVV| 8244
+|BBBGGOOO  | 8243
+|BYYY ORRR | 8242
+|  YRR  R  | 8241
+|    RR GGG| 8240
+|  OO GGGG | 8239
+|   OOGVVVV| 8238
+|   BB GG  | 8237
+|    BBGG  | 8236
+|YYYY OO   | 8235
+| BBB OO   | 8234
+|  B YY    | 8233
+|VVV  YY   | 8232
+| V    BBBB| 8231
+| YYYYY VV | 8230
+|  Y YY  VV| 8229
+| BBB RRRR | 8228
+|  B   RRRR| 8227
+| YYYY  VV | 8226
+|YYY    VV | 8225
+| Y  RR  BB| 8224
+|VVV RR  BB| 8223
+| VGGG VVV | 8222
+|   GBBBV  | 8221
+|    B     | 8220
+|   RRR    | 8219
+|   RVV    | 8218
+|   VVVV   | 8217
+|    VV    | 8216
+|    GGG   | 8215
+|GGGG G  GG| 8214
+|   OOOO GG| 8213
+|     VVYY | 8212
+|     VV YY| 8211
+|    VV OOO| 8210
+|    VV OGG| 8209
+|   GG   GG| 8208
+|   GG OOOO| 8207
+|    VVVV  | 8206
+|   RRRR   | 8205
+|      VVV | 8204
+|      V   | 8203
+|RRR   OOO | 8202
+|R YYY  O  | 8201
+|OOY   RRRR| 8200
+|OORRR   RR| 8199
+|RRR     RR| 8198
+| RR    VVV| 8197
+|BB      V | 8196
+| BB    YYY| 8195
+| GGG   Y  | 8194
+|  G    YYY| 8193
+| VVV   YBB| 8192
+|BBV     BB| 8191
+|BB      YY| 8190
+| BB VV  YY| 8189
+|  BB VVRRR| 8188
+|  YYGGGR  | 8187
+|  YYG VV  | 8186
+|RRRYYYVV  | 8185
+| R Y  OOO | 8184
+|BBBB   O  | 8183
+|YYY    RRR| 8182
+| YOOOO R  | 8181
+|     YYY  | 8180
+|     Y RR | 8179
+|        RR| 8178
+|      OOOO| 8177
+|        GG| 8176
+|        GG| 8175
+|    VV  YY| 8174
+|     VV YY| 8173
+|      OOOO| 8172
+|VVV     GG| 8171
+| V      GG| 8170
+|YY     YY | 8169
+| YY     YY| 8168
+| GG    GGG| 8167
+| GG     G | 8166
+|  RR   GG | 8165
+|   RR   GG| 8164
+|  RRR  OOO| 8163
+|GGRRRR OVV| 8162
+| GGRVVV VV| 8161
+|VVVVV RRRR| 8160
+|OOOO BBBB | 8159
+| GGGBB    | 8158
+| G   BB   | 8157
+|YY    YYYY| 8156
+| YY   GG  | 8155
+| OO   GG  | 8154
+| OO  OO   | 8153
+|VV    OO  | 8152
+|VV     VVV| 8151
+|VV  OO V  | 8150
+| VV OOGG  | 8149
+| GGG VVGG | 8148
+| G    VV  | 8147
+|GGGRRRGGG | 8146
+|G   R  G  | 8145
+|RRRROOOO  | 8144
+|  OOOOYYYY| 8143
+|     VVV  | 8142
+|  GGGV    | 8141
+|   GYYYY  | 8140
+|      BBBB| 8139
+|        BB| 8138
+|   OOO  BB| 8137
+|RRRO  VVV | 8136
+|RRRR  V   | 8135
+|  R GGRRRR| 8134
+|  VVVGG   | 8133
+| BBV    VV| 8132
+|  BB    VV| 8131
+|  VV OOYYY| 8130
+|   VVOOYVV| 8129
+|    YY  VV| 8128
+|   YYY OO | 8127
+|  OOY   OO| 8126
+|  OO  VVV | 8125
+|  GGGGV   | 8124
+|  GGGGRRR | 8123
+|  GG  R   | 8122
+|   GG BBB | 8121
+| OOOOGGB  | 8120
+|   VVVGG  | 8119
+|    V     | 8118
+|    YY    | 8117
+|    YY RRR| 8116
+|   GG   R | 8115
+|    GGYYYY| 8114
+|   RRRRBB | 8113
+|      YYBB| 8112
+|      YY  | 8111
+|       GG | 8110
+|        GG| 8109
+|   VVV OO | 8108
+|   V YY OO| 8107
+|GGG  YYYY | 8106
+| G    BBYY| 8105
+|YYY    BB | 8104
+| YGG   BB | 8103
+| YYGG   BB| 8102
+| YY VV OO | 8101
+|  RRVV  OO| 8100
+|   RR   RR| 8099
+| VVV    RR| 8098
+|  V    GGG| 8097
+| VV     G | 8096
+| VV    BBB| 8095
+|RR     B  | 8094
+|RR    YYYY| 8093
+| RR    OOO| 8092
+|  RR   O  | 8091
+|YYY    YY | 8090
+|Y RR    YY| 8089
+|  RR  OOO | 8088
+| BB   O   | 8087
+| BB  RRR  | 8086
+| RR OOR   | 8085
+|  RROOGG  | 8084
+|   YYYYGG | 8083
+|   RRRYYY | 8082
+|    R  Y  | 8081
+| RRRR OOOO| 8080
+| YY OOO   | 8079
+|  YY O    | 8078
+|  OOOORRRR| 8077
+| RR BBB   | 8076
+|  RR B    | 8075
+| BBB GGGG | 8074
+| B OOOO   | 8073
+|     BBB  | 8072
+|     B    | 8071
+|   BBBB   | 8070
+|      GG  | 8069
+|      GG  | 8068
+|     YYY  | 8067
+|      Y   | 8066
+|    RRRR  | 8065
+|    VVVRR | 8064
+|    V OORR| 8063
+|      OO  | 8062
+|      BB  | 8061
+|      BB  | 8060
+|       RR | 8059
+|     RRRRR| 8058
+|     R    | 8057
+| YY  VVV  | 8056
+| YY  VOO  | 8055
+|BB     OO | 8054
+| BB  OOO  | 8053
+|  OOO O   | 8052
+|  O VVV   | 8051
+|     V    | 8050
+|    VV    | 8049
+|     VV   | 8048
+|     YYYY | 8047
+| VV   YYYY| 8046
+|YY   RR   | 8045
+| OOORRRR  | 8044
+| O    RRR | 8043
+| GGG   RGG| 8042
+|  G     GG| 8041
+| YYY VVVV | 8040
+|  Y  VV VV| 8039
+| VVV GGGG | 8038
+| V YYYY   | 8037
+|  GGG     | 8036
+|   G      | 8035
+|  OOO     | 8034
+|  O BB YYY| 8033
+|     BBY  | 8032
+|      OO  | 8031
+| GGGG OO  | 8030
+|   YYYY   | 8029
+| GGG      | 8028
+|  G       | 8027
+|  YYY     | 8026
+|   Y      | 8025
+|  GG      | 8024
+|   GG   RR| 8023
+|   BB   RR| 8022
+|YYY BB GGG| 8021
+| Y GGG  G | 8020
+| BBG   RR | 8019
+|  BB    RR| 8018
+|   YY  GGG| 8017
+|GGG YY G  | 8016
+| G VV  BBB| 8015
+|VVVVVV  B | 8014
+| RR   OOO | 8013
+| RR OOOO  | 8012
+|OOO  OVVVV| 8011
+| OGGGG BBB| 8010
+|     RRRB | 8009
+|      R   | 8008
+|   YYYY   | 8007
+|     YY   | 8006
+|      YY  | 8005
+|       VVV| 8004
+|       V  | 8003
+|      OOOO| 8002
+|     BB   | 8001
+|     BBVV | 8000
+|     GG VV| 7999
+|      GGVV| 7998
+|      VVVV| 7997
+|   OOOOVV | 7996
+|      BBB | 7995
+|      B   | 7994
+|     BB   | 7993
+|     BB   | 7992
+|      RR  | 7991
+|      RR  | 7990
+|    GGG   | 7989
+|  YYG  VV | 7988
+|   YY   VV| 7987
+|   OOO BBB| 7986
+|   O   B  | 7985
+|  BB   OO | 7984
+|  BB    OO| 7983
+|  RRRRYYY | 7982
+|    VV Y  | 7981
+|    VVGGGG| 7980
+|     GGRR | 7979
+|    VVGGRR| 7978
+|   VVVVVVV| 7977
+|   VV  V  | 7976
+|BB  VVVV  | 7975
+| BB    OOO| 7974
+|RRR     O | 7973
+| R     VVV| 7972
+|OO YY  V  | 7971
+|OO YYGGG  | 7970
+| YYYYG    | 7969
+|    GG    | 7968
+|  GG GGVV | 7967
+|  GGYYYYVV| 7966
+| VVVGGBB  | 7965
+|  V GGBB  | 7964
+|  OOOOVV  | 7963
+|    VVVVV | 7962
+|    V     | 7961
+|    OO RRR| 7960
+|GGG  OOR  | 7959
+| GOOOO VVV| 7958
+|  OOOO  V | 7957
+|OOOO  VVVV| 7956
+|  GG  GGGG| 7955
+| GGGG BBBB| 7954
+| GG  GGGG | 7953
+|VV     RRR| 7952
+|VV     R  | 7951
+|GG     BBB| 7950
+|GGVV   B  | 7949
+|RRRVV RRRR| 7948
+|RRRR  GGG | 7947
+| R    G   | 7946
+|BBB  GG   | 7945
+|B YYY GG  | 7944
+|  Y    GGG| 7943
+| OOO   GRR| 7942
+|  O     RR| 7941
+| RR     RR| 7940
+| RR     RR| 7939
+| RRRR VVVV| 7938
+|    VVV   | 7937
+|    V  GG | 7936
+|    RRVVGG| 7935
+|    RRVV  | 7934
+|    OOO   | 7933
+|    OYYY  | 7932
+|     YOOO | 7931
+|       O  | 7930
+|      VV  | 7929
+|       VV | 7928
+|       OOO| 7927
+|       O  | 7926
+|   BBBBBBB| 7925
+|    BYY   | 7924
+|      YY  | 7923
+|     YY   | 7922
+| YY   YY  | 7921
+| YY    YY | 7920
+|RR    BBYY| 7919
+|RRYYY  BB | 7918
+| YYY  VVVV| 7917
+| YY  OOO  | 7916
+|  VVVVOVVV| 7915
+|   GGGG V | 7914
+|      VVVV| 7913
+|       BBB| 7912
+|       B  | 7911
+|       RRR| 7910
+|  VVVV R  | 7909
+|     RRYY | 7908
+|  OO RRYY | 7907
+|   OO GGGG| 7906
+|   GGGG   | 7905
+|     VVV  | 7904
+|     V BB | 7903
+|        BB| 7902
+|YYY    GG | 7901
+|Y YYY   GG| 7900
+|BBBY   OOO| 7899
+|BGGG   O  | 7898
+|  G    OOO| 7897
+|YYYY   O  | 7896
+|  OO   VVV| 7895
+|  OOGGGGV | 7894
+| RRRR     | 7893
+|RRR     YY| 7892
+| R      YY| 7891
+|OOOO   YYY| 7890
+| YY    Y  | 7889
+| YY  YYGG | 7888
+|  RR  YYGG| 7887
+|   RR  RR | 7886
+|OOOO   RR | 7885
+|   BBBOOOO| 7884
+|   B GGG  | 7883
+| YYY GVV  | 7882
+|  Y    VV | 7881
+| YYY  BBBB| 7880
+| Y BBB BBB| 7879
+|   B   B  | 7878
+| OOOO  YYY| 7877
+|VV     Y  | 7876
+| VV   GG  | 7875
+|  RRR GG  | 7874
+|   R   YYY| 7873
+|   GGG Y  | 7872
+|    G  RR | 7871
+|   VVVV RR| 7870
+|VVV  BBOO | 7869
+| V    BBOO| 7868
+| RRR   OO | 7867
+|  R     OO| 7866
+| VVVV  VV | 7865
+|    YY  VV| 7864
+|     YYGG | 7863
+|   GGGG GG| 7862
+|      RRR | 7861
+|      R OO| 7860
+|        OO| 7859
+|      VVVV| 7858
+|       OO | 7857
+|        OO| 7856
+|      RRR | 7855
+|       R  | 7854
+|       RR | 7853
+|       RR | 7852
+|     BBB  | 7851
+|     B    | 7850
+| YY  BB   | 7849
+|  YY BB   | 7848
+|  BBBRROO | 7847
+|  B  RROO | 7846
+|  BBBVVV  | 7845
+|   B  V   | 7844
+|  VVVYYY  | 7843
+|  VVVYVV  | 7842
+|    VV VV | 7841
+|   YYY OO | 7840
+|   Y BBOO | 7839
+|      BB  | 7838
+|GG     YY | 7837
+| GG   RRYY| 7836
+| OOOO  RR | 7835
+| OOOO OO  | 7834
+| GGG  OO  | 7833
+|  G    YY | 7832
+|  GGBBBBYY| 7831
+|  GGGG    | 7830
+|   RRGG   | 7829
+|   RR     | 7828
+|  OOO     | 7827
+|  O       | 7826
+| OOOOO    | 7825
+| O BBOO   | 7824
+| BBBBB    | 7823
+|  B    GGG| 7822
+| YY    G  | 7821
+| YY  RRYYY| 7820
+|  VVVRRY  | 7819
+|   V  RRRR| 7818
+|   YY BBBB| 7817
+|    YY RRR| 7816
+|   RR   R | 7815
+|    RR GG | 7814
+|VVVVVV  GG| 7813
+| V V  YYY | 7812
+|OOOOOYYY  | 7811
+|O  OOYYRRR| 7810
+|VV  OOO R | 7809
+| VV O OOOO| 7808
+| GG   GGGG| 7807
+|  GG   OO | 7806
+|   GG   OO| 7805
+|    GGOOOO| 7804
+|    VV  VV| 7803
+|    VV  VV| 7802
+|     YYYY | 7801
+|       GGG| 7800
+|  VV   G  | 7799
+|   VVOOOO | 7798
+|   VVVV   | 7797
+|GGGYY GGGG| 7796
+| G YY  GGG| 7795
+| OOO    G | 7794
+|  O    GGG| 7793
+|  BB   G  | 7792
+|  BB   OO | 7791
+|   VV   OO| 7790
+| OO VVBBBB| 7789
+| OO OOBBBB| 7788
+|  YY OO   | 7787
+|   YY GGG | 7786
+|   RR G   | 7785
+|    RRVVVV| 7784
+|    RRR   | 7783
+|OOOOR     | 7782
+| VVVV     | 7781
+|    YY    | 7780
+|    YY YY | 7779
+|     YYYYY| 7778
+|     Y VVV| 7777
+|        V | 7776
+|BBB   YYY | 7775
+|B     Y   | 7774
+|OOO  OOO  | 7773
+| O   O    | 7772
+|BB GGOOBBB| 7771
+|BB GGOO B | 7770
+| RRR  GGGG| 7769
+|  R  VVV  | 7768
+| BBB V    | 7767
+| B YYYYVV | 7766
+|    YYYYVV| 7765
+|     BB   | 7764
+|      BB  | 7763
+|      OO  | 7762
+|      OO  | 7761
+|     RRR  | 7760
+|     R    | 7759
+|     YYY  | 7758
+|      Y   | 7757
+|      GG  | 7756
+|       GG | 7755
+|     BBB  | 7754
+|     B YYY| 7753
+|  GGGYYY  | 7752
+|   G  YY  | 7751
+| VVV GGGYY| 7750
+| V    G YY| 7749
+| RRRR VVV | 7748
+|BB    VYYY| 7747
+| BB    Y  | 7746
+| YY   GGGG| 7745
+|  YY   GGG| 7744
+| VVV VVVG | 7743
+|  V   VGGG| 7742
+|VVV    G  | 7741
+|V      VVV| 7740
+|YYY    V  | 7739
+|Y      OO | 7738
+|YY GGG  OO| 7737
+|YY  G YYYY| 7736
+|RRROOO RRR| 7735
+| R  OGGR  | 7734
+|RRRR  GG  | 7733
+|OO  YYY   | 7732
+| OO Y     | 7731
+|  RRR     | 7730
+|  R       | 7729
+| OOOO     | 7728
+|    GGG   | 7727
+|     G    | 7726
+|  OOOO YY | 7725
+|     RRRYY| 7724
+|     R    | 7723
+|    OOO   | 7722
+|     O    | 7721
+|    RR    | 7720
+|     RROO | 7719
+|   VVV OO | 7718
+|    V  GGG| 7717
+|    RRRG  | 7716
+|    R  BBB| 7715
+|    OOOOB | 7714
+|       BB | 7713
+|       BB | 7712
+|      OOOO| 7711
+|     RRRR | 7710
+|    GGGBB | 7709
+|    G VVBB| 7708
+|       VV | 7707
+|       VVV| 7706
+|     GGV  | 7705
+|      GG  | 7704
+| BBB   RR | 7703
+|  B    RR | 7702
+| VVV    GG| 7701
+|  V     GG| 7700
+|  YY   OO | 7699
+| GGYYVV OO| 7698
+|  GG VVVVV| 7697
+|   OOOO V | 7696
+|      BBBB| 7695
+|      OOOO| 7694
+|       OOO| 7693
+|   BB   O | 7692
+|   BB  GGG| 7691
+|  YYY  G  | 7690
+|   YOO RR | 7689
+|     OORR | 7688
+|      RRR | 7687
+|       R  | 7686
+|      OO  | 7685
+|       OO | 7684
+|       OO | 7683
+|        OO| 7682
+|       RRR| 7681
+|   GG  R  | 7680
+|   GG  GGG| 7679
+|   OO   G | 7678
+|   OO  BB | 7677
+|BB  VVVVBB| 7676
+|BB RRRR   | 7675
+| BB YYY   | 7674
+| BB  Y    | 7673
+|  BBBB    | 7672
+|RRRR      | 7671
+|  YYY     | 7670
+| GGY      | 7669
+| GG  RRR  | 7668
+|  RRRRR   | 7667
+|YYY       | 7666
+| Y        | 7665
+|RR        | 7664
+| RR       | 7663
+| BB       | 7662
+| BB    OOO| 7661
+|OOOOOO  O | 7660
+| OO   GGGG| 7659
+|  YYOOOO  | 7658
+|   YY     | 7657
+|  RRRR    | 7656
+|    RRR   | 7655
+|    RYYY  | 7654
+|      Y   | 7653
+|  YY GG   | 7652
+|  YY GG   | 7651
+|  YY  GGGG| 7650
+|   YY  BB | 7649
+|VVVV   BB | 7648
+|   BBBBRRR| 7647
+|     YYYR | 7646
+|  OO Y OO | 7645
+|  OO   OO | 7644
+|   RRGGG  | 7643
+|    RRG   | 7642
+|    VVV   | 7641
+| OO VVV   | 7640
+|  OO VVBBB| 7639
+|  BBB RRB | 7638
+|   B   RR | 7637
+|  YY    BB| 7636
+|   YY   BB| 7635
+|    OOOOO | 7634
+|    OO O  | 7633
+|    GGRR  | 7632
+|     GGRR | 7631
+|    YY  OO| 7630
+|     YY OO| 7629
+|     BB BB| 7628
+| VVV  BBBB| 7627
+| VGG  RRRR| 7626
+|  GG   BBB| 7625
+|  RRR   B | 7624
+|  R   VVVV| 7623
+|  GG  VVVV| 7622
+|  GGVVV   | 7621
+|VVVVV     | 7620
+|   VVV    | 7619
+|    VVVV  | 7618
+|      VGG | 7617
+|        GG| 7616
+|      BBB | 7615
+|       B  | 7614
+|  BBBB GG | 7613
+|  RRR GGGG| 7612
+|  R   GG  | 7611
+|  BBB  GGG| 7610
+|  B     G | 7609
+|OOO   VVVV| 7608
+| ORRR   BB| 7607
+|  R     BB| 7606
+|  YYYY  YY| 7605
+|    VVV YY| 7604
+|     VGGGG| 7603
+|      OOOO| 7602
+|      YY  | 7601
+|       YY | 7600
+|      OO  | 7599
+|      OO  | 7598
+|VV  VVV BB| 7597
+| VV  V  BB| 7596
+|  YYYYBBB | 7595
+|  BBBB B  | 7594
+|     YYY  | 7593
+|  RRR Y   | 7592
+|   RRRR   | 7591
+|     R    | 7590
+|  OO OOO  | 7589
+|  OO  O   | 7588
+|YYOO OOOO | 7587
+|YY OO BBBB| 7586
+| VVVV  RRR| 7585
+|    RRRR  | 7584
+|     ROOO | 7583
+|       O  | 7582
+|   BB  RRR| 7581
+|GGGBB  R  | 7580
+|GVVVV  BB | 7579
+|    BB  BB| 7578
+|     BB OO| 7577
+| BBBBBB OO| 7576
+|  GGG BBVV| 7575
+|   G VVVVV| 7574
+|   OOOVOO | 7573
+|   OOOOOOO| 7572
+| GG  BB OO| 7571
+| GG  BB OO| 7570
+|GGG   RRRR| 7569
+|G  YYY BB | 7568
+|VVV Y  BB | 7567
+| VBBBB YY | 7566
+|   YYYY YY| 7565
+|     GGVV | 7564
+|      GGVV| 7563
+|       RR | 7562
+|        RR| 7561
+|      RRBB| 7560
+|      RRBB| 7559
+|      YYY | 7558
+|      Y   | 7557
+|     BBB  | 7556
+|      B   | 7555
+|      RR  | 7554
+|      RR  | 7553
+|       BB | 7552
+|       BB | 7551
+|       OOO| 7550
+|GG     O  | 7549
+|GG     GG | 7548
+|GGGG   GG | 7547
+|VVVV   VV | 7546
+| VVVV   VV| 7545
+| RRRR  VVV| 7544
+| BBRRRR V | 7543
+| BB   OOO | 7542
+|GG     O  | 7541
+|GG   VVVV | 7540
+| YYYY  GG | 7539
+|   OO   GG| 7538
+|    OOOOOO| 7537
+|    RRRRRR| 7536
+|     R R  | 7535
+|GGGGGG VVV| 7534
+| G  G   V | 7533
+| YY BBRRR | 7532
+| YY BB R  | 7531
+|BBB  RRRR | 7530
+| BOOBBBB  | 7529
+| GGOO     | 7528
+| GG       | 7527
+| YYYY     | 7526
+| BB       | 7525
+| BB    GG | 7524
+| OO    GG | 7523
+| OO     VV| 7522
+| RRYYY  VV| 7521
+| RRY   OO | 7520
+|  YY    OO| 7519
+|   YY RRR | 7518
+|  GG   R  | 7517
+|   GG VVV | 7516
+| OOOO  V  | 7515
+|    OOOBB | 7514
+|    OOOOBB| 7513
+|     OOOOO| 7512
+|      GGGG| 7511
+|       VVV| 7510
+|        V | 7509
+|       VV | 7508
+|      OOVV| 7507
+|       OO | 7506
+|     YYYY | 7505
+|    YYY   | 7504
+|BB  Y YYYY| 7503
+|BB     BBB| 7502
+| YY    B  | 7501
+|  YY RRBB | 7500
+| VV  RR BB| 7499
+|  VV  RRRR| 7498
+|   OOBBB  | 7497
+|   OO B   | 7496
+|RR GG GGGG| 7495
+|RR GG OOOO| 7494
+| YYYY   OO| 7493
+|    OO  OO| 7492
+|     OOBBB| 7491
+|      YYB | 7490
+| BBBB YY  | 7489
+|  VVV BB  | 7488
+|   VOOBB  | 7487
+|     OO BB| 7486
+|     YY BB| 7485
+|     YYBBB| 7484
+|     YYYB | 7483
+|YYY   Y   | 7482
+| YGG  BBB | 7481
+|  GG  BGGG| 7480
+|   YYYYG  | 7479
+|      VV  | 7478
+|       VV | 7477
+|       BB | 7476
+|        BB| 7475
+|      YYYY| 7474
+|VVVV   BB | 7473
+|YYYY   BB | 7472
+|   OO  VV | 7471
+|    OO  VV| 7470
+|YY   VV GG| 7469
+| YY   VVGG| 7468
+| RRR   OO | 7467
+|  RYYYY OO| 7466
+|      YYYY| 7465
+|        RR| 7464
+|        RR| 7463
+|      RRR | 7462
+|       R  | 7461
+|       VVV| 7460
+|       V  | 7459
+|       RR | 7458
+|      BBRR| 7457
+|OO     BB | 7456
+| OO    VVV| 7455
+|BBB    V  | 7454
+| B     BB | 7453
+|GGG     BB| 7452
+|GVV    GG | 7451
+| VV     GG| 7450
+| GGG  GGG | 7449
+|  G    G  | 7448
+|  YYY  OOO| 7447
+|  Y VV O  | 7446
+|    VV RR | 7445
+|    VVVVRR| 7444
+|    YYYY  | 7443
+|     VV   | 7442
+|      VV  | 7441
+|   YYYY   | 7440
+|YYY   OOOO| 7439
+|YOOOO   BB| 7438
+| OO OO  BB| 7437
+|  RRR RRRR| 7436
+|  R     YY| 7435
+| RRR GG YY| 7434
+|  R  GGYY | 7433
+|GGGBB RRYY| 7432
+|GRRBB RR  | 7431
+|  RR RRR  | 7430
+|VVV  R    | 7429
+|V RRRR OOO| 7428
+|    GG  O | 7427
+|     GG BB| 7426
+|    YY  BB| 7425
+|    YY GG | 7424
+|   GGGG GG| 7423
+|     RRRR | 7422
+|       YYY| 7421
+|        Y | 7420
+|      VVVV| 7419
+|   OOO BBB| 7418
+|   O   B  | 7417
+| OOVV  RR | 7416
+| OOVV   RR| 7415
+|  GGG  OO | 7414
+|   G   OO | 7413
+|   OOO OO | 7412
+|   O RRROO| 7411
+|     RGG  | 7410
+| VV    GG | 7409
+|  VV   BBB| 7408
+| RR     B | 7407
+| RR    GG | 7406
+|  GGGG GG | 7405
+|     BBB  | 7404
+|     BVVVV| 7403
+|     OOO  | 7402
+|    YYO   | 7401
+|     YY   | 7400
+|    GGGVVV| 7399
+|     G V  | 7398
+|     BBB  | 7397
+|      B   | 7396
+|    OOO   | 7395
+| VVV O    | 7394
+| VBBBB  RR| 7393
+|   RRBB RR| 7392
+|   RRBB OO| 7391
+| OOBBB  OO| 7390
+| OO B OOO | 7389
+|  BBB O   | 7388
+|   BGGG   | 7387
+|    G     | 7386
+|    OORR  | 7385
+|     OORR | 7384
+|      VVVV| 7383
+|VVV    RRR| 7382
+| VBB   R  | 7381
+|  BB   RRR| 7380
+|  OOOBBR  | 7379
+|VVVO  BB  | 7378
+| VYYYY GG | 7377
+|   YYYY GG| 7376
+|  RR   BB | 7375
+|   RR  BB | 7374
+|    VVGG  | 7373
+|VVV VV GG | 7372
+| VGGGOOGGG| 7371
+|  G   OOG | 7370
+| VVV   YYY| 7369
+|  V     Y | 7368
+| OOO  BBBB| 7367
+| O    OOO | 7366
+|VVV   OYY | 7365
+| V      YY| 7364
+| OOO    OO| 7363
+| O      OO| 7362
+|GGG    RRR| 7361
+|G      R  | 7360
+|GG     OO | 7359
+| GG     OO| 7358
+| YY    RR | 7357
+| YYGG   RR| 7356
+| YYGG  OOO| 7355
+|  YY   O  | 7354
+| OOO   OO | 7353
+| O      OO| 7352
+| YYY  YYYY| 7351
+|  Y    OOO| 7350
+|  BB   O  | 7349
+|  BB  RRR | 7348
+|  YY   R  | 7347
+|  YY GGGG | 7346
+|BBB VV YYY| 7345
+| B   VVY  | 7344
+| YYY  YYYY| 7343
+|  Y GGG   | 7342
+| GG  G    | 7341
+| GG  RR   | 7340
+| GGGGRR   | 7339
+|  GGGG    | 7338
+|  GGGGVV  | 7337
+|  GGVVVVV | 7336
+|   GGV    | 7335
+|    OO    | 7334
+|     OO   | 7333
+|RR  RRR   | 7332
+| RR R  RRR| 7331
+|  VVVV  R | 7330
+|BBB   GGGG| 7329
+|B     OO  | 7328
+|BBB   OO  | 7327
+|B YYYY VVV| 7326
+|     OOV  | 7325
+|      OO  | 7324
+|       GG | 7323
+|        GG| 7322
+|        OO| 7321
+|     BB OO| 7320
+|     BBBBB| 7319
+|GG   GG B | 7318
+|GGGG GGRRR| 7317
+| OOGGBBBR | 7316
+|  OO  BOOO| 7315
+|  GG    O | 7314
+|   GGGGRRR| 7313
+|  BB GG R | 7312
+|  BB  OOOO| 7311
+| BBB   VVV| 7310
+| BGGGG  V | 7309
+|  BB   VV | 7308
+|   BB   VV| 7307
+|    OOOVV | 7306
+|     O  VV| 7305
+|   GGG GGG| 7304
+|  YYG   G | 7303
+|  YY   GG | 7302
+|   VVV GG | 7301
+|RRRV   VVV| 7300
+| RGGGG V  | 7299
+|    GGGGGG| 7298
+|     GGRR | 7297
+|      BBRR| 7296
+|       BB | 7295
+|      RRRR| 7294
+|       OOO| 7293
+|    YY  O | 7292
+|    YY RRR| 7291
+|     GGRRR| 7290
+|      GGRR| 7289
+|YYYY   GGG| 7288
+|GG  RRR G | 7287
+|GG  ROOYYY| 7286
+|BB   OO Y | 7285
+|BB    VVV | 7284
+|RR    VOO | 7283
+|RR      OO| 7282
+| GGG  VVVV| 7281
+| G BB BBBB| 7280
+|   BB  OO | 7279
+|  GGG   OO| 7278
+|  GGGG RR | 7277
+|   G   RR | 7276
+|   BBBBRR | 7275
+|   BB  RR | 7274
+|   BB YYY | 7273
+|   YYY Y  | 7272
+|    YRRR  | 7271
+|     R YY | 7270
+|     GGGYY| 7269
+|      G   | 7268
+|    RRR   | 7267
+|    R     | 7266
+|  VVV  VV | 7265
+|  V GGGGVV| 7264
+|  RRR     | 7263
+|  R       | 7262
+|  GG  BBB | 7261
+|   GG B   | 7260
+|   OOOVVVV| 7259
+|    O  BBB| 7258
+|    GGGB  | 7257
+|     GYYY | 7256
+|       YOO| 7255
+|        OO| 7254
+|      YYYY| 7253
+|      VVVV| 7252
+|     GG   | 7251
+|      GG  | 7250
+|       GGG| 7249
+|   BB   G | 7248
+|   BB OOOO| 7247
+|    VV VV | 7246
+|     VV VV| 7245
+|GGVV  GGGG| 7244
+|GGVV  BBB | 7243
+| YYY  BVVV| 7242
+|  Y     V | 7241
+|BBB   OOOO| 7240
+| B  GGG   | 7239
+|GGG  GVVV | 7238
+| G    V YY| 7237
+|YY      YY| 7236
+|YY   RRYY | 7235
+| RR   RRYY| 7234
+|  RR BBBB | 7233
+| GGG BBB  | 7232
+|  GRR BYYY| 7231
+|   RR  Y  | 7230
+|   BB  BBB| 7229
+|    BB  B | 7228
+| VVRRRRRR | 7227
+| VVR  ROOO| 7226
+|  BBB  O  | 7225
+|  B    GGG| 7224
+|  OOO   G | 7223
+|YYYO   YYY| 7222
+|YYY     Y | 7221
+|  YY   BB | 7220
+|VVVV    BB| 7219
+| VVVV YYYY| 7218
+|    RR BBB| 7217
+|    RRVVB | 7216
+|     VVVV | 7215
+|      VV  | 7214
+|       BBB| 7213
+|       B  | 7212
+|VVV   YYYY| 7211
+| V   RR   | 7210
+| GGG RR   | 7209
+| GYYYY    | 7208
+| RRR      | 7207
+| R VV     | 7206
+|    VV    | 7205
+|   OOO    | 7204
+|    O     | 7203
+|    VVV   | 7202
+|     V    | 7201
+|   RRRR   | 7200
+|      RRR | 7199
+|      ROOO| 7198
+|       O  | 7197
+|   RRROOOO| 7196
+|   R YY   | 7195
+|     YY   | 7194
+|     OOYYY| 7193
+|      OOY | 7192
+|       YYY| 7191
+|   GG  Y  | 7190
+|    GGOOOO| 7189
+|    GGG   | 7188
+|    G BBB | 7187
+|       B  | 7186
+|       OOO| 7185
+|       O  | 7184
+|       GG | 7183
+|        GG| 7182
+|VVV    YYY| 7181
+|V       Y | 7180
+|BB     GGG| 7179
+|BB     G  | 7178
+|RR     GGG| 7177
+|RR  GGGG  | 7176
+|OOO G  BBB| 7175
+|O OOGGGB  | 7174
+|  OO GGGGG| 7173
+|YYY   VVVV| 7172
+|YOO    BBB| 7171
+| OO    B  | 7170
+| GGOO  YY | 7169
+| GG OO  YY| 7168
+|  VVVVYYYY| 7167
+|YYY    RR | 7166
+| YVVBBBBRR| 7165
+|   VV     | 7164
+|    VV    | 7163
+|     VV   | 7162
+|    BBB   | 7161
+|    B     | 7160
+|    BBB   | 7159
+|  YYYB OOO| 7158
+|  Y     O | 7157
+|  BBB  RRR| 7156
+|   BYY R  | 7155
+|    YY VV | 7154
+|  BBBB  VV| 7153
+|     GGBB | 7152
+|     GG BB| 7151
+|      RRRR| 7150
+|      YYYY| 7149
+|       VVV| 7148
+|       V  | 7147
+|      GGGG| 7146
+|       VV | 7145
+|        VV| 7144
+|      YYY | 7143
+|       Y  | 7142
+|       BBB| 7141
+|GG      B | 7140
+|GG    RRR | 7139
+| OOO  R   | 7138
+| O    OOO | 7137
+|OOVVV O   | 7136
+|OO V  BBB | 7135
+| VVVV  B  | 7134
+| OOOO VVV | 7133
+| OOOO V   | 7132
+|VV BBBOO  | 7131
+| VV BVVOO | 7130
+|  BBBVV   | 7129
+|  B BBBB  | 7128
+|       YYY| 7127
+|       Y  | 7126
+|       VVV| 7125
+|     GGGV | 7124
+|     G GGG| 7123
+|       G  | 7122
+|      BBBB| 7121
+|        YY| 7120
+|        YY| 7119
+|        YY| 7118
+|        YY| 7117
+|      BBBB| 7116
+|       YYY| 7115
+|        Y | 7114
+|       YYY| 7113
+|OOO     Y | 7112
+| O RRR VVV| 7111
+| RRRR   V | 7110
+| R    OOOO| 7109
+|GGGG   YYY| 7108
+|GG GG   Y | 7107
+| VV OO BB | 7106
+| VV OO  BB| 7105
+| OOBBBB OO| 7104
+|  OO    OO| 7103
+|  RRR YYYY| 7102
+|  RYYYYYYY| 7101
+|   Y GGGG | 7100
+|    OOOO  | 7099
+|       OOO| 7098
+|       O  | 7097
+|       BB | 7096
+|        BB| 7095
+|      YYYY| 7094
+|      YYYY| 7093
+|       GGG| 7092
+|      RRG | 7091
+|OO    RR  | 7090
+| OO   OOOO| 7089
+|  RRRRVVVV| 7088
+|    YYY   | 7087
+|    Y     | 7086
+|    OOOO  | 7085
+| YY    BB | 7084
+|  YY BBBBB| 7083
+|   OO B   | 7082
+|   OOBBBB | 7081
+| YYYY BBB | 7080
+|   GG B   | 7079
+|    GGYYY | 7078
+|     VVY  | 7077
+|     VVGG | 7076
+|     GGGGG| 7075
+|      G   | 7074
+|      BBBB| 7073
+|       RR | 7072
+|      OORR| 7071
+|       OO | 7070
+|       GGG| 7069
+|       G  | 7068
+|      RRR | 7067
+|       R  | 7066
+|BBB    VV | 7065
+| B     VV | 7064
+| BBB   YYY| 7063
+|  B   BBY | 7062
+|  YY   BB | 7061
+|   YY  OOO| 7060
+| OOO   O  | 7059
+| O     YYY| 7058
+| GGG   Y  | 7057
+| G    RR  | 7056
+| GGGG RR  | 7055
+|  RRR RRR | 7054
+| YYR  RGGG| 7053
+|  YYYYY G | 7052
+|  YY YOOOO| 7051
+|GGYY   YY | 7050
+| GG     YY| 7049
+|BB     OOO| 7048
+| BB  GGGO | 7047
+|BBB   G   | 7046
+| B  VVVV  | 7045
+|OO BB     | 7044
+| OOBBVV   | 7043
+| VVV VV   | 7042
+| V  YY    | 7041
+|YYY YY    | 7040
+| YYYYY    | 7039
+|   VVV    | 7038
+|    V     | 7037
+|   OO  BBB| 7036
+|   OO   B | 7035
+|  BB  GGGG| 7034
+|   BB GGG | 7033
+|  OO   G  | 7032
+|  OO  VVVV| 7031
+|   BBB GGG| 7030
+|    BRRG  | 7029
+|     RRYY | 7028
+|      VVYY| 7027
+|   BB VV  | 7026
+|    BBOO  | 7025
+|  YYRR OO | 7024
+|  YYRR RRR| 7023
+|   GGG R  | 7022
+|VV  GOORR | 7021
+|VV   OO RR| 7020
+| VVV  OOO | 7019
+| V     O  | 7018
+| YY    GGG| 7017
+|  YY    G | 7016
+|  YYY   GG| 7015
+|  Y VVVVGG| 7014
+|       RRR| 7013
+|  RR   R  | 7012
+|   RR  YYY| 7011
+|  BBBB  Y | 7010
+|     GGGG | 7009
+|       BB | 7008
+|        BB| 7007
+|       GGG| 7006
+|  VV   GYY| 7005
+|  VV    YY| 7004
+| OOO    OO| 7003
+|  O     OO| 7002
+|  GGG  GG | 7001
+|  G VV  GG| 7000
+|    VV VVV| 6999
+|    YYY V | 6998
+|    Y BBB | 6997
+|       B  | 6996
+|      RR  | 6995
+| OOO  RR  | 6994
+| O  GGG   | 6993
+| BBBG  VVV| 6992
+|  B BBB V | 6991
+|YYY  BRRRR| 6990
+| Y  OOO   | 6989
+|GGVV O OOO| 6988
+|GGVVBBBO  | 6987
+| BBBB  RRR| 6986
+|  BBBB  R | 6985
+|   B   RR | 6984
+|   YY   RR| 6983
+|   YY  BBB| 6982
+| VVV    B | 6981
+|RRV   BBB | 6980
+| RR    B  | 6979
+| OOO YYY  | 6978
+|  O  YOOOO| 6977
+| VV  GGG  | 6976
+| VV  G    | 6975
+| OOOOOO   | 6974
+| RRR OO   | 6973
+|  R RR OOO| 6972
+|  OOORRO  | 6971
+|   OVVVV  | 6970
+|   RRR    | 6969
+|    R     | 6968
+|   VVVV RR| 6967
+|   GGGG RR| 6966
+|   GGGOOOO| 6965
+|   G RRRR | 6964
+|       OOO| 6963
+|        O | 6962
+|       BBB| 6961
+|        B | 6960
+|    RRRRR | 6959
+|     RRR  | 6958
+|     RRRR | 6957
+|        GG| 6956
+|        GG| 6955
+|       VVV| 6954
+|    GGGGV | 6953
+|      OOOO| 6952
+|       BBB| 6951
+|       B  | 6950
+|       RRR| 6949
+|    RR R  | 6948
+| OOORRGGGG| 6947
+|  O  VV   | 6946
+|OOOO VV   | 6945
+| BBB GGG  | 6944
+| BVV GRRR | 6943
+|   VV R   | 6942
+|    GGYY  | 6941
+|     GGYY | 6940
+|      OO  | 6939
+|       OO | 6938
+|       RRR| 6937
+|       R  | 6936
+|       GGG| 6935
+|        G | 6934
+|       YY | 6933
+|        YY| 6932
+|YY    BBBB| 6931
+| YY    YY | 6930
+| GGG   YY | 6929
+|  G   YYYY| 6928
+|YYYY VVVV | 6927
+|  VV  BB  | 6926
+|   VV BB  | 6925
+|BBBB   RRR| 6924
+| RR     R | 6923
+|  RR   YYY| 6922
+|GGYYRRRY  | 6921
+|GGYYRVVV  | 6920
+| GGG V    | 6919
+| GVVVV    | 6918
+| GGG      | 6917
+|  G VVVV  | 6916
+| YYYY     | 6915
+|  YYY     | 6914
+|  Y VV BB | 6913
+|    VV  BB| 6912
+|     YYYY | 6911
+|       RR | 6910
+|       RR | 6909
+|      OOO | 6908
+|       O  | 6907
+|   VVV YYY| 6906
+|    V  Y  | 6905
+| OOOO VVV | 6904
+|  BBB VGGG| 6903
+|   B   G  | 6902
+|  YY   GG | 6901
+|  YY   GG | 6900
+|   OO  GG | 6899
+|   OO   GG| 6898
+|   OO  BB | 6897
+|   OO   BB| 6896
+|    VVBBBB| 6895
+|    VV VV | 6894
+|   YYYYVV | 6893
+|     RRRR | 6892
+|       VVV| 6891
+|        V | 6890
+|       GGG| 6889
+|       G  | 6888
+|       OOO| 6887
+|       O  | 6886
+|GGGGRRRR  | 6885
+|YYY   GGG | 6884
+|Y      GGG| 6883
+|GGG     GG| 6882
+|GGG    OO | 6881
+|  GG    OO| 6880
+| VV    BBB| 6879
+|  VV   B  | 6878
+|  YYY GGGG| 6877
+|   YVVV   | 6876
+|    V  BBB| 6875
+|RRRRR   B | 6874
+|RRR    YYY| 6873
+| YYY    Y | 6872
+| Y     GG | 6871
+| YY     GG| 6870
+|  YY  YYY | 6869
+|RRR    Y  | 6868
+| R    OOO | 6867
+|RR     O  | 6866
+|RR   OOOO | 6865
+|OOO    OO | 6864
+|OOO    OO | 6863
+|  OO   RRR| 6862
+| VV     R | 6861
+|  VV   VVV| 6860
+|VVV     V | 6859
+|V    BBBB | 6858
+|VVVV  BBBB| 6857
+|   YYYY   | 6856
+|   YYY    | 6855
+|    Y     | 6854
+|YYY OO    | 6853
+|YRRR OO   | 6852
+| R    RRR | 6851
+| YY   R   | 6850
+|  YY  BBBB| 6849
+|   GGG BBB| 6848
+|    G   B | 6847
+| BBBB  RRR| 6846
+|   OOO R  | 6845
+|   OOO VVV| 6844
+|    OO V  | 6843
+|    GGGGGG| 6842
+|  VVG   G | 6841
+|   VV BBBB| 6840
+|VVV YYY   | 6839
+| V  Y OOO | 6838
+| VVVGGGO  | 6837
+|  V G     | 6836
+|OOVVV     | 6835
+|OOV       | 6834
+|BBB   GGGG| 6833
+| BVVV  OOO| 6832
+| RRV OOOO | 6831
+|  RR O    | 6830
+|   VVV    | 6829
+|    V  YYY| 6828
+|    BBBY  | 6827
+|    B BB  | 6826
+|      BB  | 6825
+|    VVV   | 6824
+|     VBB  | 6823
+|      BB  | 6822
+|       GGG| 6821
+| GG     G | 6820
+|  GG  BBB | 6819
+|  BBBBB   | 6818
+|     YY   | 6817
+|      YY  | 6816
+|      BBB | 6815
+|       B  | 6814
+|      BBBB| 6813
+|      OOOO| 6812
+|    BBB   | 6811
+|    BVV   | 6810
+|     VVYYY| 6809
+|   OOOOOY | 6808
+|   OO ORRR| 6807
+|   YYYYR  | 6806
+|      YYYY| 6805
+|       YYY| 6804
+|        Y | 6803
+|       GG | 6802
+|        GG| 6801
+|       BBB| 6800
+| YY  GGGB | 6799
+| YY   G   | 6798
+|  BBB BBBB| 6797
+|  B YY GG | 6796
+|     YYGG | 6795
+|     RRVVV| 6794
+|RRRR RRV  | 6793
+| BB   VVVV| 6792
+|  BB   YY | 6791
+| GGGG  YY | 6790
+|OOO    YYY| 6789
+| OYY   Y  | 6788
+|   YY VVVV| 6787
+|    OOOO  | 6786
+|       VVV| 6785
+|       V  | 6784
+|     YYGGG| 6783
+|   VV YYG | 6782
+|   VV BBBB| 6781
+|   BBBB OO| 6780
+|   GG   OO| 6779
+|   GG   YY| 6778
+|    GG  YY| 6777
+|    GGVVVV| 6776
+|    RRRR  | 6775
+|     GGGG | 6774
+|        RR| 6773
+|        RR| 6772
+|       YYY| 6771
+|       YVV| 6770
+|        VV| 6769
+|        YY| 6768
+|        YY| 6767
+|       OOO| 6766
+|       O  | 6765
+| RR    YY | 6764
+| RR    YY | 6763
+| OO     VV| 6762
+|  OO    VV| 6761
+| BBBB  RR | 6760
+| YY    RR | 6759
+|  YY  BB  | 6758
+|   VV  BB | 6757
+|    VV OOO| 6756
+|   BB  O  | 6755
+|   BB GGGG| 6754
+|    YYOO  | 6753
+|    YYOO  | 6752
+|    GGBBBB| 6751
+|    GG YY | 6750
+|VV   BBBYY| 6749
+| VV   B   | 6748
+|GGGG OOOO | 6747
+|OO     OOO| 6746
+| OO    O  | 6745
+|GGGG  YYY | 6744
+|  RR  Y   | 6743
+|  RR OOOO | 6742
+| GGG   RR | 6741
+| G      RR| 6740
+| YYYY OOOO| 6739
+|  OOO  GGG| 6738
+|   O   G  | 6737
+|   VVV RR | 6736
+|   V    RR| 6735
+|   GGG GGG| 6734
+|RRR G  G  | 6733
+|ROOOO  VVV| 6732
+|  BBB   V | 6731
+|   B   BB | 6730
+|  VVV  BB | 6729
+|  VRRROOO | 6728
+|    R O   | 6727
+|    GGGG  | 6726
+|     GGG  | 6725
+|      G   | 6724
+|    RRR   | 6723
+|     R    | 6722
+|    RR    | 6721
+|     RR   | 6720
+|GG  GG    | 6719
+| GG  GG   | 6718
+|  OO  OOOO| 6717
+|  OO   YYY| 6716
+|YYYY    Y | 6715
+|  BB OOOO | 6714
+|  BB   BBB| 6713
+|GGRRR  B  | 6712
+| GGR RRYYY| 6711
+|  OOORRY  | 6710
+| VVO  GGG | 6709
+|  VVBBG   | 6708
+|   OOBB   | 6707
+|    OO    | 6706
+|     VV   | 6705
+|     VV   | 6704
+|   BBB    | 6703
+|   B      | 6702
+|   RRR    | 6701
+|    R     | 6700
+| BBBB  GGG| 6699
+|   VV   G | 6698
+|   VV  RRR| 6697
+|  OOOYYYR | 6696
+|   O Y    | 6695
+|   OOO    | 6694
+|   O      | 6693
+|   YY     | 6692
+|    YY BBB| 6691
+|     GGGB | 6690
+| RR   G   | 6689
+| RR GGG   | 6688
+| OO  G    | 6687
+| OO BBB   | 6686
+|  OOOB    | 6685
+|   O      | 6684
+|  RRRR VV | 6683
+|  OO    VV| 6682
+|   OO  RR | 6681
+|    RRRRR | 6680
+|    R RRRR| 6679
+|       OO | 6678
+|        OO| 6677
+| VVV  RRRR| 6676
+|  V  YYY  | 6675
+|YYY  YVVV | 6674
+| Y  OO V  | 6673
+| OOO OOYY | 6672
+| O    BBYY| 6671
+| GG   BB  | 6670
+|  GGRRR   | 6669
+| YYYYR    | 6668
+|   GGGG   | 6667
+|  YY      | 6666
+|  YY      | 6665
+|   BBBVVVV| 6664
+|    BOOOO | 6663
+|     YY   | 6662
+|      YY  | 6661
+|YYY   YYYY| 6660
+| YGGG  OOO| 6659
+|  G    O  | 6658
+|GGG   OOOO| 6657
+| GOOO GG  | 6656
+|   O  GG  | 6655
+| RRR YY   | 6654
+|  R  YY   | 6653
+| OOO GGG  | 6652
+| OYYYYG   | 6651
+|  YY YY GG| 6650
+|   BBBB GG| 6649
+|      OOO | 6648
+|      O GG| 6647
+|        GG| 6646
+|   YY OOOO| 6645
+|   YY YY  | 6644
+|   GGG YY | 6643
+|    GBBBB | 6642
+|     GG   | 6641
+|      GG  | 6640
+|      RRRR| 6639
+|     BB   | 6638
+|      BB  | 6637
+|      VV  | 6636
+|       VV | 6635
+|BBB    BBB| 6634
+|BBBB  YYB | 6633
+| B    YY  | 6632
+| OOO  OOO | 6631
+|  OBB O   | 6630
+|    BBVV  | 6629
+|  RRRRVV  | 6628
+|  RRRR BB | 6627
+|   OO   BB| 6626
+|   OO  OOO| 6625
+|  BBB   O | 6624
+|BBBB   GGG| 6623
+| BRRR  G  | 6622
+|   R   BBB| 6621
+| BBB    B | 6620
+| B YYY  RR| 6619
+|    Y   RR| 6618
+|YY  GGGOOO| 6617
+|YY  G  O  | 6616
+|BBBBBB RR | 6615
+|BVVB YYYRR| 6614
+|  VV  YVVV| 6613
+|VVVV    V | 6612
+|  YYY  GGG| 6611
+|   Y   G  | 6610
+|   OOO RRR| 6609
+|   O    R | 6608
+|   YYYY BB| 6607
+|    RR  BB| 6606
+|    RRBBBB| 6605
+|     YY   | 6604
+|     YY   | 6603
+|      BBB | 6602
+|       B  | 6601
+|       YY | 6600
+|       YY | 6599
+|  OO   YYY| 6598
+|  OO   YVV| 6597
+|  YY    VV| 6596
+|   YY RRRR| 6595
+|   YY   BB| 6594
+|  VVYY  BB| 6593
+|   VV OOOO| 6592
+| VVV  VVVV| 6591
+| V YYYY   | 6590
+|    YY    | 6589
+|     YY   | 6588
+|    YY OOO| 6587
+|     YYO  | 6586
+|      GGG | 6585
+|      G YY| 6584
+|   BB   YY| 6583
+| YYBB  BB | 6582
+|  YY    BB| 6581
+|  OO  YYYY| 6580
+|   OORRR  | 6579
+|  BBBR    | 6578
+|   BVV    | 6577
+|     VV   | 6576
+|    BBB   | 6575
+|     B  RR| 6574
+|     OOORR| 6573
+|     O  GG| 6572
+|     GGGGG| 6571
+| BB  G YY | 6570
+| BB     YY| 6569
+|  BB  BBBB| 6568
+|  BB  YYY | 6567
+| RRR   Y  | 6566
+| R     VV | 6565
+|VVV     VV| 6564
+|V      VVV| 6563
+|BB VVV  V | 6562
+| BB V  OOO| 6561
+|VVVGGGG O | 6560
+|V OOOBBBB | 6559
+|   OBB    | 6558
+|    BB    | 6557
+|  VVV     | 6556
+|  V       | 6555
+| VV       | 6554
+| VV    GGG| 6553
+| GGGGG G  | 6552
+|  GGGYYYY | 6551
+|   BBOO   | 6550
+|    BBOO  | 6549
+|   RRRR   | 6548
+|    GG  RR| 6547
+|    GG  RR| 6546
+|     BBBBB| 6545
+|     BBB  | 6544
+|     BBBBB| 6543
+|     BB B | 6542
+|      VVVV| 6541
+|       YYY| 6540
+|        Y | 6539
+|   YYY GGG| 6538
+|    YGGGG | 6537
+|     GBBBB| 6536
+|   RRR RR | 6535
+|   RYYYRR | 6534
+|    Y VVVV| 6533
+|       GG | 6532
+|        GG| 6531
+|       GGG| 6530
+|       G  | 6529
+|       OO | 6528
+|        OO| 6527
+|      GGGG| 6526
+|       GGG| 6525
+|BBBRR  G  | 6524
+| B RR  YY | 6523
+|OO  VV  YY| 6522
+| OO VV VV | 6521
+| RRR YYYVV| 6520
+| R   YOO  | 6519
+|RR    OO  | 6518
+| RR  YYY  | 6517
+| BB   YYYY| 6516
+| BB     Y | 6515
+|  RRRR  YY| 6514
+|  BBBB  YY| 6513
+|  BBBB RR | 6512
+|   BBB RR | 6511
+|    BOOO  | 6510
+|     OYY  | 6509
+|      YY  | 6508
+|       OO | 6507
+|       OO | 6506
+|  YYYRRRR | 6505
+|  Y VVVV  | 6504
+|    RRRVVV| 6503
+|     R V  | 6502
+|     OOO  | 6501
+|     O    | 6500
+|    YY    | 6499
+|    YY    | 6498
+|     YYY  | 6497
+|      YBBB| 6496
+|GG      B | 6495
+|GG     YYY| 6494
+|VVV    Y  | 6493
+| V     GG | 6492
+|VVV     GG| 6491
+|V      OO | 6490
+|RR      OO| 6489
+|RR      YY| 6488
+|YY GG   YY| 6487
+|YY  GG  GG| 6486
+|VV  YYY GG| 6485
+| VV Y VVVV| 6484
+|  YY   OOO| 6483
+|  YYYY  O | 6482
+|VVVVYY RR | 6481
+|   BB   RR| 6480
+|   BB GGGG| 6479
+|   OO  BB | 6478
+|   OO  BB | 6477
+|  OOOOOOOO| 6476
+|   GGG OO | 6475
+|   GVV  OO| 6474
+|    VVVVVV| 6473
+|     OOO  | 6472
+|      OBB | 6471
+|       BB | 6470
+|       VV | 6469
+|RR      VV| 6468
+|RR    OOOO| 6467
+| VVV  BB  | 6466
+|GGV   BB  | 6465
+| GG  YY   | 6464
+|RRR  YY   | 6463
+|RYYY YYYYY| 6462
+| Y   YY Y | 6461
+| OO   VVV | 6460
+| OO   V   | 6459
+| OOO  GGGG| 6458
+|  OYYYYOO | 6457
+|     RROO | 6456
+|      RR  | 6455
+|       RRR| 6454
+|       R  | 6453
+|       RRR| 6452
+|       R  | 6451
+|      VVVV| 6450
+|      GG  | 6449
+|      GG  | 6448
+|      YYYY| 6447
+|    VVVVVV| 6446
+|     VV   | 6445
+|    VVV   | 6444
+|     VOOOO| 6443
+|      BBBB| 6442
+|GG   YYYY | 6441
+| GG    YY | 6440
+| BB     YY| 6439
+| BB     GG| 6438
+| VVVV   GG| 6437
+|OOO    YY | 6436
+|O      YY | 6435
+|BBB  YYY  | 6434
+|B OO Y    | 6433
+|  OO YYBB | 6432
+|RRRR  YYBB| 6431
+|   VVYYY  | 6430
+|    VVY   | 6429
+|VVGGG     | 6428
+|VV G    VV| 6427
+| BBG  OVVV| 6426
+| VV   YYV | 6425
+| VVGG  YY | 6424
+| GGGG  GGG| 6423
+|  GG GGGG | 6422
+| VV  G    | 6421
+|  VVVVV   | 6420
+| RRRRV    | 6419
+| YYYY BBBB| 6418
+|    OOOOO | 6417
+| VV OYYYOO| 6416
+| VV  YGG  | 6415
+|  YYY GG  | 6414
+|   YVVVGGG| 6413
+|     V GBB| 6412
+|    BB  BB| 6411
+|    BB YY | 6410
+|   RR GGYY| 6409
+|   RR GG  | 6408
+|    BB VVV| 6407
+|    BB  V | 6406
+|    OO  VV| 6405
+|     OO VV| 6404
+|      RRR | 6403
+|       RVV| 6402
+|        VV| 6401
+|       VVV| 6400
+|       V  | 6399
+|RRR    OOO| 6398
+|R GG    O | 6397
+|GGGGG  VVV| 6396
+|G RRRR  V | 6395
+|   GGGVVVV| 6394
+|   G BBB  | 6393
+|      B   | 6392
+|    YYYY  | 6391
+| OO RRR   | 6390
+|  OOR     | 6389
+|  VVVV    | 6388
+|     GG   | 6387
+|      GG  | 6386
+|    YYYY  | 6385
+|     GG   | 6384
+|     GG   | 6383
+|   OOOO   | 6382
+|   VV  OOO| 6381
+|    VV O  | 6380
+|     YYY  | 6379
+|     YYY  | 6378
+|  GGG  YY | 6377
+|OOG YYRR  | 6376
+|OO   YYRR | 6375
+|BBBB VVOO | 6374
+| YYY VVOO | 6373
+|OOY   OO  | 6372
+| OO   OO  | 6371
+|  VVVV VV | 6370
+|    GGG VV| 6369
+|     GRRRR| 6368
+|       BBB| 6367
+|      VVB | 6366
+| VV   VV  | 6365
+| VV   RRR | 6364
+|  YY   R  | 6363
+|  YY   VVV| 6362
+| VVVV  V  | 6361
+|    YYYY  | 6360
+|     BB   | 6359
+|     BB   | 6358
+|    BB    | 6357
+|     BB   | 6356
+|     BBBB | 6355
+|    GGGG  | 6354
+|       GGG| 6353
+|        G | 6352
+|       VVV| 6351
+|        V | 6350
+|  GG  YYYY| 6349
+|   GG RRRR| 6348
+|   BB  YYY| 6347
+|    BB Y  | 6346
+|RR RR  YYY| 6345
+|RR RR   Y | 6344
+|VVVV   YYY| 6343
+|   BB   Y | 6342
+|   BB YYY | 6341
+|   YYY Y  | 6340
+|    YOOO  | 6339
+|      OYYY| 6338
+|       Y  | 6337
+|      VVV | 6336
+|VVVV  V   | 6335
+|RRRR OOO  | 6334
+|  GGG O BB| 6333
+|  G  RRRBB| 6332
+|  BBBR VVV| 6331
+|   B   V  | 6330
+|   BB YY  | 6329
+|   BB  YY | 6328
+|  OO   GGG| 6327
+|BBBOO   G | 6326
+|B      RR | 6325
+|OOO    RR | 6324
+| OOOOOGG  | 6323
+|   RR  GG | 6322
+|    RRRRRR| 6321
+|   BB  VV | 6320
+|    BB  VV| 6319
+|   YY OOO | 6318
+|   YYGGO  | 6317
+|   YYGG   | 6316
+|    YY    | 6315
+|     VV OO| 6314
+|     VV OO| 6313
+|      BBBB| 6312
+|     YYYY | 6311
+|       BBB| 6310
+|       B  | 6309
+|      YYYY| 6308
+|        BB| 6307
+|        BB| 6306
+|      RRRR| 6305
+|        BB| 6304
+| OOGG   BB| 6303
+|  OOGG  BB| 6302
+|   GGG  BB| 6301
+|BBBG   GG | 6300
+|B YYY  GG | 6299
+|  Y   GGG | 6298
+|  BB   G  | 6297
+|   BB RRRR| 6296
+|   RR YYYY| 6295
+|   RR  GG | 6294
+|    BB  GG| 6293
+|    BBBBB | 6292
+|   GGGB   | 6291
+|    GRRR  | 6290
+| GGG RGGG | 6289
+|  GVVVVGGG| 6288
+|      VVGG| 6287
+|       VV | 6286
+|       OOO| 6285
+|      GGO | 6284
+|      GG  | 6283
+|       YYY| 6282
+|        Y | 6281
+|       BBB| 6280
+|       B  | 6279
+|      VVVV| 6278
+|      VVVV| 6277
+|      YY  | 6276
+|      YY  | 6275
+|       RRR| 6274
+|       R  | 6273
+|  GGGG GGG| 6272
+| BB    G  | 6271
+| BB   VV  | 6270
+|  GGGGVV  | 6269
+| VVV   OOO| 6268
+| V      O | 6267
+| OOVV  YYY| 6266
+| OO VV Y  | 6265
+|  VVV VVVV| 6264
+|   V YYY  | 6263
+|   GGGY   | 6262
+|    G     | 6261
+|   GGGG   | 6260
+|     OOO  | 6259
+|     O    | 6258
+|     YY   | 6257
+|     YY   | 6256
+|      VVV | 6255
+|  YY  V   | 6254
+|  YY OO   | 6253
+|   VVVOO  | 6252
+| YYYV VVVV| 6251
+| Y OOBB   | 6250
+|   OOBB   | 6249
+| RR OO    | 6248
+| RR OO  OO| 6247
+| GG GGYYOO| 6246
+| GG  GGYY | 6245
+| VVVVVVV  | 6244
+| VBB  GGG | 6243
+|  BB  GOOO| 6242
+|VVVV    O | 6241
+| YYY   OOO| 6240
+| Y BBBBO  | 6239
+|RRR  RRR  | 6238
+| R    R   | 6237
+| YYYY OO  | 6236
+|   VVVOO  | 6235
+|   VVV OO | 6234
+|     VV OO| 6233
+|    GGBBB | 6232
+|    GG B  | 6231
+| BB  RRRR | 6230
+| BB BB    | 6229
+| YY BBBBBB| 6228
+| YY  OOOBB| 6227
+|BB    O BB| 6226
+|BB RRRRVV | 6225
+|GGG   RRVV| 6224
+|GBB YY RR | 6223
+| BB YYOOOO| 6222
+|  RRRR YY | 6221
+|   OOO  YY| 6220
+|    O  VV | 6219
+|  GGOO  VV| 6218
+|  GGOO VV | 6217
+| OOOO RRVV| 6216
+|RR    RR  | 6215
+| RR  GGGGG| 6214
+|  RR  GGG | 6213
+|  RRVVVV  | 6212
+|   BB     | 6211
+|GGGBB     | 6210
+|GRRRR     | 6209
+| VVVV     | 6208
+|BBB       | 6207
+| B        | 6206
+|RRRGG     | 6205
+|R VVGG RRR| 6204
+|  VV   R  | 6203
+|  YY  BBBB| 6202
+|  YY  GGGG| 6201
+|GGGG   OO | 6200
+|   GG  OO | 6199
+| BBGG   VV| 6198
+|VVBB    VV| 6197
+| VV    RRR| 6196
+|GG     R  | 6195
+|GG    VV  | 6194
+| GG   VV  | 6193
+|  GGRRR   | 6192
+|  RRR BBBB| 6191
+|   RRBBB  | 6190
+|  VVV BBBB| 6189
+|GGGV    B | 6188
+|GYYY   GG | 6187
+| Y  RRRRGG| 6186
+|VV     OOO| 6185
+|VV BB YYO | 6184
+|OOYYBB YY | 6183
+|OO YY VVV | 6182
+| OOO  VOOO| 6181
+|  O OOOOO | 6180
+| GG   BBBB| 6179
+|  GGOOOO  | 6178
+| BBB   VV | 6177
+|  B    VV | 6176
+|YYOOO  OOO| 6175
+|YY O   O  | 6174
+|VVVV   BBB| 6173
+|  OOO   B | 6172
+|  O YYY GG| 6171
+|     Y  GG| 6170
+| YYYOORRR | 6169
+|  Y OO R  | 6168
+| OO  YYGGG| 6167
+|  OO YYG  | 6166
+| BB  OOO  | 6165
+| BB  O OO | 6164
+| OOO    OO| 6163
+| O RR RRRR| 6162
+|   RR RRRR| 6161
+|   GGGGYY | 6160
+|    RRR YY| 6159
+|    R OOOO| 6158
+|GGG    BBB| 6157
+|GRRRR  B  | 6156
+|    YYYY  | 6155
+|      BBBB| 6154
+|       OOO| 6153
+|       O  | 6152
+|  GGG  OOO| 6151
+|  G    O  | 6150
+|OOO    RR | 6149
+| OVV    RR| 6148
+|   VV  OO | 6147
+|    GGG OO| 6146
+|    G  YY | 6145
+|  GGG BBYY| 6144
+|  G   BB  | 6143
+|  GGG RRRR| 6142
+|   G  GG  | 6141
+|   BBBGG  | 6140
+|    B  GG | 6139
+| BBBB   GG| 6138
+|   BB  OOO| 6137
+|    BB O  | 6136
+| BBVVVVVVV| 6135
+| BBV   BBB| 6134
+| VVVV   B | 6133
+| BBBB BBBB| 6132
+|   OOOVV  | 6131
+|   O  VV  | 6130
+|   VVVV   | 6129
+|    BBB   | 6128
+|    B     | 6127
+|   OO     | 6126
+|   OO     | 6125
+| RRR   YYY| 6124
+|  RVVV Y  | 6123
+|   V OOOO | 6122
+|        OO| 6121
+|        OO| 6120
+|OOOO   YYY| 6119
+|   RRR Y  | 6118
+|    ROOOO | 6117
+|      OO  | 6116
+|      OO  | 6115
+|       VV | 6114
+|       VV | 6113
+|      GGGG| 6112
+|       OOO| 6111
+|       O  | 6110
+|       GG | 6109
+|       GG | 6108
+|      VVVV| 6107
+|       VVV| 6106
+|       V  | 6105
+|  RRBBBYYY| 6104
+|BBRRB   Y | 6103
+|BBYYYY BBB| 6102
+| RR     B | 6101
+| RR     RR| 6100
+| RRR    RR| 6099
+|  R    OOO| 6098
+| VVV   O  | 6097
+| VVVV  OOO| 6096
+|  V RR O  | 6095
+|    RR YY | 6094
+|    BBBBYY| 6093
+|     GGG  | 6092
+|     G VV | 6091
+|OOO     VV| 6090
+| O    YYYY| 6089
+|RRR     GG| 6088
+|R       GG| 6087
+|RR    VVVV| 6086
+|RR    GGGG| 6085
+| OOOGGG   | 6084
+| OGGGG    | 6083
+|   G      | 6082
+|   BB     | 6081
+|    BB    | 6080
+|    YYY   | 6079
+|    Y     | 6078
+|   OOO    | 6077
+|BBBO      | 6076
+|BRRRR     | 6075
+| OOOOOOYYY| 6074
+|  O O  Y  | 6073
+|  YYY  RRR| 6072
+|  Y    R  | 6071
+|GGG    RRR| 6070
+| G     R  | 6069
+| VVV   VVV| 6068
+| V     V  | 6067
+| GGG   VVV| 6066
+| G     VVV| 6065
+|OOOO    VV| 6064
+|  GG   OOO| 6063
+|   GG  O  | 6062
+|  RRR  GGG| 6061
+|   RBBBBG | 6060
+|   GG     | 6059
+|VV GG     | 6058
+|VV  VVV   | 6057
+|RRRRV     | 6056
+|  RRR   BB| 6055
+|   R    BB| 6054
+| BBB   VVV| 6053
+|  B    V  | 6052
+| GG    BBB| 6051
+| GG    B  | 6050
+|BB     VVV| 6049
+| BB  BBV  | 6048
+| RR   BB  | 6047
+| RR   RR  | 6046
+| VVVBBRR  | 6045
+| VYYYBBGGG| 6044
+|   Y   G  | 6043
+| YYY  OO  | 6042
+|  Y OOOO  | 6041
+|  BBBOO   | 6040
+|   B      | 6039
+|  VVV     | 6038
+|   VYYY   | 6037
+|   YYY    | 6036
+|  YYYY    | 6035
+|   YY     | 6034
+|   YYY    | 6033
+|    Y  GGG| 6032
+|BBRRRR G  | 6031
+| BB    OOO| 6030
+|RR     ORR| 6029
+| RR     RR| 6028
+| RRR    GG| 6027
+| R      GG| 6026
+| RRR    VV| 6025
+| R      VV| 6024
+|YYYY   RRR| 6023
+|RRRRYY R  | 6022
+|VVRRRYYOO | 6021
+| VVR   OO | 6020
+|  YYYY YYY| 6019
+|OOOO   Y  | 6018
+|  RRR  OOO| 6017
+|  R OO  O | 6016
+|    OO GGG| 6015
+|   BBB G  | 6014
+|   BOOOOYY| 6013
+|   BBB  YY| 6012
+|    B  OOO| 6011
+|   OOO O  | 6010
+|   O   BBB| 6009
+|   BBBBB  | 6008
+|      VVV | 6007
+|       V  | 6006
+|       YY | 6005
+|        YY| 6004
+|        VV| 6003
+|    GGG VV| 6002
+|     GGGGG| 6001
+|      RR  | 6000
+|  OOOO RR | 5999
+|OOOO  GGGG| 5998
+|VVV    VV | 5997
+| V      VV| 5996
+| RR    GGG| 5995
+| RR    G  | 5994
+| RRRR BBB | 5993
+|    YYYB  | 5992
+|    YRRRR | 5991
+|     VVVV | 5990
+|      OOOO| 5989
+|       GG | 5988
+|       GG | 5987
+|       OOO| 5986
+| RR YY O  | 5985
+|  RR YYYYY| 5984
+|   YYYYY  | 5983
+|      RR  | 5982
+|       RR | 5981
+|YYY VVVV  | 5980
+| Y   OOO  | 5979
+|RRR  O    | 5978
+|R    YY   | 5977
+|BB   YY   | 5976
+|BB  YY    | 5975
+|RRR YY    | 5974
+|ROO VV    | 5973
+|  OOVV    | 5972
+| YYYY     | 5971
+|VVVV      | 5970
+|  GG      | 5969
+|   GG     | 5968
+| VVV      | 5967
+|  VVV   BB| 5966
+|   VV   BB| 5965
+|  RRR  OOO| 5964
+|  R    O  | 5963
+|VVV   GGGG| 5962
+|V  GG OOO | 5961
+|RR  GG ORR| 5960
+|RR  RRR RR| 5959
+|YY  R  VVV| 5958
+|YY  OORRV | 5957
+| VVVVOORR | 5956
+|   BBBB   | 5955
+|      VVVV| 5954
+|     YY   | 5953
+|     YY   | 5952
+|      RR  | 5951
+|VVVBBB RR | 5950
+| V BRR OOO| 5949
+| RRR RR O | 5948
+|  RBBB  GG| 5947
+|   B BBBGG| 5946
+|GGG  B VV | 5945
+| G   OOOVV| 5944
+|VVVV O OOO| 5943
+| BB    O  | 5942
+|  BB   OOO| 5941
+|   RRR O  | 5940
+|    R OO  | 5939
+|  GGG OORR| 5938
+|   GBBBBRR| 5937
+|      VVV | 5936
+| VVOO V   | 5935
+|  VVOORRRR| 5934
+|   GG VVVV| 5933
+|   GG RRR | 5932
+|  BBBB R  | 5931
+|YYY   RR  | 5930
+| Y   BBRR | 5929
+| RRR  BB  | 5928
+|  R   BB  | 5927
+| GG    BB | 5926
+| GG    BB | 5925
+|OO      BB| 5924
+| OO   YYYY| 5923
+|RR     GGG| 5922
+|RR     G  | 5921
+|YYY VV YYY| 5920
+|Y   VV Y  | 5919
+|RRR  YYY  | 5918
+|R VVV Y   | 5917
+|  V RRRR  | 5916
+|  GGYY    | 5915
+|  GGYY VVV| 5914
+|YYY RRRRV | 5913
+| Y YYYY   | 5912
+|BB   VV   | 5911
+| BB   VV  | 5910
+|BB  VVVV  | 5909
+| BB BB    | 5908
+| RRR BB   | 5907
+| RRRRR    | 5906
+|  RRRR YYY| 5905
+|  YYYY Y  | 5904
+|YYY   OOOO| 5903
+| Y RRRR   | 5902
+| BBRRR VV | 5901
+| BB RVVVVV| 5900
+|OOOO V VVV| 5899
+|   OO  V  | 5898
+|   OO  OOO| 5897
+|  OO    O | 5896
+|   OO RRRR| 5895
+|  BBRRRR  | 5894
+|   BB  YYY| 5893
+|  VV   Y  | 5892
+|   VV  YY | 5891
+|    OOO YY| 5890
+|     ORRRR| 5889
+|       BB | 5888
+|       BB | 5887
+|    OOOOO | 5886
+|    OOO BB| 5885
+|     RRRBB| 5884
+|     R GG | 5883
+|        GG| 5882
+|      RRRR| 5881
+|        RR| 5880
+|        RR| 5879
+|       GGG| 5878
+|    BB  G | 5877
+| BBBBB BBB| 5876
+| B RRRRBYY| 5875
+|     VVVYY| 5874
+|     VOOOO| 5873
+|BBB   OOOO| 5872
+|B      BB | 5871
+|OO      BB| 5870
+| OO    VVV| 5869
+|RR      V | 5868
+| RR   OOO | 5867
+|  VVV O   | 5866
+|   VVVV   | 5865
+|     V VV | 5864
+|     RRRVV| 5863
+|      R   | 5862
+|     VV   | 5861
+|      VV  | 5860
+| RRRGGGG  | 5859
+|VVR   GGRR| 5858
+| VV   GGRR| 5857
+| YY    YYY| 5856
+| YY     Y | 5855
+|VV     YY | 5854
+|VV  OOO YY| 5853
+|VVVVO  VV | 5852
+| RRRR   VV| 5851
+|  YYYYRRRR| 5850
+|     OO   | 5849
+|OOO BBOO  | 5848
+|OYYYBB    | 5847
+| Y YY     | 5846
+|    YY    | 5845
+|     YYBB | 5844
+|     YY BB| 5843
+|      RRYY| 5842
+| GG   RRYY| 5841
+| GG  BBGGG| 5840
+| GGG  BBG | 5839
+| G YYYY   | 5838
+|OOO GGG   | 5837
+|O BBG     | 5836
+|   BB     | 5835
+| YYY      | 5834
+|  Y       | 5833
+| GG    VV | 5832
+| GG     VV| 5831
+|BB     YYY| 5830
+|BB  OOO Y | 5829
+|OOO  ORRRR| 5828
+| O      YY| 5827
+| BBBGGGGYY| 5826
+|  B   OOOO| 5825
+|GGG   RRR | 5824
+| G     R  | 5823
+|OOO   VVV | 5822
+| OGG   V  | 5821
+|  GG OOO  | 5820
+|  BB  O   | 5819
+|  BB GG   | 5818
+|YYY   GG  | 5817
+| Y   VVV  | 5816
+|GG    V   | 5815
+|GG RRRR   | 5814
+| YYY      | 5813
+| Y     BBB| 5812
+|RRR    B  | 5811
+|R   RRRVV | 5810
+|GGVVVR  VV| 5809
+| GGV BB RR| 5808
+|  GGGBB RR| 5807
+|  G  GGOO | 5806
+|  VV GG OO| 5805
+|  VV  BBBB| 5804
+|  OOORRR  | 5803
+|   O R OOO| 5802
+|   GGG O  | 5801
+|   G OOOO | 5800
+|  BBBB    | 5799
+|     RRR  | 5798
+|     R    | 5797
+|     OO   | 5796
+|     OO   | 5795
+|      BBBB| 5794
+|       OO | 5793
+|       OO | 5792
+|     GGGG | 5791
+|RR    YYY | 5790
+|RR    YRRR| 5789
+|RR     R  | 5788
+|RR     RRR| 5787
+| GGG    R | 5786
+|  G    OO | 5785
+| VVV    OO| 5784
+| V     VV | 5783
+|BBB  RRRVV| 5782
+|B     RVV | 5781
+|YYY     VV| 5780
+|YBBB   GG | 5779
+|  B     GG| 5778
+| YYY   BBB| 5777
+| Y GGGGB  | 5776
+|      RRRR| 5775
+|YYY    YY | 5774
+| Y      YY| 5773
+|RR     OO | 5772
+|RR  OOO OO| 5771
+| BBBO  BB | 5770
+| BRRRR  BB| 5769
+| RRR  VVVV| 5768
+|  R  GGG  | 5767
+| BB   GBB | 5766
+|  BB   BB | 5765
+| GGBBB  BB| 5764
+|  GGB   BB| 5763
+|   GG  OO | 5762
+|GGGGGG  OO| 5761
+|GG GG  OOO| 5760
+|GG GG  O  | 5759
+|VVVVVVVGG | 5758
+|VBBB    GG| 5757
+|  B   YYYY| 5756
+|OOO BBBB  | 5755
+|OBBB  OOOO| 5754
+|  B   GGGG| 5753
+|  VV   RRR| 5752
+|  VV   R  | 5751
+|BBB   YYY | 5750
+| B     Y  | 5749
+| VVVV  BB | 5748
+|  VVVV  BB| 5747
+|   YYYYVV | 5746
+|      RRVV| 5745
+|   OOORR  | 5744
+|   O VVV  | 5743
+|      V   | 5742
+|   GGVV   | 5741
+| OOOGGVV  | 5740
+| O    OOOO| 5739
+|VVV   YYYY| 5738
+| V  YYY   | 5737
+| BBBBYRR  | 5736
+|  YY   RR | 5735
+|  YY YYYY | 5734
+|   OOO    | 5733
+|   O  RRRR| 5732
+|   VVVOO  | 5731
+|    V OO  | 5730
+| OOOO  YY | 5729
+|    VVVYY | 5728
+|     VRRRR| 5727
+|    OOOO  | 5726
+|       YYY| 5725
+|        Y | 5724
+|     VVVV | 5723
+|      RRR | 5722
+|      R   | 5721
+|     RR   | 5720
+|     RRYY | 5719
+|     BBBYY| 5718
+|    BBB   | 5717
+|     BB   | 5716
+|    OO  GG| 5715
+|    OO  GG| 5714
+|    YYOOO | 5713
+|     YYO  | 5712
+|   BBBB   | 5711
+|  GG      | 5710
+|  GG      | 5709
+|  YYRR RR | 5708
+|BB YYRR RR| 5707
+|BB VV RRR | 5706
+| RR VVRVV | 5705
+| RRYYY  VV| 5704
+|  GGY  RR | 5703
+|  GG   RR | 5702
+|  VV   OOO| 5701
+|  VV    O | 5700
+|GGGG   OOO| 5699
+|OO     O  | 5698
+| OO   GGGG| 5697
+| GGG VVV  | 5696
+| G    V   | 5695
+|GG GGGG   | 5694
+|GG RRR GGG| 5693
+|GGGR    G | 5692
+|G YYYYOOOO| 5691
+|    YYY   | 5690
+|    Y RRRR| 5689
+|       VVV| 5688
+|        V | 5687
+|     VVVV | 5686
+|  VVV BBBB| 5685
+|   V  YY  | 5684
+|YYYY  YY  | 5683
+|   BBBVV  | 5682
+|   B  VV  | 5681
+|   OOO YY | 5680
+|   O BBBYY| 5679
+|     BGG  | 5678
+|      GG  | 5677
+|     OOO  | 5676
+|      O   | 5675
+|    VVV   | 5674
+|BBB V  GG | 5673
+|BRRRGGGGG | 5672
+|  R  G VVV| 5671
+|VVV  BBV  | 5670
+|VGG   BB  | 5669
+|  GG  BBB | 5668
+| GGG   B  | 5667
+|  GOORRR  | 5666
+|   OOR    | 5665
+|    OOO   | 5664
+|    O GGGG| 5663
+|     BBYYY| 5662
+|     BBYBB| 5661
+|     RRRBB| 5660
+|     R RRR| 5659
+|        R | 5658
+|       VVV| 5657
+|       V  | 5656
+|       BBB| 5655
+|        B | 5654
+|       BBB| 5653
+|  YY  RRB | 5652
+|   YY  RR | 5651
+|VV  RRRR  | 5650
+|VV    OOOO| 5649
+| GG    YY | 5648
+|  GG    YY| 5647
+| OO  BBBB | 5646
+| OO  GGYYY| 5645
+| YY  GGY  | 5644
+|  YY GGG  | 5643
+| RRR  G   | 5642
+| R   OOOO | 5641
+|OOO   VVV | 5640
+| O     V  | 5639
+| GGG   RRR| 5638
+| G     R  | 5637
+| BBBB  RRR| 5636
+| BBB    R | 5635
+| BYYY YYY | 5634
+|   Y  Y   | 5633
+|   RRRR   | 5632
+|     VVRRR| 5631
+|     VVR  | 5630
+|      YYYY| 5629
+|     YYY  | 5628
+|      YVV | 5627
+|       VV | 5626
+|       GGG| 5625
+|       G  | 5624
+|   BB  BB | 5623
+|    BBVVBB| 5622
+|  OOO  VV | 5621
+|BBO GGGG  | 5620
+|BB    RRRR| 5619
+|OOOOOOOO  | 5618
+| VVVV     | 5617
+|   GG     | 5616
+|   GG     | 5615
+|   OOOO   | 5614
+|  YY      | 5613
+|   YY     | 5612
+|  OO   OOO| 5611
+|  OO   O  | 5610
+|RRRR   OOO| 5609
+|BBBB   O  | 5608
+|  VVV  OOO| 5607
+|  V  BB O | 5606
+| GGRRBB YY| 5605
+| GG RR  YY| 5604
+|  OOOO VV | 5603
+|    YYY VV| 5602
+| GG YOOOVV| 5601
+| GG  OYYVV| 5600
+|  YY   YY | 5599
+|   YY  RRR| 5598
+|  RRRR  R | 5597
+|    RRROOO| 5596
+|     R O  | 5595
+|    OOOGGG| 5594
+|    O   G | 5593
+|    BBBBBB| 5592
+|     B  B | 5591
+| VV VV BBB| 5590
+| VV  VV B | 5589
+|BBB   GGG | 5588
+|BVVVV GBBB| 5587
+| BBB   B  | 5586
+| B     YY | 5585
+| OOOO   YY| 5584
+| OOO   VVV| 5583
+| OGGG   V | 5582
+|  G RR RRR| 5581
+|     RRR  | 5580
+|      GG  | 5579
+|       GG | 5578
+|      VV  | 5577
+|      VV  | 5576
+|     RR   | 5575
+|      RR  | 5574
+|       RRR| 5573
+|       R  | 5572
+|       YY | 5571
+|        YY| 5570
+|       YY | 5569
+|       YY | 5568
+|      GG  | 5567
+|      GG  | 5566
+|BB     RRR| 5565
+|BB     R  | 5564
+| YYY  BBBB| 5563
+| Y VV BBBB| 5562
+|BBRRVVBB  | 5561
+|BB RR BB  | 5560
+|RRRR   VVV| 5559
+|  RR    V | 5558
+|   RR YYYY| 5557
+|    GGG   | 5556
+|    G     | 5555
+|   VV     | 5554
+|   VV  VVV| 5553
+|    RRR V | 5552
+|    R BBBB| 5551
+|YY    YYY | 5550
+|YY     Y  | 5549
+|GG   BBB  | 5548
+|GG   B    | 5547
+| VV OO    | 5546
+|  VVOO    | 5545
+|   RRR    | 5544
+|   RVVYY  | 5543
+|     VVYY | 5542
+|   BBBB   | 5541
+|  OOO     | 5540
+|   O      | 5539
+|   RRR    | 5538
+|    R     | 5537
+|    RR    | 5536
+|    RR    | 5535
+|     OORR | 5534
+|      OORR| 5533
+|       YYY| 5532
+|        Y | 5531
+|     BBBB | 5530
+|     YYYY | 5529
+|      YYYY| 5528
+|     VVV  | 5527
+|   RRV OOO| 5526
+|RRRRR  O  | 5525
+|R RR   BB | 5524
+|   RR   BB| 5523
+|    OOOOOO| 5522
+|     OO   | 5521
+|      GGGG| 5520
+|    BBBB  | 5519
+|  BBBB    | 5518
+| GG       | 5517
+| GG       | 5516
+|BB        | 5515
+|BB        | 5514
+| YYVVVV   | 5513
+|  YY      | 5512
+|   YY     | 5511
+|    YY    | 5510
+|   GGGG   | 5509
+|     BBB  | 5508
+|     B    | 5507
+|     GGG  | 5506
+|      GOOO| 5505
+|       OOO| 5504
+|        OO| 5503
+|       RRR| 5502
+|        R | 5501
+|       YYY| 5500
+|       Y  | 5499
+|       BBB| 5498
+|    YYYB  | 5497
+|    Y YY  | 5496
+|      YY  | 5495
+|YYYY   RRR| 5494
+|YY      R | 5493
+| YY    OO | 5492
+| YY    OO | 5491
+| YY   YYYY| 5490
+|  BBBBRRRR| 5489
+|   VVVV   | 5488
+|      OOO | 5487
+|      OBBB| 5486
+|        B | 5485
+|BBB YYRRR | 5484
+|BVVVYYR   | 5483
+| V  RRBB  | 5482
+|YYY RRBB  | 5481
+| YBBBBGG  | 5480
+|    OOOGG | 5479
+|     OOOOO| 5478
+|    GGGG  | 5477
+|      RR  | 5476
+|      RR  | 5475
+|       GG | 5474
+|        GG| 5473
+|      OOOO| 5472
+|       GGG| 5471
+|VVOO   G  | 5470
+|VVOO  RRRR| 5469
+|OOOBBB GGG| 5468
+| O B   GBB| 5467
+| VVVV   BB| 5466
+| VVV   OO | 5465
+| V OOOOOO | 5464
+|      GGGG| 5463
+|     VVV  | 5462
+|     V    | 5461
+|     OORRR| 5460
+| BB  OOR  | 5459
+| BB  RROOO| 5458
+|  BBB RRO | 5457
+|   B  GGGG| 5456
+| GGG BB   | 5455
+| G   BB   | 5454
+|GGG BB    | 5453
+| GYYBB    | 5452
+|  YY OO   | 5451
+|BBB   OO  | 5450
+| B   VV   | 5449
+|VVV   VV  | 5448
+| VRRRBBBB | 5447
+|  R VVVV  | 5446
+|BB    YYY | 5445
+| BB    Y  | 5444
+|RRRR  RRRR| 5443
+|YY     VVV| 5442
+| YY     V | 5441
+| VVV  OOO | 5440
+| V     O  | 5439
+| OO VVVV  | 5438
+| OOGG     | 5437
+|YYYYGG    | 5436
+|   GG     | 5435
+|   GG  GGG| 5434
+|GGGG   G  | 5433
+|   BB  VV | 5432
+|    BB  VV| 5431
+| RRRR  GG | 5430
+|   OO BBGG| 5429
+|    OO BB | 5428
+|  YYY OO  | 5427
+|  Y    OO | 5426
+|RRR YYYYOO| 5425
+| ROOO   OO| 5424
+|  O    OOO| 5423
+|  BBB  ORR| 5422
+|   BOOO RR| 5421
+|     O YYY| 5420
+|    VVVY  | 5419
+|     V GGG| 5418
+|    RRRG  | 5417
+|    R  RRR| 5416
+|  BBBB  R | 5415
+|    YY  BB| 5414
+|     YY BB| 5413
+|      BBBB| 5412
+|   BB OO  | 5411
+|    BBOO  | 5410
+| OOYY  YYY| 5409
+| OO YY Y  | 5408
+|OO  RRRRYY| 5407
+|OO  OOO YY| 5406
+|GGG O OOOO| 5405
+| G  GGGOOO| 5404
+|RRR  G  O | 5403
+| R  OOGGG | 5402
+|RRRR OOG  | 5401
+|   GGG    | 5400
+|    GGGGG | 5399
+|    OOO   | 5398
+|    O     | 5397
+|    BBBB  | 5396
+|      YYY | 5395
+|      YBBB| 5394
+|       B  | 5393
+|     BBB  | 5392
+|     B YYY| 5391
+|       Y  | 5390
+|       RR | 5389
+|        RR| 5388
+|       BBB| 5387
+| OO     B | 5386
+| OO    RRR| 5385
+| RRR   R  | 5384
+| R   OOGG | 5383
+|OO   OO GG| 5382
+|OO    YYYY| 5381
+| RRROOOO  | 5380
+|  R    OO | 5379
+| BBB    OO| 5378
+| BYY  GGG | 5377
+|  YYOOOG  | 5376
+|   RRO    | 5375
+|   RR     | 5374
+|    OOO   | 5373
+|     O VVV| 5372
+|  OORRRV  | 5371
+|   OOR VVV| 5370
+|    OOOV  | 5369
+|     OOOO | 5368
+|      O   | 5367
+|      RRRR| 5366
+|      RRRR| 5365
+|       GGG| 5364
+|        G | 5363
+| RR VV GG | 5362
+| RROOVV GG| 5361
+|RRROO BBBB| 5360
+|RYYY  RRRR| 5359
+| YOO   GG | 5358
+|  OO  RRGG| 5357
+|   YY RR  | 5356
+|RRRYY  GG | 5355
+|R YYYY  GG| 5354
+|  YYY  YY | 5353
+|GGGY  OOYY| 5352
+|GOORRR OO | 5351
+| OO R GG  | 5350
+|  BBBB GG | 5349
+|   YYY BB | 5348
+|   YYYY BB| 5347
+|    Y GGGG| 5346
+|      YYYY| 5345
+|      YY  | 5344
+|       YY | 5343
+|      YY  | 5342
+|       YY | 5341
+|       GGG| 5340
+|        G | 5339
+|     YYYY | 5338
+|      BBBB| 5337
+|     RRR  | 5336
+|      R   | 5335
+|      GGG | 5334
+|  OOO  G  | 5333
+|VVVO  YYYY| 5332
+|V     VVVV| 5331
+|VV    VVVV| 5330
+| VV    GG | 5329
+| VV   GGGG| 5328
+|  VV   GG | 5327
+|GGG   GGG | 5326
+| GRRR  G  | 5325
+|   RYYYBB | 5324
+|     YOOBB| 5323
+|       OO | 5322
+|      VVVV| 5321
+|    OOO   | 5320
+|    O     | 5319
+|   RR     | 5318
+|   RR     | 5317
+|RRRR      | 5316
+| YY       | 5315
+| YY    RRR| 5314
+| GG    R  | 5313
+|  GG  GG  | 5312
+|BB GG GG  | 5311
+| BBGG GGGG| 5310
+|OORR VVV  | 5309
+|OORR V    | 5308
+|BBBBBBBB  | 5307
+|  RR   GGG| 5306
+| BBRR   G | 5305
+|  BB   GG | 5304
+|  RRR   GG| 5303
+| BBR  OOO | 5302
+| BB    OVV| 5301
+| YY     VV| 5300
+|  YYYYY VV| 5299
+|  GGY   VV| 5298
+|   GG   RR| 5297
+|  BBBB  RR| 5296
+|   BBBBYYY| 5295
+|   GGG  Y | 5294
+|    G  GG | 5293
+|    OOOOGG| 5292
+|       YYY| 5291
+|       Y  | 5290
+|       YY | 5289
+|        YY| 5288
+|       BBB| 5287
+|        B | 5286
+|       OOO| 5285
+|       O  | 5284
+|      RR  | 5283
+|GGG   RR  | 5282
+| G    YYYY| 5281
+| RRRRBBYYY| 5280
+| GGGGBB Y | 5279
+|  YYYY YYY| 5278
+|   YYYYY  | 5277
+|  YY GGG  | 5276
+|  YY G VVV| 5275
+|  GG    V | 5274
+|   GG OOO | 5273
+|   YYYYO  | 5272
+|   YYYY   | 5271
+|    BB    | 5270
+|OO   BB   | 5269
+|OO BBB    | 5268
+|VVVB      | 5267
+|V VVVV    | 5266
+|  OOOO    | 5265
+|     GGVVV| 5264
+|     GGV  | 5263
+|      OO  | 5262
+|      OO  | 5261
+|      RRVV| 5260
+|      RRVV| 5259
+|       YY | 5258
+| GGGG  YY | 5257
+|  VVV YYYY| 5256
+|   V  GGGG| 5255
+| GGG   BBB| 5254
+| G RRR B  | 5253
+|   R  YY  | 5252
+| RRR  YY  | 5251
+|  R    VVV| 5250
+|VVVV   V  | 5249
+|GGG   RR  | 5248
+| GVVVV RR | 5247
+|    BBGGG | 5246
+|    BB G  | 5245
+|    OOOO  | 5244
+|     GGG  | 5243
+|      GBBB| 5242
+|   OOO B  | 5241
+|   O   GGG| 5240
+|   OO  G  | 5239
+|    OO BB | 5238
+|   YYY BB | 5237
+|    Y  VVV| 5236
+|   VV   V | 5235
+|   VV   YY| 5234
+|    YYY YY| 5233
+|     YVVVV| 5232
+|      GG  | 5231
+|VV     GG | 5230
+| VV   RRVV| 5229
+|  BBB RRVV| 5228
+|   BYYYGGG| 5227
+|VV   Y G  | 5226
+| VV  RRRR | 5225
+|GGG YY    | 5224
+| G  YY    | 5223
+| YYYY     | 5222
+| RR       | 5221
+| RR  GG   | 5220
+|BB GGGG   | 5219
+| BB GG    | 5218
+|  YYY     | 5217
+|   Y  YYYY| 5216
+|   VV GGG | 5215
+|    VV G  | 5214
+|    OOOO  | 5213
+|       GG | 5212
+|       GG | 5211
+|        RR| 5210
+|  VV    RR| 5209
+|   VV  RRR| 5208
+|OOOVV  R  | 5207
+|O YYVVRRR | 5206
+|  YY   R  | 5205
+| BBRRR VV | 5204
+| BB R  VV | 5203
+| OOOGGVVVV| 5202
+| O BBGG   | 5201
+|    BB    | 5200
+|     BB   | 5199
+|     BBYY | 5198
+|    YYY YY| 5197
+|     YBBB | 5196
+|       B  | 5195
+|     GGG  | 5194
+|      G   | 5193
+|    BBB   | 5192
+|    B  RR | 5191
+|    RRR RR| 5190
+|     R  VV| 5189
+|    BBBBVV| 5188
+|       YY | 5187
+|        YY| 5186
+|       YYY| 5185
+|        Y | 5184
+|       RRR| 5183
+|  VV   R  | 5182
+|  VV  BBB | 5181
+|GGG   B VV| 5180
+|GBBB    VV| 5179
+| B     GGG| 5178
+|RRR     G | 5177
+|RRR     OO| 5176
+| RR     OO| 5175
+| OO    BB | 5174
+| OO     BB| 5173
+|  GGG  VV | 5172
+|   G    VV| 5171
+|   RRR  GG| 5170
+|    R   GG| 5169
+|    OO RR | 5168
+|    OO  RR| 5167
+|     BBBB | 5166
+|     RRVV | 5165
+|     RRVV | 5164
+|      BBBB| 5163
+|       VVV| 5162
+|       V  | 5161
+|       RRR| 5160
+|       R  | 5159
+|       BB | 5158
+|     GGGBB| 5157
+|      GGG | 5156
+|        GG| 5155
+|       GGG| 5154
+| GG     G | 5153
+| GG  RRRVV| 5152
+|OOO   R VV| 5151
+| O    YYY | 5150
+|GG     Y  | 5149
+| GG    OOO| 5148
+| GGG   OOO| 5147
+| GOO    OO| 5146
+|  OO    OO| 5145
+| VVVV   OO| 5144
+|  YY   VV | 5143
+|RRRYY   VV| 5142
+| R     YYY| 5141
+|VVVV    Y | 5140
+|   GGGGYYY| 5139
+|    BBBY  | 5138
+|    B BB  | 5137
+|       BB | 5136
+|       GGG| 5135
+|       G  | 5134
+|BB     YYY| 5133
+|BBRRRR  Y | 5132
+|BBOOO VVBB| 5131
+|BB O  VVBB| 5130
+|YYYOOO RR | 5129
+| Y  O  RR | 5128
+| YYYBBBB  | 5127
+| YYYY     | 5126
+|   Y BBB  | 5125
+| VVV  BRR | 5124
+| VYYYY  RR| 5123
+|   OO  VV | 5122
+|   OO   VV| 5121
+|    GGGOO | 5120
+|    G  OO | 5119
+|  OOO  OO | 5118
+|   OVVVVOO| 5117
+|  BB   GGG| 5116
+|  BB    G | 5115
+|GGGG  GGGG| 5114
+|  YYYBBBB | 5113
+|   YRR    | 5112
+|  OOO RR  | 5111
+|OOOO   RR | 5110
+|OYY OOGGG | 5109
+| YY  OOG  | 5108
+| GGGRRR   | 5107
+| GGGGR YY | 5106
+|   G    YY| 5105
+|   GG OOO | 5104
+|   GG OBBB| 5103
+|   GGGGB  | 5102
+|    BBBB  | 5101
+|  OOOO OOO| 5100
+|    OOOO  | 5099
+|    O VVV | 5098
+|      VYYY| 5097
+|     GGY  | 5096
+|      GG  | 5095
+| YYYY  YYY| 5094
+|   VV   Y | 5093
+|   VV   OO| 5092
+| BBB    OO| 5091
+| B    BBBB| 5090
+| OOO  BBBB| 5089
+|  O RRR   | 5088
+|BBB R     | 5087
+| BGGG     | 5086
+|   G    VV| 5085
+|   YY   VV| 5084
+|    YYRRR | 5083
+|  BBBB R  | 5082
+|OOYY YYYY | 5081
+| OOYY VV  | 5080
+| RRRR  VV | 5079
+|VV   OOO  | 5078
+| VV   O   | 5077
+|OOOO  RRR | 5076
+|  RRRR RYY| 5075
+|   RRR  YY| 5074
+|   RVV VVV| 5073
+|YYYYVV  V | 5072
+|  RR RRVV | 5071
+|  RR RRVV | 5070
+|   BBBBVVV| 5069
+|YYYY    V | 5068
+|VV     GGG| 5067
+|VVBBB  G  | 5066
+|BBB   VV  | 5065
+| BBYYYYVV | 5064
+| OOO  OOOO| 5063
+| O     RRR| 5062
+| BB    R  | 5061
+| BB   BB  | 5060
+| OOOO BB  | 5059
+|  GG   YY | 5058
+|  GG  YYYY| 5057
+|OOOOO  YY | 5056
+| OYYOO YYY| 5055
+|   YY  Y  | 5054
+| GGG  VV  | 5053
+| G OOOOVV | 5052
+|     BBBB | 5051
+|       VVV| 5050
+|       V  | 5049
+|YY    RRR | 5048
+|YY     R  | 5047
+|OO RR YYY | 5046
+|OO RR  Y  | 5045
+| RR GG RR | 5044
+| RR GG  RR| 5043
+|VV BB   YY| 5042
+| VV BB  YY| 5041
+|OO YYYYVV | 5040
+|OO  GG  VV| 5039
+| G BB   Y | 5038
+|RR GGGGOO | 5037
+| RRYY   OO| 5036
+|  YYYY GG | 5035
+|  YY GGGG | 5034
+|   GGGGG  | 5033
+|   G      | 5032
+| OOO      | 5031
+|  O       | 5030
+| RRR      | 5029
+| R        | 5028
+| GGG      | 5027
+| G        | 5026
+|YY        | 5025
+| YY   VVV | 5024
+|GG    V   | 5023
+| GG YYY   | 5022
+|  VVY BB  | 5021
+|YY VV BB  | 5020
+| YYOOOO   | 5019
+|YYYY      | 5018
+| VVGGGG   | 5017
+|  VV   OOO| 5016
+| YY     O | 5015
+| YY    YYY| 5014
+|  OO    Y | 5013
+|  OO   RR | 5012
+|   YYY  RR| 5011
+|   Y   YYY| 5010
+| VVV    Y | 5009
+|  VRRR RR | 5008
+|   R  YYRR| 5007
+|   YYYYY  | 5006
+|GGGGY  OOO| 5005
+|  YYY  O  | 5004
+| RRY  GGG | 5003
+| RR    G  | 5002
+| BBGG  BBB| 5001
+|  BBGG B  | 5000
+| YY    RR | 4999
+|  YY   RR | 4998
+|   GG  BBB| 4997
+|   GG  B  | 4996
+|    OO GGG| 4995
+|     OOG  | 4994
+|      VVVV| 4993
+|     YYY  | 4992
+|  OOOOY   | 4991
+|  RR  OOOO| 4990
+|  RR  VVV | 4989
+|  GG   V  | 4988
+|   GG GGGG| 4987
+|    YYYY  | 4986
+|    GG    | 4985
+|     GG   | 4984
+|    GGG   | 4983
+|     G GGG| 4982
+|    YYYYG | 4981
+|  RRR     | 4980
+|   R      | 4979
+|   GG     | 4978
+|   GGOOGGG| 4977
+|  GGG OOG | 4976
+|  GGGGG   | 4975
+| RRRR     | 4974
+|    VV    | 4973
+| YYYVV VV | 4972
+|  YRRR  VV| 4971
+|   R    YY| 4970
+|  BBBBVVYY| 4969
+|    VVVVV | 4968
+|     VOO  | 4967
+|       OO | 4966
+|       OOO| 4965
+|       O  | 4964
+|      BBB | 4963
+| VVVV BRR | 4962
+|   OO  RR | 4961
+|    OOYYYY| 4960
+|    OOOO  | 4959
+|       BB | 4958
+|       BB | 4957
+|     OOO  | 4956
+|     O    | 4955
+|    GGGG  | 4954
+|GGGG  BBB | 4953
+| OOO  B   | 4952
+|  O VVV   | 4951
+| VV V     | 4950
+|  VVYY    | 4949
+| GG YY    | 4948
+|BBGGRRR   | 4947
+| BB R  YYY| 4946
+|  RRRR  Y | 4945
+|OOOO   OO | 4944
+|   OO BBOO| 4943
+|    OO BB | 4942
+|   OO GGGG| 4941
+|OO  OORRR | 4940
+| OO  BBR  | 4939
+|OOOO BB   | 4938
+|   GGG    | 4937
+|    G     | 4936
+|   OOOGGG | 4935
+|   O VVG  | 4934
+|     VV   | 4933
+|BBBBBBBB  | 4932
+|  RRRR    | 4931
+|    VV    | 4930
+|     VVVVV| 4929
+|      RRV | 4928
+|      RR  | 4927
+|       YY | 4926
+|       YY | 4925
+|       GG | 4924
+|        GG| 4923
+|    RRRGG | 4922
+|     R GG | 4921
+|     RRR  | 4920
+|     R BB | 4919
+|        BB| 4918
+|       YYY| 4917
+|VVVV    Y | 4916
+|   VV  RRR| 4915
+|    VV R  | 4914
+|    BBYYYY| 4913
+|    BB GG | 4912
+|  YYYY  GG| 4911
+| OO    VVV| 4910
+| OO    V  | 4909
+| RRR VVV  | 4908
+|  R  V GGG| 4907
+|  OOOO G  | 4906
+|     RRR  | 4905
+|     RBBB | 4904
+|       B  | 4903
+|      VV  | 4902
+|       VV | 4901
+|  BB  YYY | 4900
+|   BB Y   | 4899
+|    OOOO  | 4898
+|VVYYY   YY| 4897
+|VVY     YY| 4896
+| BB   BBBB| 4895
+|  BB OOO  | 4894
+| RRRR OGGG| 4893
+|  OOO   G | 4892
+|   O   RRR| 4891
+|   GGGG R | 4890
+|      VVV | 4889
+|VVV   VRRR| 4888
+|V       R | 4887
+|BBB    GG | 4886
+|B YYY   GG| 4885
+|   Y   BB | 4884
+| BBB    BB| 4883
+| B     VV | 4882
+|RRYYOOOVV | 4881
+|RR YYO BBB| 4880
+| VVVV  B  | 4879
+|VVV    BB | 4878
+|V BBB   BB| 4877
+|   B  RRR | 4876
+| RRR OOR  | 4875
+| RVVVOO   | 4874
+|  V RR    | 4873
+|    RR    | 4872
+|   OOO    | 4871
+| BBBO     | 4870
+|  B   RRRR| 4869
+| RRR YYYY | 4868
+| RBBBB    | 4867
+|   BBBBBBB| 4866
+|    RRRB  | 4865
+|    R BB  | 4864
+|      BB  | 4863
+|      YYYY| 4862
+|        YY| 4861
+|        YY| 4860
+| YY   YYYY| 4859
+|YYYY   OOO| 4858
+| YY    O  | 4857
+|  VVVVRRR | 4856
+| RRR  R   | 4855
+|  R  YY   | 4854
+|VVV  YY   | 4853
+|V OO RRR  | 4852
+|  OO R    | 4851
+|OOO OOOO  | 4850
+| ORRRR    | 4849
+|  YYY  VV | 4848
+|   Y    VV| 4847
+|  OOOORRR | 4846
+| GGG  R   | 4845
+|  G   OOOO| 4844
+|  OOO VVV | 4843
+|   O  V   | 4842
+|   RROOOO | 4841
+|    RR    | 4840
+|     GGG  | 4839
+|      G   | 4838
+|     BBBB | 4837
+|       VV | 4836
+|        VV| 4835
+|       GGG| 4834
+|     RRRG | 4833
+|      R   | 4832
+|      GGGG| 4831
+|       BBB| 4830
+|       B  | 4829
+|       YYY| 4828
+|        Y | 4827
+|       YYY| 4826
+|        Y | 4825
+|      BBBB| 4824
+|      YYYY| 4823
+|      BBB | 4822
+|RR    B   | 4821
+|RR    VV  | 4820
+| VVVV VV  | 4819
+|    GGG   | 4818
+| RR G     | 4817
+| RRGGG    | 4816
+| YYYG     | 4815
+|  Y       | 4814
+|  RRR     | 4813
+|  RYYYRRRR| 4812
+|   Y RRR  | 4811
+|     R YYY| 4810
+|       Y  | 4809
+|      YYYY| 4808
+|       GGG| 4807
+|       G  | 4806
+|YYYY   GGG| 4805
+|  RROO G  | 4804
+|  RROO BBB| 4803
+|   RRR B  | 4802
+|   R   BBB| 4801
+|   OO  B  | 4800
+|   OO RRRR| 4799
+|  VVVVGG  | 4798
+|  RRR GG  | 4797
+|  R RRR   | 4796
+|    R     | 4795
+| OOOO     | 4794
+|GGG    YY | 4793
+|GRRR    YY| 4792
+| R     GGG| 4791
+| YYY    G | 4790
+|  Y    BBB| 4789
+| VVV   B  | 4788
+|  V   RR  | 4787
+|  BBBBRR  | 4786
+|    VVV   | 4785
+|     V    | 4784
+|    RRR   | 4783
+|    R     | 4782
+|  OOOO    | 4781
+|  GGGG    | 4780
+|  GG      | 4779
+|   GG     | 4778
+|   GG RRRR| 4777
+|    GGVVVV| 4776
+|VVYYYY OOO| 4775
+|VV  YY O  | 4774
+| GGG YYRR | 4773
+|  G   GGRR| 4772
+|VVV    GG | 4771
+| V    GGGG| 4770
+|OO    YYYY| 4769
+| OO   VVV | 4768
+|  BBB  V  | 4767
+|  B RRRR  | 4766
+|       GGG| 4765
+|       G  | 4764
+|       RRR| 4763
+|    RRRR  | 4762
+|     RRRRR| 4761
+|     OO   | 4760
+|      OO  | 4759
+|     BB   | 4758
+| BBB BB   | 4757
+|  B   VVVV| 4756
+|  OO  RRRR| 4755
+|   OO  RR | 4754
+|   GG   RR| 4753
+|    GG GGG| 4752
+|     GGG  | 4751
+|      GG  | 4750
+|       VVV| 4749
+|YYYYYYYV  | 4748
+|Y GG  VVVV| 4747
+|   GGOOO  | 4746
+|    GGO   | 4745
+|    GG    | 4744
+| YYYY     | 4743
+|    OO    | 4742
+|     OO   | 4741
+|   BBB    | 4740
+|   B      | 4739
+|   RRVVV  | 4738
+|   RR V   | 4737
+|    RRR   | 4736
+|    R     | 4735
+|OOOOO     | 4734
+|OBBBOO RR | 4733
+|  B     RR| 4732
+|BBBB   VVV| 4731
+| BB  GGGV | 4730
+|  BB GVV  | 4729
+|  RR   VV | 4728
+|   RR  GG | 4727
+|    YYYYGG| 4726
+|    RRR VV| 4725
+|  RRR   VV| 4724
+|   RR YYY | 4723
+|    VVVY  | 4722
+| OO V     | 4721
+|  OOYYYY  | 4720
+|   RRR    | 4719
+|    R YYY | 4718
+|  RRR  Y  | 4717
+|  R    GGG| 4716
+|  OO    G | 4715
+|   OOOOYYY| 4714
+|  GGGOO Y | 4713
+|   G  BBBB| 4712
+|   BB   BB| 4711
+|    BB  BB| 4710
+|    RRRRRR| 4709
+|    R  R  | 4708
+| BBVV  YYY| 4707
+| BBVV  Y  | 4706
+| YYYY BBBB| 4705
+|OOO   RRRR| 4704
+| O    VVVV| 4703
+|OOO   GGG | 4702
+|O     G VV| 4701
+|RR RRRR VV| 4700
+| RR   VVVV| 4699
+|YYYY   VV | 4698
+|  GG    VV| 4697
+|   GG  RR | 4696
+|   VV   RR| 4695
+|   VV GGG | 4694
+|  RRR  G  | 4693
+|  R  RRR  | 4692
+|  YYYR    | 4691
+|  Y  YY   | 4690
+|RRRR  YY  | 4689
+|   BB GG  | 4688
+|  BBBBGG  | 4687
+|  BB   VV | 4686
+| VVV    VV| 4685
+| VBB  VVVV| 4684
+|  BBGGGGGG| 4683
+|GGG GGBBBB| 4682
+| G  VVV   | 4681
+| RR  V    | 4680
+| RR VV    | 4679
+|GGGGVVBB  | 4678
+|  RRR BB  | 4677
+|  R BBB   | 4676
+|    B     | 4675
+|    OOO   | 4674
+|    OOOBBB| 4673
+|     OOB  | 4672
+|     YYRRR| 4671
+|      YYR | 4670
+|    RRRR  | 4669
+|      YYY | 4668
+|    BB Y  | 4667
+|VVVVBBVV  | 4666
+|   BB VV  | 4665
+|VVVBBRR   | 4664
+|V GGGRR   | 4663
+|   GBB    | 4662
+|    BB RRR| 4661
+|    OOOOR | 4660
+|GGRRRR    | 4659
+|GG  OOO   | 4658
+|VV  O     | 4657
+|VV  GG    | 4656
+| OO  GG   | 4655
+| OO   BBBB| 4654
+|GGG   GGGG| 4653
+|G    YYY  | 4652
+|GG    Y   | 4651
+|GG    RRR | 4650
+| OOOO R   | 4649
+|    YYY   | 4648
+|    Y     | 4647
+|   YYYVV  | 4646
+|    Y VV  | 4645
+|    VVV   | 4644
+|     V    | 4643
+|    OOOO  | 4642
+|       RR | 4641
+|     GGGRR| 4640
+|      G   | 4639
+|     RRRR | 4638
+|RRR   RRRR| 4637
+|R GGG OOO | 4636
+|  G YY ORR| 4635
+|    YY  RR| 4634
+|     VVVV | 4633
+|BB     OOO| 4632
+|BB      O | 4631
+| GGGGG RR | 4630
+| GGG   RR | 4629
+|  YY  OOO | 4628
+|  YY   OBB| 4627
+|   RRRR BB| 4626
+|    RRRGG | 4625
+|    R   GG| 4624
+|   OOO OO | 4623
+| GGGO  OO | 4622
+| G     GG | 4621
+| YYY    GG| 4620
+| Y    VVV | 4619
+|YYY   VRR | 4618
+|Y       RR| 4617
+|OO    RRRR| 4616
+|OO  GGGG  | 4615
+| GG BB    | 4614
+| GGYYBB   | 4613
+| RRRYY    | 4612
+| R BBB    | 4611
+|    B     | 4610
+|  VVVV RRR| 4609
+|     OOOR | 4608
+|      O   | 4607
+|      RRRR| 4606
+|       BBB| 4605
+|       B  | 4604
+|  YYYOOORR| 4603
+|  YBB O RR| 4602
+|    BBVVV | 4601
+|  RRRR V  | 4600
+|   OOOYYYY| 4599
+|    O  BB | 4598
+|   OO  BB | 4597
+|    OO OOO| 4596
+|     VVO  | 4595
+|   VVVVRRR| 4594
+|    VV  R | 4593
+|    OO  GG| 4592
+|    OO  GG| 4591
+|     RRRR | 4590
+|        BB| 4589
+|GG      BB| 4588
+| GG   BBBB| 4587
+|GGGG  OO  | 4586
+| YY    OO | 4585
+| YY GGBB  | 4584
+|  VVVGGBB | 4583
+|   V  YYYY| 4582
+|   YYYY   | 4581
+|     YY GG| 4580
+|      YYGG| 4579
+|       OO | 4578
+|        OO| 4577
+|       GG | 4576
+|        GG| 4575
+|       GG | 4574
+|        GG| 4573
+|       GGG| 4572
+|       G  | 4571
+|OO     BB | 4570
+|OO      BB| 4569
+| BB    RR | 4568
+| BB     RR| 4567
+|  YY OOGG | 4566
+|OOYY OO GG| 4565
+|OO YY BBB | 4564
+|GGG YYB   | 4563
+|G GGGGOOOO| 4562
+|     YYY  | 4561
+| RRR YVV  | 4560
+| RBBB VVOO| 4559
+|   BVVVVOO| 4558
+|OOO    OO | 4557
+|O RRR   OO| 4556
+|   R   RR | 4555
+| VVV    RR| 4554
+|  VBBYY OO| 4553
+|   BB YYOO| 4552
+|  OO   GGG| 4551
+|  OO    G | 4550
+|BBB    GGG| 4549
+| B      G | 4548
+| VVV BBOOO| 4547
+|  V  BBO  | 4546
+|GGG   OOOO| 4545
+| GVVVV VVV| 4544
+|  VVVV V  | 4543
+|  YYYYOO  | 4542
+|   VVV OO | 4541
+|   V YYYY | 4540
+|    VVV   | 4539
+|     V    | 4538
+|    BBB   | 4537
+|    B     | 4536
+|    VVV   | 4535
+|    V  RR | 4534
+|    GGGRR | 4533
+|     GBBBB| 4532
+|       VVV| 4531
+|   BB  V  | 4530
+|   BB RRR | 4529
+|    RR RYY| 4528
+|    RR  YY| 4527
+|   GG RRRR| 4526
+|    GG YY | 4525
+| VVBB   YY| 4524
+| VVBB  VVV| 4523
+|GG YY  V  | 4522
+| GGYY RR  | 4521
+|  GGGG RR | 4520
+|     RRR  | 4519
+|     R YYY| 4518
+|       Y  | 4517
+|       RR | 4516
+|        RR| 4515
+|        GG| 4514
+| RRR VVVGG| 4513
+|  R  V RR | 4512
+|BBBB VVVRR| 4511
+|  VV  V   | 4510
+|VV VVOO   | 4509
+|VV VV OO  | 4508
+| VVVVYYY  | 4507
+|  VV Y BBB| 4506
+|   VV  B  | 4505
+|    VVBBBB| 4504
+|     RRGGG| 4503
+|     RR G | 4502
+|      GGGG| 4501
+| BBB  RR  | 4500
+| B VVVRR  | 4499
+|   V OOOO | 4498
+|       RR | 4497
+|        RR| 4496
+|       BB | 4495
+|        BB| 4494
+|      VVV | 4493
+|       V  | 4492
+|      GG  | 4491
+|      GG  | 4490
+|       BBB| 4489
+|       B  | 4488
+|       RR | 4487
+|        RR| 4486
+|       GGG| 4485
+|       G  | 4484
+|    BB OOO| 4483
+|    BB  O | 4482
+|    RRBBBB| 4481
+|     RR   | 4480
+|   VVVRRRR| 4479
+|    V RRRR| 4478
+|    OOO   | 4477
+|     O    | 4476
+|    BBB   | 4475
+|     B    | 4474
+|   GGRRRR | 4473
+|    GG    | 4472
+|  BBBB    | 4471
+|   OOO    | 4470
+|    OGGG  | 4469
+|     G    | 4468
+|   RRRR   | 4467
+|    YY    | 4466
+|     YY   | 4465
+|     OOVV | 4464
+|      OOVV| 4463
+|    RRR   | 4462
+|     R    | 4461
+|     YY   | 4460
+|     YY   | 4459
+|      OO  | 4458
+|      OO  | 4457
+|   BBB GG | 4456
+|   B VVVGG| 4455
+|      V   | 4454
+|      YYYY| 4453
+|       GGG| 4452
+|        G | 4451
+|      YYYY| 4450
+|VV   BB   | 4449
+|VV OO BB  | 4448
+|RR OO  GGG| 4447
+|RR  BBBG  | 4446
+|RR  B VVVV| 4445
+| RR     RR| 4444
+|YYY     RR| 4443
+| Y   VVOO | 4442
+|GGG   VVOO| 4441
+|GRR GGGG  | 4440
+| RR    BB | 4439
+| GGG    BB| 4438
+|  G    RRR| 4437
+|YYY  VVR  | 4436
+|Y     VV  | 4435
+|RRRR  RR  | 4434
+|  GGGG RR | 4433
+|    OO RRR| 4432
+|     OOR  | 4431
+|     OOOOO| 4430
+|      OOO | 4429
+|     VVV  | 4428
+|      V   | 4427
+|  RRRGGG  | 4426
+|   R G    | 4425
+|   YYY    | 4424
+|   Y YYY  | 4423
+|     YYYY | 4422
+|       Y  | 4421
+|     OOOO | 4420
+|       BBB| 4419
+|       B  | 4418
+|      YYYY| 4417
+|       OO | 4416
+|        OO| 4415
+|      BBBB| 4414
+| BBBB  VVV| 4413
+|BBBB   V  | 4412
+| RRRVVVV  | 4411
+|  R   VVV | 4410
+|GGGG   V  | 4409
+|   BBB VV | 4408
+|    BYYYVV| 4407
+|      YRR | 4406
+|       RR | 4405
+|    BB OOO| 4404
+|     BBO  | 4403
+|      BBBB| 4402
+|    BBB   | 4401
+|GGGGBVVOO | 4400
+| GGG  VVOO| 4399
+| G BBB VV | 4398
+|    BBBBVV| 4397
+|     B OO | 4396
+|        OO| 4395
+|      GGGG| 4394
+|   OO   OO| 4393
+|   OO   OO| 4392
+|    GGGRRR| 4391
+|     GYYR | 4390
+|VVV GGGYY | 4389
+|V GG G    | 4388
+|  GG VVGGG| 4387
+|   RRRVVG | 4386
+|    RVVVV | 4385
+|      OOOO| 4384
+|     VVGGG| 4383
+|     VVG  | 4382
+|OOOO  VVVV| 4381
+| OO    GGG| 4380
+|  OO    G | 4379
+|  RR   BB | 4378
+|   RR BBBB| 4377
+|   GGGBB  | 4376
+|   G GG   | 4375
+| YYYYGGYYY| 4374
+|  BB GGGY | 4373
+|  BB  G   | 4372
+|  VV  RRRR| 4371
+|  VVBBVV  | 4370
+| BBBBB VV | 4369
+| B VV  BBB| 4368
+|    VV B  | 4367
+|   RRRGG  | 4366
+|  YYR  GG | 4365
+|  YYOOOO  | 4364
+|  VVVVRRRR| 4363
+|    BBB   | 4362
+|    B  OO | 4361
+| YY OO  OO| 4360
+| YY OO YYY| 4359
+| RR OOOY  | 4358
+| RR OGGGG | 4357
+|  YYY  RRR| 4356
+|   Y    R | 4355
+|  YY   VV | 4354
+|   YYRRRVV| 4353
+|   OOR    | 4352
+|   OOOOOO | 4351
+|    OO    | 4350
+|     OO   | 4349
+|    RR BB | 4348
+|     RRBB | 4347
+|      YYY | 4346
+|      Y   | 4345
+|      OOO | 4344
+|       O  | 4343
+|     BBBB | 4342
+|  VVV VV  | 4341
+|   V   VV | 4340
+| YYYY  OO | 4339
+| BBB    OO| 4338
+| BRRRR RRR| 4337
+|OO  GGG R | 4336
+| OO G  GG | 4335
+|  GGGGOOGG| 4334
+|     VVOO | 4333
+|     VV   | 4332
+| RR   RRRR| 4331
+|VVRR  RRRR| 4330
+| VV    GGG| 4329
+|GGG     G | 4328
+|G     OOOO| 4327
+|GGGG   OOO| 4326
+|  VV   O  | 4325
+|   VV BB  | 4324
+| YYYY BB  | 4323
+| RRR   BBB| 4322
+|  ROOOO B | 4321
+|      YYY | 4320
+|      Y   | 4319
+|     VV   | 4318
+|     VV   | 4317
+|     OOO  | 4316
+|     OYYY | 4315
+|      Y   | 4314
+|     RRR  | 4313
+|RR RRRR   | 4312
+| RRR      | 4311
+| BBBBB    | 4310
+| BB BBB   | 4309
+|  VVV BB  | 4308
+|   VVVV   | 4307
+|     V    | 4306
+|     GG   | 4305
+|      GG  | 4304
+|     GGG  | 4303
+|     G    | 4302
+| YYRRR    | 4301
+| YYR      | 4300
+| RRR      | 4299
+| R        | 4298
+| BBBB     | 4297
+|  OO    RR| 4296
+|  OO    RR| 4295
+|   VV BBBB| 4294
+|    VVYYYY| 4293
+|     OO   | 4292
+|     OO   | 4291
+|      GGGG| 4290
+|      VVVV| 4289
+|       GG | 4288
+|OO      GG| 4287
+| OO    VVV| 4286
+|OOO     V | 4285
+|O YY   VVV| 4284
+|   YY  V  | 4283
+|    BBBOOO| 4282
+|     B  O | 4281
+|    OOOGGG| 4280
+|     OGGG | 4279
+|       GG | 4278
+|       VVV| 4277
+|        V | 4276
+|       GG | 4275
+|       GG | 4274
+|        VV| 4273
+| BB     VV| 4272
+|  BB   BBB| 4271
+|   OOO  B | 4270
+|   O   GG | 4269
+|BBBB   GG | 4268
+|GGG   OOOO| 4267
+|G YYY YYY | 4266
+|   Y  YOO | 4265
+|   BBB OO | 4264
+|   B   BBB| 4263
+|  BBB  B  | 4262
+|  BYYY YYY| 4261
+|    Y  Y  | 4260
+|  OOO OO  | 4259
+|   O  OO  | 4258
+|  VVV  VV | 4257
+|  V     VV| 4256
+|  YYY  YY | 4255
+|  Y     YY| 4254
+| OOO GGYY | 4253
+|  O   GGYY| 4252
+|  YYY  GGG| 4251
+|  Y     G | 4250
+|VVV    RRR| 4249
+| V RR   R | 4248
+|VVV RR YYY| 4247
+|V RRR   Y | 4246
+|  R    YYY| 4245
+|GGGG   Y  | 4244
+|VVV   GGGG| 4243
+|VOO    RRR| 4242
+|  OO    R | 4241
+|  GGG  GG | 4240
+|   G    GG| 4239
+|  GGGG YY | 4238
+|    VV YY | 4237
+|     VVGG | 4236
+|      OOGG| 4235
+|       OO | 4234
+|   GG  GGG| 4233
+|    GG G  | 4232
+|     BBB  | 4231
+|      BBBB| 4230
+|        B | 4229
+|       VVV| 4228
+|       V  | 4227
+|      VVVV| 4226
+|       BBB| 4225
+| GG    B  | 4224
+|  GG   BBB| 4223
+|  GGG  B  | 4222
+|   G GGG  | 4221
+|VVGG  G   | 4220
+|VV GGOO   | 4219
+| GGGGOO   | 4218
+|   OOO    | 4217
+|OOO O     | 4216
+| O  YYY   | 4215
+|OOO Y   BB| 4214
+| ORRRR  BB| 4213
+| RRRR BBBB| 4212
+|    GGGG  | 4211
+|     RR   | 4210
+|    BBRR  | 4209
+|     BB   | 4208
+|      YYRR| 4207
+|      YYRR| 4206
+|       VV | 4205
+|       VV | 4204
+| BB    YY | 4203
+|  BB    YY| 4202
+| YY  BBBB | 4201
+|  YY  GGG | 4200
+| BBB  G   | 4199
+| B    BBBB| 4198
+|YY  RROOOO| 4197
+|YY  RRVVVV| 4196
+| YYY RRR  | 4195
+|  Y  R    | 4194
+|  YY RRR  | 4193
+|  YY R    | 4192
+|  YY YYYY | 4191
+|   YYOOO  | 4190
+| BBB  O   | 4189
+|  B  VVRRR| 4188
+|  GG VVR  | 4187
+|  GGGG OO | 4186
+|   VVGG OO| 4185
+|   VVYYYY | 4184
+|  BBYYY   | 4183
+|   BBY    | 4182
+|    YYY   | 4181
+|     Y RRR| 4180
+|     GGGR | 4179
+|     G RRR| 4178
+|       R  | 4177
+|       BB | 4176
+|        BB| 4175
+|        OO| 4174
+|    OOOOOO| 4173
+|       BBB| 4172
+|        B | 4171
+|       BB | 4170
+|OO     BB | 4169
+|OO    OO  | 4168
+|RR     OO | 4167
+|RROO   YYY| 4166
+|YYOO   Y  | 4165
+| YY   YYYY| 4164
+| BBB  BB  | 4163
+| B BBB BB | 4162
+|    B VVVV| 4161
+|    VVV   | 4160
+|BBB V     | 4159
+|BYYYY  VV | 4158
+|   BBBB VV| 4157
+|   GG  YYY| 4156
+|    GG Y  | 4155
+|   BB OOOO| 4154
+|   BBBBBB | 4153
+|    YYYY  | 4152
+| RR   GGG | 4151
+| RR   G   | 4150
+|VVV OOO   | 4149
+|V    OBBBB| 4148
+|RRR  RR   | 4147
+| R    RR  | 4146
+| BB    OO | 4145
+|  BB    OO| 4144
+|OOOOYY VVV| 4143
+|   VVYYV  | 4142
+|    VV GG | 4141
+|    BBB GG| 4140
+|     BVVV | 4139
+|    VVVV  | 4138
+|     VBBBB| 4137
+|    BBBYY | 4136
+|     B YY | 4135
+|     BBB  | 4134
+|     BBBBB| 4133
+|      YYYY| 4132
+|     RRR  | 4131
+|     R OOO| 4130
+|       O  | 4129
+|       GGG| 4128
+|       G  | 4127
+|      OOO | 4126
+|      OVVV| 4125
+|        V | 4124
+|        BB| 4123
+|        BB| 4122
+| RR    YYY| 4121
+|  RR   Y  | 4120
+|OOO   YYYY| 4119
+|O      YYY| 4118
+|OOYYY   Y | 4117
+|OOY    BBB| 4116
+|YYY YYY B | 4115
+| Y   Y RRR| 4114
+|YBBBBB  BB| 4113
+|  BBB GGGG| 4112
+| RRR RR   | 4111
+| R   RR   | 4110
+| GG   YYY | 4109
+| GG RRYVVV| 4108
+| GGGRR V  | 4107
+| G BBB VVV| 4106
+|    B  V  | 4105
+| YYYYVVV  | 4104
+|    YYV   | 4103
+|    YYVVVV| 4102
+|    BBRRRR| 4101
+|     BB   | 4100
+|VV   RR   | 4099
+| VV  RR   | 4098
+|GG    BBBB| 4097
+| GG    GGG| 4096
+| RRR    G | 4095
+| R    BBB | 4094
+| RR   B   | 4093
+| RROO RR  | 4092
+| BB OORR  | 4091
+| BB  YY GG| 4090
+|  YY  YYGG| 4089
+|   YY  BB | 4088
+|   OOO BB | 4087
+|    O RR  | 4086
+|   BBBRR  | 4085
+|VVVBOOOO  | 4084
+|VVVVV GGGG| 4083
+|  YYY  YYY| 4082
+|VVY     Y | 4081
+| VV    VV | 4080
+|YY RRR  VV| 4079
+| YY R  OOO| 4078
+|GG  BBB O | 4077
+| GG B GGGG| 4076
+|  GGGG OO | 4075
+|  OO    OO| 4074
+|  OO   GGG| 4073
+|  GG   G  | 4072
+|   GG  BBB| 4071
+| VVV   B  | 4070
+| V OOOYYY | 4069
+|    O Y   | 4068
+|    BBBB  | 4067
+|     RRRR | 4066
+|      RRR | 4065
+|       R  | 4064
+|      VVVV| 4063
+|       VVV| 4062
+|        V | 4061
+|      GGGG| 4060
+|      RRR | 4059
+|      RYYY| 4058
+|        Y | 4057
+|    BB YYY| 4056
+|     BBY  | 4055
+|     YYY  | 4054
+|     Y    | 4053
+|    GGGG  | 4052
+|     VVVV | 4051
+|       YYY| 4050
+|       Y  | 4049
+|      VV  | 4048
+|       VV | 4047
+|      VVV | 4046
+|      V   | 4045
+|      GG  | 4044
+|      GG  | 4043
+|GGGGBBBB  | 4042
+| VV   GGGG| 4041
+|  VVYYY   | 4040
+|OOOOYRR   | 4039
+| VVV  RR  | 4038
+|  V    YYY| 4037
+| GGYYYYYY | 4036
+| GGYOOYYVV| 4035
+|GGGVVOO VV| 4034
+| G VV  OOO| 4033
+| YYY    O | 4032
+|  YBB RRR | 4031
+|   BB  R  | 4030
+|   BB  YY | 4029
+|    BB  YY| 4028
+|YY BBBBBBB| 4027
+|YY BVVVV  | 4026
+| OO   VVVV| 4025
+| OO VVRRRR| 4024
+|BBB  VV   | 4023
+| BRRRR    | 4022
+|   GG     | 4021
+|    GG    | 4020
+|    GGYYYY| 4019
+|    GG GGG| 4018
+|    RRRRG | 4017
+|    RRR   | 4016
+|GGG  R    | 4015
+|GGG  OOO  | 4014
+| GG   O   | 4013
+| BBBBOO   | 4012
+|    VVOO  | 4011
+|   GGVV   | 4010
+|    GG    | 4009
+|     GGVVV| 4008
+|     GGV  | 4007
+|     YYYY | 4006
+|     GGG  | 4005
+|      G   | 4004
+|      YYYY| 4003
+|     BBBB | 4002
+|  VVRRRR  | 4001
+|  VV  OOOO| 4000
+|   RRYY   | 3999
+|    RRYY  | 3998
+|    OOO   | 3997
+|     O    | 3996
+|   GGG    | 3995
+|GG  GVV   | 3994
+| GG   VV  | 3993
+|VVV    GG | 3992
+|VBBB    GG| 3991
+|  B    RR | 3990
+|  RRR  RR | 3989
+|   R OOO  | 3988
+|OOOGGO YYY| 3987
+| O GG  Y  | 3986
+|VVVV   RRR| 3985
+|OO     R  | 3984
+| OO    OOO| 3983
+|  VVVV  O | 3982
+|     YYBBB| 3981
+|VV   YYB  | 3980
+|VV    OOOO| 3979
+| OOO   VVV| 3978
+| O VV   V | 3977
+|   VVRRRR | 3976
+|   BBB YY | 3975
+|    BOOYY | 3974
+|RRR   OO  | 3973
+|R    RR   | 3972
+|RR   RR   | 3971
+| RRGGGG   | 3970
+|  YYY     | 3969
+|   Y      | 3968
+|  BB      | 3967
+|   BB     | 3966
+|    GG YYY| 3965
+|     GG Y | 3964
+|     BBBB | 3963
+| RR   GGGG| 3962
+| RR    BB | 3961
+|  VVVV  BB| 3960
+|    VV RR | 3959
+|     VV RR| 3958
+|      VVV | 3957
+|  RR   V  | 3956
+|  RR   BBB| 3955
+|  BB    B | 3954
+|BBBB   GGG| 3953
+| BB    G  | 3952
+|YYYY   OOO| 3951
+| YYYY  O  | 3950
+|  YY   BBB| 3949
+|   YY  B  | 3948
+|   RR  GG | 3947
+|   RR   GG| 3946
+|   OOOOGGG| 3945
+|    OOOOG | 3944
+|      VV  | 3943
+|      VV  | 3942
+|      GGG | 3941
+|      GRRR| 3940
+|       R  | 3939
+|     OOO  | 3938
+|     OGGGG| 3937
+|       YYY| 3936
+|       Y  | 3935
+|       RR | 3934
+|        RR| 3933
+|   YY  VV | 3932
+|   YY  VV | 3931
+|BBB GGRRRR| 3930
+|B    GG   | 3929
+|OOO RRRR  | 3928
+|O YY   RRR| 3927
+|YYYY    R | 3926
+| YY   GGG | 3925
+|  BBB GYYY| 3924
+|   BOO Y  | 3923
+|     OOYY | 3922
+|      RRYY| 3921
+|  BBB RR  | 3920
+| GGB   BB | 3919
+|  GG    BB| 3918
+|   VVVVBB | 3917
+|RRROOO  BB| 3916
+|R VVO   RR| 3915
+|  VV    RR| 3914
+|  OO   BB | 3913
+|VV OO   BB| 3912
+| VVOO VVV | 3911
+|  RROO V  | 3910
+|YYRR  GGG | 3909
+| YYGG  G  | 3908
+|GGGGGG BB | 3907
+|RR     BB | 3906
+|RR     OO | 3905
+|YYBB    OO| 3904
+| YYBB GGGG| 3903
+|RR    YYYY| 3902
+|RR  YYY   | 3901
+| VVV YGGG | 3900
+| VBBB G YY| 3899
+| BBB    YY| 3898
+| BB    OOO| 3897
+|BBB     O | 3896
+| BBBYY YYY| 3895
+|  BBYY Y  | 3894
+|   GGGOOOO| 3893
+|   GOOOGGG| 3892
+|     OBBG | 3891
+|       BB | 3890
+|       VVV| 3889
+|       V  | 3888
+|     VVV  | 3887
+|      V   | 3886
+|      RRR | 3885
+|      R   | 3884
+|  BB  YYY | 3883
+|   BB YGGG| 3882
+| BBGG  G  | 3881
+|  BBGGYYYY| 3880
+|  YYRRR   | 3879
+|  YYR     | 3878
+|  GGGRR   | 3877
+|  G  RR   | 3876
+| VVVVVVV  | 3875
+|  V YY    | 3874
+|  BBBYY   | 3873
+|OO B      | 3872
+|OOOOO     | 3871
+|RRRO      | 3870
+|R VV      | 3869
+|   VV BBBB| 3868
+|   VVVYYY | 3867
+|    V YVVV| 3866
+|  RRR   V | 3865
+|   R VVVV | 3864
+|   OOO    | 3863
+|   O      | 3862
+| GGGG     | 3861
+|  RR  OOOO| 3860
+|   RR  BB | 3859
+|    YYY BB| 3858
+|    Y GGG | 3857
+|      GBB | 3856
+|      OOBB| 3855
+| VV   OO  | 3854
+|  VV   YY | 3853
+|  OOO  YY | 3852
+|  ORR OOO | 3851
+|    RR O  | 3850
+|     GGG  | 3849
+|     G    | 3848
+|     BB   | 3847
+|      BB  | 3846
+|    OOO   | 3845
+|    O     | 3844
+|    VV VVV| 3843
+|    VV V  | 3842
+|OO   RRR  | 3841
+| OO   R   | 3840
+| GGG OOOO | 3839
+| G BBB    | 3838
+|    BYYY  | 3837
+|      Y   | 3836
+|      GG  | 3835
+|    VVGG  | 3834
+|    VVGGGG| 3833
+|    YYY   | 3832
+|     Y    | 3831
+|     BBB  | 3830
+|     BYY  | 3829
+|       YY | 3828
+|      YYY | 3827
+|      Y   | 3826
+|     OO   | 3825
+|      OO  | 3824
+|    BBB   | 3823
+|    B     | 3822
+|BBBBYYYY  | 3821
+|   YY     | 3820
+|   YY     | 3819
+|    RRR   | 3818
+|    R     | 3817
+|   RR   RR| 3816
+|    RR  RR| 3815
+|    GG YYY| 3814
+|GGG GG  Y | 3813
+| GGGGGRRR | 3812
+|   BB  R  | 3811
+|    BB VVV| 3810
+|    GGGGV | 3809
+| YY VVV   | 3808
+| YY V     | 3807
+|  OOO     | 3806
+|  O    BBB| 3805
+|  VV   B  | 3804
+|   VV OOOO| 3803
+| RR OOO   | 3802
+|  RRO  BB | 3801
+|   YYY BB | 3800
+|   Y    YY| 3799
+|   BBB  YY| 3798
+|    B  VV | 3797
+|   GG   VV| 3796
+|RRRGGGGGG | 3795
+| R  GG    | 3794
+|OOOO GG   | 3793
+|   BBB    | 3792
+|    B     | 3791
+|   YY     | 3790
+|   YY     | 3789
+| GGGG     | 3788
+|   BB     | 3787
+|    BBVVVV| 3786
+|   YYYY   | 3785
+|  GGGG VVV| 3784
+|     RRRV | 3783
+|      R   | 3782
+|      GGGG| 3781
+|      VVV | 3780
+|       V  | 3779
+|       OO | 3778
+|        OO| 3777
+|      VVVV| 3776
+|       OOO| 3775
+|      RRO | 3774
+|VVV   RR  | 3773
+|V      RRR| 3772
+|YYY    R  | 3771
+| YGG RRR  | 3770
+|   GGR    | 3769
+|    YY    | 3768
+|    YY    | 3767
+|     YY   | 3766
+| YYY YY   | 3765
+|  YOOOO   | 3764
+|    BBBB  | 3763
+|     VVV  | 3762
+|    RRV GG| 3761
+|     RR GG| 3760
+|      BBB | 3759
+|      B   | 3758
+|      RRRR| 3757
+|     GGGG | 3756
+|        OO| 3755
+| BB     OO| 3754
+| BB    BBB| 3753
+| OO     B | 3752
+|  OO  GGG | 3751
+|OOO    G  | 3750
+| O     BBB| 3749
+|YY     B  | 3748
+| YY   RRRR| 3747
+| YYYY OOYY| 3746
+| BBRR OOYY| 3745
+|  BBRR RR | 3744
+|VVVV   RR | 3743
+|  YYYY VVV| 3742
+|   YYY V  | 3741
+|   Y  OOO | 3740
+| GGGG  O  | 3739
+|YYY   RRRR| 3738
+| YYYYYVVVV| 3737
+|     GGG  | 3736
+|     G BB | 3735
+|        BB| 3734
+|       OOO| 3733
+|       O  | 3732
+| BBB  YY  | 3731
+|  B    YY | 3730
+|  GGOORRRR| 3729
+|  GGOOGGGG| 3728
+|   VVGG   | 3727
+|   VV GG  | 3726
+|VV  GG OO | 3725
+|VV  GG  OO| 3724
+|BBB VV RRR| 3723
+| B  VV  R | 3722
+| GGG VV VV| 3721
+|RRG   VVVV| 3720
+|RR   YYYY | 3719
+| OOO   RR | 3718
+| O     RR | 3717
+|VVVVVV BB | 3716
+|VRRRV OOBB| 3715
+|  R    OO | 3714
+|  BBBB VV | 3713
+| BB    VV | 3712
+| BBVV GG  | 3711
+| OOVV  GG | 3710
+|  OO RR OO| 3709
+|  OO  RROO| 3708
+|   OO  GG | 3707
+|    RRR GG| 3706
+|    R BBBB| 3705
+| VV   VVVV| 3704
+| VV    VVV| 3703
+|VVV     V | 3702
+|V       RR| 3701
+|VVB  BBORR| 3700
+| YYYY BBBB| 3699
+|    YYGGGG| 3698
+|     YY   | 3697
+|    YY    | 3696
+|     YY GG| 3695
+|    BBB GG| 3694
+|    B GGG | 3693
+|       G  | 3692
+|      YYYY| 3691
+|      YYY | 3690
+|      Y   | 3689
+|      RRRR| 3688
+|     VV   | 3687
+|BBB   VV  | 3686
+| BVVVYYY  | 3685
+|GGV   Y   | 3684
+| GG   GG  | 3683
+|OO    GG  | 3682
+| OORRVV   | 3681
+|BB RRVV   | 3680
+| BBRRRR GG| 3679
+|  VV BBBGG| 3678
+|   VVB OO | 3677
+|   OO   OO| 3676
+|YYYYOORRR | 3675
+| GGG   R  | 3674
+|  GBB  YY | 3673
+|   BB   YY| 3672
+|    OOVVVV| 3671
+|  VVOO GGG| 3670
+|   VV   G | 3669
+|    GGYYYY| 3668
+|    GGGGGG| 3667
+|   YY OO  | 3666
+|    YYOO  | 3665
+|    OOOO  | 3664
+|       GGG| 3663
+|        G | 3662
+|   YY OOOO| 3661
+| BB YY BB | 3660
+| BBGGG BB | 3659
+| VVGVVVYYY| 3658
+| VV V   Y | 3657
+|OO VVV  GG| 3656
+|OO  V   GG| 3655
+| OOOO  BB | 3654
+|  YYYY  BB| 3653
+|   OOOOOOO| 3652
+|BBBO  OOOO| 3651
+| BOO   RRR| 3650
+|  OOYY R  | 3649
+| OO YYVVVV| 3648
+|  OOOOO   | 3647
+|  OOOO    | 3646
+|BBO   YYYY| 3645
+| BB   YY  | 3644
+|  OOOOYY  | 3643
+|   GGGOOO | 3642
+|   G GGO  | 3641
+|     GG   | 3640
+|    OOO   | 3639
+|    O RR  | 3638
+|       RR | 3637
+|     BBB  | 3636
+|      BVV | 3635
+|      GGVV| 3634
+|       GG | 3633
+| OOO  VVV | 3632
+|  OOO VRRR| 3631
+|   OO  R  | 3630
+| BBBRRRR  | 3629
+|  BBBBB   | 3628
+|     RR   | 3627
+|     RROO | 3626
+|   GGG  OO| 3625
+| RRRG  BBB| 3624
+| R     B  | 3623
+|GGGG   GG | 3622
+|BBB    GG | 3621
+| BVV BB RR| 3620
+|  VV  BBRR| 3619
+|   RR  BBB| 3618
+|   RR  B  | 3617
+| YYYY  VVV| 3616
+|RR      V | 3615
+| RR    GGG| 3614
+|BBBB    G | 3613
+|RR      RR| 3612
+|RR    VVRR| 3611
+|RRR    VV | 3610
+| RBB VVYY | 3609
+|  BB VVYY | 3608
+| RRR  OOOO| 3607
+| R    YYYY| 3606
+|VVV   GGGG| 3605
+|V       VV| 3604
+|RRR OO  VV| 3603
+| R  OOVVVV| 3602
+|YY   VVV  | 3601
+| YY  VRR  | 3600
+| YYBB  RR | 3599
+|  YYBBBB  | 3598
+|VVV   BB  | 3597
+| V  OOOO  | 3596
+| GGG   BBB| 3595
+| GOOO  B  | 3594
+|   O   GGG| 3593
+| VVVV  G  | 3592
+|OOOO  GGGG| 3591
+| OOOO RR  | 3590
+|  GGG RR  | 3589
+|  G   YYYY| 3588
+|VVVV   RRR| 3587
+|GGGG    R | 3586
+| BB    BB | 3585
+| BB     BB| 3584
+|  OOO  BBB| 3583
+|   O    B | 3582
+|   BB OOOO| 3581
+|    BBOOOO| 3580
+|     VVV  | 3579
+|  BB  V   | 3578
+|  BB BBB  | 3577
+| YY   BYYY| 3576
+|GGYY    Y | 3575
+| GG    YYY| 3574
+|VVV YY  Y | 3573
+| V   YYGGG| 3572
+|BB RRR  G | 3571
+|BB R    GG| 3570
+| VVVV   GG| 3569
+| YYY  RRR | 3568
+| Y     R  | 3567
+| OOOO  GG | 3566
+|OOO    GG | 3565
+|OOOOOOVVV | 3564
+| O  OO V  | 3563
+| GGGOOOO  | 3562
+| G     VV | 3561
+| YYYYVVVVV| 3560
+|VVV  V    | 3559
+|V    RRR  | 3558
+|RRR  R    | 3557
+|R   BBB   | 3556
+|GG  B RR  | 3555
+|GG    RR  | 3554
+| VVV BBB  | 3553
+| V    B   | 3552
+| GGG  OOOO| 3551
+|  G   GGGG| 3550
+|GGG     VV| 3549
+|G       VV| 3548
+|BBB   RRRR| 3547
+| B    RR  | 3546
+|GG   YYRR | 3545
+|GG    YY  | 3544
+| VV  YYY  | 3543
+|  VV YYYYY| 3542
+|   RRRRGG | 3541
+| RRRR  GG | 3540
+|    RRRR  | 3539
+|       YYY| 3538
+|       Y  | 3537
+|      VV  | 3536
+|      VV  | 3535
+|     BB   | 3534
+|      BB  | 3533
+|       YYY| 3532
+|       Y  | 3531
+|       BB | 3530
+|    OOO BB| 3529
+|OOO O  GGG| 3528
+|OVVVV   G | 3527
+| OO GGG OO| 3526
+|  OO G  OO| 3525
+|   BBB VV | 3524
+|    B  VV | 3523
+|   GGGYYYY| 3522
+|    GGGG  | 3521
+|     G GGG| 3520
+|        G | 3519
+|      RRR | 3518
+|       R  | 3517
+|  RRRR BBB| 3516
+| YYBBB B  | 3515
+| YY B OO  | 3514
+|  OOOO OO | 3513
+|     BBB  | 3512
+|     B GG | 3511
+|       GG | 3510
+|       BB | 3509
+|     GGBB | 3508
+|      GG  | 3507
+|     GGGG | 3506
+|  OOOVVVV | 3505
+|   OBB RR | 3504
+|    BBBBRR| 3503
+|     RRBB | 3502
+|      RR  | 3501
+|      BBB | 3500
+|  RR   B  | 3499
+|VVVRR  RRR| 3498
+| V     R  | 3497
+| YYYY  VVV| 3496
+|    RRR V | 3495
+|    R BBBB| 3494
+|       OOO| 3493
+|        O | 3492
+|       VV | 3491
+|        VV| 3490
+|       GGG| 3489
+|       G  | 3488
+|       GGG| 3487
+|        G | 3486
+|      BBB | 3485
+|      B   | 3484
+|      YYYY| 3483
+|      RR  | 3482
+|      RR  | 3481
+|VV    YYY | 3480
+|VV     Y  | 3479
+| GGG  YYY | 3478
+| G    Y VV| 3477
+|RRR     VV| 3476
+| R     VVV| 3475
+| YYY   V  | 3474
+| YRRRR RRR| 3473
+|OOO    R  | 3472
+| O    YYYY| 3471
+|RRYY  GGG | 3470
+|RRYY  G   | 3469
+| VVV VVVV | 3468
+|  VRRR    | 3467
+|    R     | 3466
+|   YY     | 3465
+|VV  YYBBBB| 3464
+|VV RR  RR | 3463
+|YYYYRR  RR| 3462
+|YYRRR  GGG| 3461
+|YYR BB G  | 3460
+| GGGGBBBB | 3459
+|   BB   BB| 3458
+|   BB OOOO| 3457
+|    OOO   | 3456
+|     O    | 3455
+|     VVV  | 3454
+|     VVVV | 3453
+|       V  | 3452
+| YY GGGOOO| 3451
+|  YYG   O | 3450
+|  YYY GGGG| 3449
+|   Y   RR | 3448
+|   GGGG RR| 3447
+|      YYYY| 3446
+|   YYY VVV| 3445
+|    Y  V  | 3444
+|   BB  OO | 3443
+|   BB   OO| 3442
+|   YYYYGG | 3441
+|   RRYYGG | 3440
+|    RRYY  | 3439
+|   VVVV   | 3438
+|   RR     | 3437
+|   RR  GGG| 3436
+|    GGGGG | 3435
+|    GGGG  | 3434
+|    VVGGGG| 3433
+|     VV   | 3432
+|      OO  | 3431
+|       OO | 3430
+|       BB | 3429
+|  RR    BB| 3428
+|   RR  GG | 3427
+|   VVVV GG| 3426
+|      YYYY| 3425
+|       YYY| 3424
+|        Y | 3423
+|       YY | 3422
+|       YY | 3421
+|       RR | 3420
+|        RR| 3419
+|       YY | 3418
+|        YY| 3417
+|       OO | 3416
+|    VVV OO| 3415
+|     VBBB | 3414
+|      B   | 3413
+|      OOOO| 3412
+|     VVVV | 3411
+|       OOO| 3410
+| GG     O | 3409
+| GG    BB | 3408
+|YYY     BB| 3407
+|Y       VV| 3406
+|BB      VV| 3405
+| BB   GGG | 3404
+| VV   G   | 3403
+| VV  YYRR | 3402
+|  OOO YYRR| 3401
+|   O   OOO| 3400
+|   OO   O | 3399
+|VV OO  VV | 3398
+|VV  YY  VV| 3397
+| BB  YYGGG| 3396
+|  BBRRRRG | 3395
+|  GGGG    | 3394
+|     VVVV | 3393
+|      OOOO| 3392
+|       VVV| 3391
+|        V | 3390
+|       YY | 3389
+|        YY| 3388
+|        GG| 3387
+|        GG| 3386
+|        OO| 3385
+|        OO| 3384
+|        GG| 3383
+|  GGGRRRGG| 3382
+|   G R BBB| 3381
+|YYYRRR BVV| 3380
+| YBBR   VV| 3379
+|   BB OOOO| 3378
+|   RRRR   | 3377
+|    VV    | 3376
+|     VV   | 3375
+|      RRRR| 3374
+|      YYY | 3373
+|YYY    Y  | 3372
+|Y OO BBB  | 3371
+|OO OOB  RR| 3370
+|OO VVVV RR| 3369
+|OOOO   VVV| 3368
+| YYY    V | 3367
+|  YGGGGGGG| 3366
+|    RRRRG | 3365
+|       VVV| 3364
+|     VVVV | 3363
+|   OO VYYY| 3362
+|   OO   Y | 3361
+|    GG  YY| 3360
+|     GG YY| 3359
+|      YYYY| 3358
+|       VVV| 3357
+|    YY  V | 3356
+|GGGGYY VV | 3355
+|   RRR  VV| 3354
+|   RGG GG | 3353
+|    GG  GG| 3352
+|   YY  VVV| 3351
+|    YY  V | 3350
+|   GG GGGG| 3349
+|    GG BBB| 3348
+|   YYYY B | 3347
+|      VVVV| 3346
+|    VVV   | 3345
+|BB  V YYYY| 3344
+|BB   YYY  | 3343
+|VVV VVY GG| 3342
+| V  VV  GG| 3341
+| VV  GG RR| 3340
+|  VV GG RR| 3339
+|  BB  VVVV| 3338
+|   BB  VV | 3337
+|  RR    VV| 3336
+|  RR OOOO | 3335
+|  GG RR   | 3334
+|   GGRR   | 3333
+|RR VVV    | 3332
+|RR  VGGGG | 3331
+|OO     RRR| 3330
+|OO      R | 3329
+|VVV    GGG| 3328
+| V      G | 3327
+|VVV    OOO| 3326
+|VOO    O  | 3325
+| OO    YYY| 3324
+|GG     Y  | 3323
+|GG     BBB| 3322
+|BB     B  | 3321
+| GGGG YYYY| 3320
+|    YYY   | 3319
+|     Y    | 3318
+|     RRRR | 3317
+|        RR| 3316
+|        RR| 3315
+|        BB| 3314
+|    RRRRBB| 3313
+|       YYY| 3312
+|       Y  | 3311
+|       GG | 3310
+|        GG| 3309
+|       BB | 3308
+|     YYYBB| 3307
+|     Y    | 3306
+|    RRR RR| 3305
+|    R   RR| 3304
+|    OO YYY| 3303
+|     OOY  | 3302
+|      RRRR| 3301
+|       OOO| 3300
+| BB    O  | 3299
+|BBBB  RRR | 3298
+| BB   RGG | 3297
+|VVVVVV  GG| 3296
+|VOOOVYYYY | 3295
+| O GGG    | 3294
+|OO  GRRR  | 3293
+| OO   RGG | 3292
+| BBB RRRGG| 3291
+| B BBR BBB| 3290
+|   BB   B | 3289
+|   OO   GG| 3288
+|    OO  GG| 3287
+|     BBYYY| 3286
+|     BB Y | 3285
+|      GGRR| 3284
+|      GGRR| 3283
+|      RRR | 3282
+|       R  | 3281
+|      VVVV| 3280
+|        VV| 3279
+| GG     VV| 3278
+| GG    YY | 3277
+| OOGG   YY| 3276
+| OOGG YYY | 3275
+| VVV   Y  | 3274
+| V VVV GGG| 3273
+|   V YYG  | 3272
+|      YY  | 3271
+|      OOOO| 3270
+|       GGG| 3269
+|       G  | 3268
+|      VV  | 3267
+|VV    VV  | 3266
+|VV    GGG | 3265
+|OOO  RRG  | 3264
+| OOO RR   | 3263
+|  OOGG    | 3262
+|  YYYGG   | 3261
+|   YYYY   | 3260
+|    Y     | 3259
+|   GG     | 3258
+|    GG OOO| 3257
+|   RR  O  | 3256
+|   RR GGGG| 3255
+|   VVVV   | 3254
+|     OOOO | 3253
+|      RRR | 3252
+|      ROO | 3251
+|        OO| 3250
+|       BBB| 3249
+|       B  | 3248
+|       GG | 3247
+|       GG | 3246
+|      BB  | 3245
+|      BB  | 3244
+|   VVV YY | 3243
+|    V  YY | 3242
+| BBBBBYYYY| 3241
+| BBB RR   | 3240
+|GGG   RR  | 3239
+|G     RR  | 3238
+|BB YYOORR | 3237
+|BB YYOOYYY| 3236
+| GG RRRY  | 3235
+| GG R  RR | 3234
+| VVVV   RR| 3233
+|   YYY YYY| 3232
+|   YBBBY  | 3231
+|    B BBBB| 3230
+|       BB | 3229
+|    VVVVBB| 3228
+|      GGG | 3227
+|      G   | 3226
+|      GG  | 3225
+|       GG | 3224
+|       BBB| 3223
+|        B | 3222
+|       VVV| 3221
+|       V  | 3220
+|      RRRR| 3219
+|       OOO| 3218
+|  YYYY O  | 3217
+|   GGGOO  | 3216
+|   G  OOGG| 3215
+|   RRRR GG| 3214
+|   YY  VVV| 3213
+|VVYYYY V  | 3212
+|VV YYGGOOO| 3211
+| RRR GGO  | 3210
+| R GGG OOO| 3209
+|   G   O  | 3208
+| YYYY VV  | 3207
+|    VVVV  | 3206
+|    VVOOOO| 3205
+|     OO   | 3204
+|      OO  | 3203
+|       VVV| 3202
+|        V | 3201
+|     VVVV | 3200
+|       GGG| 3199
+|GGG    G  | 3198
+| GBB   BBB| 3197
+|   BBGGBBB| 3196
+| RRRR GGBB| 3195
+|  YYY VVV | 3194
+|  Y  VVV  | 3193
+| OOO VV   | 3192
+|  OGGG    | 3191
+| GGGG  GGG| 3190
+| GBBB  GOO| 3189
+| GGB    OO| 3188
+|  GG   OOO| 3187
+|   BB   O | 3186
+|   BB OOO | 3185
+|  RRR  O  | 3184
+|   R GGG  | 3183
+|  OOOG    | 3182
+|  O OOOO  | 3181
+|   RR     | 3180
+|   RR     | 3179
+| BBB   YYY| 3178
+|  B  RRRY | 3177
+|  VV R BBB| 3176
+|   VV   B | 3175
+|   GGG  RR| 3174
+|    G   RR| 3173
+|    OO  BB| 3172
+|    OO  BB| 3171
+|     YYYY | 3170
+|GG   GGG  | 3169
+|GG  OOGYY | 3168
+|YYY OO  YY| 3167
+|YBB  RR VV| 3166
+|  BB RR VV| 3165
+|   YYYYVV | 3164
+|BBBYYYYVV | 3163
+| BGGGG BB | 3162
+|     VVVBB| 3161
+| GGG  VOOO| 3160
+|  G    O  | 3159
+|  GG   RR | 3158
+|   GG   RR| 3157
+|  VV   RRR| 3156
+|   VV   R | 3155
+| GGG   VV | 3154
+|  G     VV| 3153
+|  GGG  YYY| 3152
+|  G    Y  | 3151
+|  BBB  OOO| 3150
+|   B   O  | 3149
+|  YYYV GG | 3148
+| VVY    GG| 3147
+|  VV VVVV | 3146
+|RRRR  VVVV| 3145
+| OO    GGG| 3144
+|  OO   G  | 3143
+| VVBB  BB | 3142
+| VVBBOOOBB| 3141
+|BBBB OGGGG| 3140
+|   RRRRYYY| 3139
+|     BBBY | 3138
+|      BOOO| 3137
+|       O  | 3136
+|       OO | 3135
+|        OO| 3134
+|        OO| 3133
+|  BB    OO| 3132
+|  BB    RR| 3131
+|  OOOO  RR| 3130
+|    YYYGGG| 3129
+|    Y  G  | 3128
+|    GGGG  | 3127
+|      OOOO| 3126
+|       OOO| 3125
+|       O  | 3124
+|OOOO  OO  | 3123
+| OO   OO  | 3122
+|  OO VV   | 3121
+|  YYY VV  | 3120
+|  Y  YY   | 3119
+| YYY YY   | 3118
+|  YGGGG   | 3117
+|      OOOO| 3116
+|     VVV  | 3115
+|     V    | 3114
+|     GGRRR| 3113
+|     GGR  | 3112
+|      RRR | 3111
+|   GGGGR  | 3110
+|     YYYY | 3109
+|      YYYY| 3108
+|      VVVV| 3107
+|       OOO| 3106
+|        O | 3105
+|GGG   GGG | 3104
+| G    GRR | 3103
+| RRRR  RR | 3102
+|  YYYYOOOO| 3101
+|     YY   | 3100
+| GG BBYY  | 3099
+|  GGBB    | 3098
+|   BB     | 3097
+|   BB  GGG| 3096
+| YYBBBB G | 3095
+| YY   RRR | 3094
+|  GG  R   | 3093
+|   GGVVRR | 3092
+|RRRR  VVRR| 3091
+| RRR VV   | 3090
+| R GGGVV  | 3089
+|   GGGG   | 3088
+|     G GG | 3087
+|     YYYGG| 3086
+|     YGGGG| 3085
+|      OOOO| 3084
+|       YYY| 3083
+|       Y  | 3082
+|RRR    OOO| 3081
+|R      O  | 3080
+|VV     OOO| 3079
+|VV   GGGO | 3078
+|GG OO G   | 3077
+| GGOO RRRR| 3076
+|RRRR   GG | 3075
+|RR      GG| 3074
+|RR      RR| 3073
+| RRRR   RR| 3072
+|  GGG  YYY| 3071
+|  GYY   Y | 3070
+|   YY  RRR| 3069
+|  VVV  RBB| 3068
+|  VGGGG BB| 3067
+|      RRR | 3066
+|       R  | 3065
+|   OOOGG  | 3064
+|   O   GG | 3063
+|  GGG  VV | 3062
+|  G  GGGVV| 3061
+| GG GGG   | 3060
+|  GGGG    | 3059
+|VV GGG    | 3058
+| VV G     | 3057
+| GGGOO    | 3056
+| G OOOO   | 3055
+|   OO     | 3054
+| BBB      | 3053
+| BRRRR RRR| 3052
+| VV     R | 3051
+| VV    GGG| 3050
+|BB      G | 3049
+|BB    GGGG| 3048
+| GGGGOOO  | 3047
+|YYVVVO VVV| 3046
+| YYV    V | 3045
+|GGG    GGG| 3044
+| G     G  | 3043
+|OOOO VVV  | 3042
+|  GGGV VVV| 3041
+|  G    V  | 3040
+| RRR   RRR| 3039
+|  R    R  | 3038
+|  RR RRRR | 3037
+|  RR  VVVV| 3036
+|  OO   VVV| 3035
+|BBOO    V | 3034
+| BB  YYYY | 3033
+|YYY    VVV| 3032
+|Y VV   V  | 3031
+|  VV  VVVV| 3030
+|  YYYY  RR| 3029
+|   VV   RR| 3028
+| OOVV  VVV| 3027
+|  OO    V | 3026
+|   YYYYBBB| 3025
+|     RRRB | 3024
+|     RBB  | 3023
+|      BB  | 3022
+|      GG  | 3021
+|       GG | 3020
+|       OO | 3019
+|       OO | 3018
+|      OOO | 3017
+|       O  | 3016
+|     VVGG | 3015
+|     VV GG| 3014
+|      RRYY| 3013
+|      RRYY| 3012
+|VVVV   VVV| 3011
+|   GGG V  | 3010
+|    G  GG | 3009
+|    YYY GG| 3008
+|     YRRRR| 3007
+| YY   BBB | 3006
+| YY    B  | 3005
+| GGG  VV  | 3004
+| GOOOO VV | 3003
+|    OOOYY | 3002
+|    OOOOYY| 3001
+|      O   | 3000
+|     GG   | 2999
+|     GG   | 2998
+|      YYYY| 2997
+|VV     VVV| 2996
+| VV     V | 2995
+|  YY   OO | 2994
+|  YY   OO | 2993
+|  GG GGVVV| 2992
+|   GGGG V | 2991
+|    GG OOO| 2990
+| BBB GGO  | 2989
+|  B  RRGG | 2988
+| BB  RR GG| 2987
+|  BB  RRRR| 2986
+|  RR   VVV| 2985
+|  RR   V  | 2984
+|   OOO BBB| 2983
+|    O   B | 2982
+| YYYY  YYY| 2981
+|  BB   Y  | 2980
+|  BB   OOO| 2979
+|   BBBB O | 2978
+|     GGGG | 2977
+|      RR  | 2976
+|       RR | 2975
+|     RRR  | 2974
+|      ROO | 2973
+|  YYY  OO | 2972
+|  Y GGGG  | 2971
+|     YYYY | 2970
+|      YY  | 2969
+|OO    YY  | 2968
+|OO   GGGG | 2967
+| VVV   RR | 2966
+|  V    RR | 2965
+|  GG  RRRR| 2964
+|   GG VV  | 2963
+|  GGG  VV | 2962
+|VVG   RR  | 2961
+| VV    RR | 2960
+|BBBOOO VV | 2959
+|BYYO    VV| 2958
+|  YY   RRR| 2957
+| OO    R  | 2956
+|  OO   BB | 2955
+|   RRR  BB| 2954
+|    RYY OO| 2953
+|     YY OO| 2952
+|     YY VV| 2951
+|      YYVV| 2950
+|YY OORR VV| 2949
+|YY OORR VV| 2948
+|VVVVBB RRR| 2947
+|   OOBB R | 2946
+|    OO VV | 2945
+|   VV   VV| 2944
+|   VV YYYY| 2943
+|GGGG    BB| 2942
+|   RROOOBB| 2941
+|   RROGGGG| 2940
+|    OOOO  | 2939
+|     GG   | 2938
+|     GG   | 2937
+|  GGRR    | 2936
+|  GGRRGGGG| 2935
+|  OOOOOOOO| 2934
+|GG   VVV  | 2933
+|GG    V   | 2932
+| OOOO GGGG| 2931
+| YYY    VV| 2930
+| Y      VV| 2929
+|YY    YYYY| 2928
+| YY    YY | 2927
+| VVVV   YY| 2926
+|BBB    YYY| 2925
+|B  GG  Y  | 2924
+|BBBGG YYY | 2923
+| BOORRRY  | 2922
+|  OOR     | 2921
+|  OOO  YY | 2920
+|  O BB YY | 2919
+|    BB BB | 2918
+|GG  VV BB | 2917
+| GG  VVGGG| 2916
+| YYYRRRRG | 2915
+| Y   OOO  | 2914
+|VV   O    | 2913
+| VVOOO    | 2912
+|RRRRO     | 2911
+|  VV OOOO | 2910
+|BBBVV VVVV| 2909
+| B OOOO   | 2908
+|RRRR      | 2907
+| OOO      | 2906
+|  OVV     | 2905
+|   VV     | 2904
+|   GGGGBBB| 2903
+| VVVV  B  | 2902
+|  OO YYOO | 2901
+|   OOYY OO| 2900
+|    RR RRR| 2899
+|     RRR  | 2898
+|     YYY  | 2897
+|     Y    | 2896
+|    BBB   | 2895
+|     B    | 2894
+|   RRRRRR | 2893
+|     BBRR | 2892
+|      BB  | 2891
+|       VVV| 2890
+|        V | 2889
+|       OO | 2888
+|        OO| 2887
+|       BB | 2886
+|       BB | 2885
+|      RRRR| 2884
+|       OOO| 2883
+|        O | 2882
+| GG     GG| 2881
+| GG     GG| 2880
+|YYYY  YYYY| 2879
+|RRR     YY| 2878
+| R      YY| 2877
+|OO     BBB| 2876
+|OO     B  | 2875
+| RR  OOO  | 2874
+|  RR O YYY| 2873
+|  BBB  Y  | 2872
+|  B    BBB| 2871
+| OOO    B | 2870
+| O YYYY YY| 2869
+|      RRYY| 2868
+| OO    RR | 2867
+| OO    OO | 2866
+|BBB     OO| 2865
+|B      GG | 2864
+|VV    RRGG| 2863
+| VV    RR | 2862
+|BBBOOOORR | 2861
+|B YYY   RR| 2860
+|  YOOO BBB| 2859
+|    O  B  | 2858
+|YYY GG YYY| 2857
+|Y    GGY  | 2856
+|YYY YYYY  | 2855
+|Y   RR    | 2854
+|GGG RR    | 2853
+|G YYY     | 2852
+| GGY      | 2851
+|  GG      | 2850
+|YYYY      | 2849
+|   YY  YYY| 2848
+|    YY  Y | 2847
+|    GG YYY| 2846
+|     GGY  | 2845
+|      OO  | 2844
+|VV    OO  | 2843
+| VV RR YYY| 2842
+| VV  RRY  | 2841
+| VV   RRRR| 2840
+|YYOO   YY | 2839
+|YY OO   YY| 2838
+| OOO   OOO| 2837
+|  O     O | 2836
+| GG     GG| 2835
+|  GGBBB GG| 2834
+|OOOO BRRR | 2833
+|   RR R   | 2832
+|   RR BBBB| 2831
+|   OOOVV  | 2830
+|   O  VV  | 2829
+|   RRR GGG| 2828
+|    R  G  | 2827
+|    RR YYY| 2826
+|     RRY  | 2825
+|    BBOOOO| 2824
+|    BB YY | 2823
+|    BB YY | 2822
+|     BBVVV| 2821
+|   OOO V  | 2820
+|   O RRR  | 2819
+|     R GG | 2818
+|YY YYYYGG | 2817
+| YY   RR  | 2816
+| YYY   RR | 2815
+| YYY   VVV| 2814
+|  YY    V | 2813
+| VV    OO | 2812
+|  VV    OO| 2811
+|  RR  OOOO| 2810
+|  RR  OOOO| 2809
+|  YYY  YYY| 2808
+|  Y     Y | 2807
+|  VVV  YY | 2806
+| RRV    YY| 2805
+| RR  RRBB | 2804
+| RRRRRRBB | 2803
+|    OOOO  | 2802
+|       BB | 2801
+|       BB | 2800
+|      VV  | 2799
+|      VV  | 2798
+|       RR | 2797
+|    GGGGRR| 2796
+|GG     YY | 2795
+|GG     YY | 2794
+|BBB    GGG| 2793
+| B      G | 2792
+| VVV   YYY| 2791
+|  VBBB  Y | 2790
+|    BGGGG | 2789
+|    RRRR  | 2788
+|       BB | 2787
+|        BB| 2786
+|       GGG| 2785
+|        G | 2784
+|        VV| 2783
+|        VV| 2782
+|        GG| 2781
+|     BBBGG| 2780
+|     B OO | 2779
+|      RROO| 2778
+|  BB  RR  | 2777
+|  BB YY   | 2776
+| RRR YY VV| 2775
+|  RGGGG VV| 2774
+|     VVBBB| 2773
+|     VVB  | 2772
+|     YYYY | 2771
+|OOO   YYYY| 2770
+|O VV  VVVV| 2769
+|GGGVV   BB| 2768
+| G  GG  BB| 2767
+| GGGGGGGGG| 2766
+|  G  YYY  | 2765
+|  BBBBY   | 2764
+|    OO    | 2763
+| VVVOO    | 2762
+| V VV     | 2761
+|   VV     | 2760
+|BBBB      | 2759
+| VVV    YY| 2758
+| V VV   YY| 2757
+|    VV RR | 2756
+|     OOORR| 2755
+|    VVO   | 2754
+|    VV    | 2753
+|  GGGVV   | 2752
+|  G  VVBB | 2751
+|  YYYY BB | 2750
+|  BBBBVV  | 2749
+|   OOOOVV | 2748
+|  GGGG    | 2747
+|    YY    | 2746
+|     YY   | 2745
+|      GG  | 2744
+|      GG  | 2743
+|GG     RR | 2742
+|GG      RR| 2741
+|YYYY  YYYY| 2740
+| YYY   RRR| 2739
+| Y     R  | 2738
+|YY    RRR | 2737
+| YY    R  | 2736
+| BB    YY | 2735
+|  BBOO YY | 2734
+|  GGOORRRR| 2733
+|  GGBBBB  | 2732
+| YYY RRR  | 2731
+| Y    R   | 2730
+| GG  BB   | 2729
+|  GG BB   | 2728
+|   GGG    | 2727
+|    G     | 2726
+|   RR     | 2725
+|   RR     | 2724
+|   RR     | 2723
+|    RR    | 2722
+| YYYGG GGG| 2721
+| Y OOGG G | 2720
+|   OO  YY | 2719
+|   YY   YY| 2718
+|   YY GGGG| 2717
+|   OO  BBB| 2716
+|   OO   B | 2715
+|   RRRRGG | 2714
+|     BBBGG| 2713
+|VV    B   | 2712
+|VVRRR GG  | 2711
+|BBBR   GG | 2710
+|B VVV VVV | 2709
+|  V   VBB | 2708
+| GG YY  BB| 2707
+| GG  YYYY | 2706
+| GG   GGYY| 2705
+|  GG   GG | 2704
+| YYY  BBBB| 2703
+|  Y    VVV| 2702
+| OO    V  | 2701
+| OO VV GG | 2700
+|  BBVV  GG| 2699
+|   BB  OO | 2698
+| BBB    OO| 2697
+| B     VV | 2696
+| GGGG   VV| 2695
+|  OO  OOO | 2694
+|   OO OGG | 2693
+| YYYYGGGG | 2692
+|  GGGGGBB | 2691
+|  GYY     | 2690
+| VVYY     | 2689
+| VVYY     | 2688
+| BBBYY    | 2687
+|  B       | 2686
+|  RR      | 2685
+|  RR      | 2684
+|  RRR RR  | 2683
+|  R   RR  | 2682
+|  RRRBB   | 2681
+|   R  BB  | 2680
+| RRR GGBBB| 2679
+|  R  GG B | 2678
+|  OOO OOOO| 2677
+|   O    OO| 2676
+|  VVV   OO| 2675
+|   V VVVV | 2674
+|   RRRRYY | 2673
+|  GG    YY| 2672
+|   GG YYYY| 2671
+|   YYYBBBB| 2670
+|    Y BB  | 2669
+|   VV  BB | 2668
+|   VV OO  | 2667
+|   RRROO  | 2666
+|    RGG   | 2665
+|      GG  | 2664
+|       OOO| 2663
+|       O  | 2662
+|       RRR| 2661
+|       R  | 2660
+|       YY | 2659
+|       YY | 2658
+|OO  YYOOO | 2657
+|OO  YY O  | 2656
+|OO   BBB  | 2655
+|OO    B   | 2654
+|OO    VVV | 2653
+|OOBBB  V  | 2652
+| RRB  BB  | 2651
+|  RR   BB | 2650
+|  VVVVGGG | 2649
+|    VV G  | 2648
+|    VVOOOO| 2647
+|     BBBB | 2646
+|       BBB| 2645
+|   RRGGB  | 2644
+|   RR GG  | 2643
+|GGGG BB   | 2642
+|   VV BB  | 2641
+|OOOVV VV  | 2640
+| O OO VV  | 2639
+|VV OOGGGG | 2638
+|VVOO   RR | 2637
+| OOOO   RR| 2636
+|  OO   BBB| 2635
+|YYYY   B  | 2634
+| RR  RRR  | 2633
+| RR   RGG | 2632
+|  OOO   GG| 2631
+|   O  VVV | 2630
+|   RRRV   | 2629
+|   R YYOO | 2628
+|      YYOO| 2627
+|    VVVV  | 2626
+|      VVVV| 2625
+|     YYY  | 2624
+| OOO Y YYY| 2623
+| O     Y  | 2622
+|RR RRGGG  | 2621
+|RR  RRG   | 2620
+|OOOBBBB   | 2619
+| OBBB     | 2618
+|OOB       | 2617
+| OO       | 2616
+|GGGG      | 2615
+|  BBB     | 2614
+|   B      | 2613
+|  GGGG OO | 2612
+|  VV    OO| 2611
+|   VV  VVV| 2610
+|  GG    V | 2609
+|   GG  GGG| 2608
+|    BB G  | 2607
+|     BBVV | 2606
+|      RRVV| 2605
+|   RRR RR | 2604
+|   RRRRR  | 2603
+|     RRR  | 2602
+|      R   | 2601
+|     YYBB | 2600
+| BB  YY BB| 2599
+|  BB  OOOO| 2598
+|   GG YYY | 2597
+|   GG YOO | 2596
+|    BB  OO| 2595
+|    BB VVV| 2594
+|BB OOO  V | 2593
+|BB  OYYYY | 2592
+|BBB VVVV  | 2591
+| BYY  YYYY| 2590
+|   YYOORR | 2589
+|    GGOORR| 2588
+|     GGGGG| 2587
+|      RRG | 2586
+|      RR  | 2585
+|       BBB| 2584
+|        B | 2583
+|      GGG | 2582
+|      G OO| 2581
+|        OO| 2580
+|       BB | 2579
+|        BB| 2578
+|        GG| 2577
+|RR      GG| 2576
+| RR    BBB| 2575
+|GGG    BVV| 2574
+| G   BBBVV| 2573
+| BBB BVVVV| 2572
+| B BBRR   | 2571
+|   BB RR  | 2570
+|GGGYYYY   | 2569
+|G   OOO   | 2568
+|GG   O    | 2567
+| GG BBB   | 2566
+|BBBB B    | 2565
+|   BBBB   | 2564
+|  GG    YY| 2563
+|   GG   YY| 2562
+| VVV YYYBB| 2561
+| VYYYY  BB| 2560
+|   YGGBBBB| 2559
+|     GG   | 2558
+|   GGGG   | 2557
+|      GGG | 2556
+|      G   | 2555
+|   GGBBBB | 2554
+|    GG    | 2553
+|  VVV     | 2552
+|   V      | 2551
+|   VV     | 2550
+|   VV     | 2549
+|  YY      | 2548
+|   YY     | 2547
+|RRRBB  BBB| 2546
+|RRRRBB  B | 2545
+|  RVVVVVV | 2544
+|    VV BBB| 2543
+|  RRR  B  | 2542
+|  R RRYYYY| 2541
+|     RR   | 2540
+|      BB  | 2539
+|    VVBB  | 2538
+|     VV   | 2537
+|     GGGG | 2536
+|      GGGG| 2535
+|      GGGG| 2534
+|     RR   | 2533
+|      RR  | 2532
+|     GGGG | 2531
+|    BB    | 2530
+| GGGBB    | 2529
+|  GGG  GGG| 2528
+|    GG  G | 2527
+| VVVV BBB | 2526
+|BBB   BGGG| 2525
+|B RR   G  | 2524
+|  RR   YYY| 2523
+|   BBB  Y | 2522
+|   B   BBB| 2521
+|   OO  B  | 2520
+|    OOVVVV| 2519
+|    RRRR  | 2518
+|    RRRR  | 2517
+|     VV   | 2516
+|     VV   | 2515
+| YY   GGGG| 2514
+|  YY   YY | 2513
+|   YYYY YY| 2512
+|     OOOO | 2511
+|       YY | 2510
+|        YY| 2509
+|BBB   GGGG| 2508
+| BVV  RRRR| 2507
+|   VV VVVV| 2506
+|    YYYY  | 2505
+|      GGG | 2504
+|      GBB | 2503
+|       BB | 2502
+|       YY | 2501
+| BB     YY| 2500
+|  BB   BB | 2499
+|   RR VVBB| 2498
+|   RR VV  | 2497
+|  BB OOVVV| 2496
+|  BB OO V | 2495
+|  RR VV YY| 2494
+|  RR VV YY| 2493
+|GGG   YYYY| 2492
+| G    GGG | 2491
+|OOOO   G  | 2490
+|GGG   RR  | 2489
+|GGGG  RR  | 2488
+| G    VVVV| 2487
+| OO    GGG| 2486
+| OO YYYG  | 2485
+|RRR Y  RRR| 2484
+| RVVVV R  | 2483
+|     VVVV | 2482
+|   OORR   | 2481
+|   OO RR  | 2480
+| RRR GGG  | 2479
+|  RRR GYY | 2478
+| VVRR   YY| 2477
+|  VV  GGGG| 2476
+|BBB BBBB  | 2475
+| BBBBB    | 2474
+|    BB    | 2473
+|     BB   | 2472
+|     YY   | 2471
+| RR   YY  | 2470
+|  RR   GGG| 2469
+| OOO   G  | 2468
+| O YY  OOO| 2467
+|  GGYY  O | 2466
+|   GG  YYY| 2465
+| RRR   Y  | 2464
+| R    OOO | 2463
+| GGG   O  | 2462
+| G    VVVV| 2461
+|GG     BBB| 2460
+|GG      B | 2459
+|OORR BBBB | 2458
+| OORROO   | 2457
+| BBB OO OO| 2456
+|  BGGG  OO| 2455
+|   G GGYYY| 2454
+|     GGY  | 2453
+|      BB  | 2452
+|      BB  | 2451
+|       OOO| 2450
+|       O  | 2449
+|  RRRR VVV| 2448
+|   GGGGV  | 2447
+|      YY  | 2446
+|       YY | 2445
+|       GGG| 2444
+|       G  | 2443
+|       OO | 2442
+|        OO| 2441
+|       YYY| 2440
+|       Y  | 2439
+|      OO  | 2438
+|   VV OO  | 2437
+|   VV YY  | 2436
+|    GGGYY | 2435
+|    G     | 2434
+|    YY    | 2433
+|    YY OOO| 2432
+|    RRRRO | 2431
+|     YY   | 2430
+|    OOYY  | 2429
+|     OO   | 2428
+|      OOO | 2427
+|       O  | 2426
+|       VVV| 2425
+|        V | 2424
+|       OO | 2423
+|        OO| 2422
+| OOO VVVV | 2421
+|  O   RRR | 2420
+| BBBB  R  | 2419
+|VV YYY BBB| 2418
+| VVY   B  | 2417
+|  YYYY BBB| 2416
+|    GGG B | 2415
+|    G BBB | 2414
+|       B  | 2413
+|      RRRR| 2412
+| RR    VVV| 2411
+|  RR   V  | 2410
+| OO   RRRR| 2409
+|  OOYY BBB| 2408
+|RRRRYY B  | 2407
+|   BBB GG | 2406
+|    B  GG | 2405
+|  YYY  GG | 2404
+|   YYY  GG| 2403
+|     YY GG| 2402
+|     YYYGG| 2401
+|      Y RR| 2400
+|     BBBRR| 2399
+|     B YYY| 2398
+|       Y  | 2397
+|  GGG  GG | 2396
+|   GRRR GG| 2395
+|     RYYYY| 2394
+|       OO | 2393
+|        OO| 2392
+|       BB | 2391
+|     BB BB| 2390
+|     BBOO | 2389
+|     BBBOO| 2388
+|    YYB   | 2387
+|    YYRRRR| 2386
+|    YYY   | 2385
+|     Y    | 2384
+|    YY    | 2383
+|     YY   | 2382
+|  OO  YY  | 2381
+|  OO   YY | 2380
+|OO RR  RR | 2379
+| OO RR  RR| 2378
+|  RRRRRRR | 2377
+|   VVV R  | 2376
+|   V YYYY | 2375
+|      BBBB| 2374
+|       YYY| 2373
+|       YYY| 2372
+| VVVVVVVYY| 2371
+| RRR V OOO| 2370
+| R     O  | 2369
+|VVV    VV | 2368
+|V       VV| 2367
+|GGGOO YYYY| 2366
+| GOOOORRRR| 2365
+|   OO GG  | 2364
+|  RRR GG  | 2363
+|   RVVVV  | 2362
+|     RR   | 2361
+|    VVRR  | 2360
+|  RRVVBBBB| 2359
+|  RRGGG   | 2358
+|  VV GGGG | 2357
+|  VV   GGG| 2356
+|  OOOO  GG| 2355
+|     RRYY | 2354
+|      RRYY| 2353
+|      YYYY| 2352
+|      RR  | 2351
+|  YY  RR  | 2350
+|   YY VVV | 2349
+|   VVVV   | 2348
+|   VBBBB  | 2347
+|VV YY  BBB| 2346
+|VV  YY B  | 2345
+| BBB OOOO | 2344
+|OOB   OOO | 2343
+| OO    O  | 2342
+| OOO   YY | 2341
+|  OOOO  YY| 2340
+|   O VVRRR| 2339
+|     VVR  | 2338
+|  RR VVV  | 2337
+|   RRV    | 2336
+|    YYYYGG| 2335
+|    GGGGGG| 2334
+|      GGGG| 2333
+|       GG | 2332
+|        GG| 2331
+|     YYYY | 2330
+|     RRR  | 2329
+|      R   | 2328
+|      BB  | 2327
+|       BB | 2326
+|       YY | 2325
+|        YY| 2324
+| GGG   BBB| 2323
+| G     B  | 2322
+| VVV GGGG | 2321
+|  V  BBBB | 2320
+|  OO  GG  | 2319
+|   OO GGYY| 2318
+|GGGGOOO YY| 2317
+| YYY O RRR| 2316
+|VVY  BB R | 2315
+| VV  BB YY| 2314
+|  OOOOO YY| 2313
+|  OO ORRRR| 2312
+|   BBB YY | 2311
+|   B    YY| 2310
+|  VV  BBBB| 2309
+|  VV RRRR | 2308
+|  GGGG    | 2307
+|   RRROOOO| 2306
+|   R  YYYY| 2305
+|   RRRR   | 2304
+|     GG   | 2303
+|     GG   | 2302
+|      GGG | 2301
+|      GGGG| 2300
+|        G | 2299
+|       OO | 2298
+|        OO| 2297
+| BBB    OO| 2296
+|  BYYYY OO| 2295
+|      BBB | 2294
+|   BBB B  | 2293
+|   B   YYY| 2292
+|VV RRRRY  | 2291
+| VV   OOOO| 2290
+|GGG    BB | 2289
+| G     BB | 2288
+| RRRR BBBB| 2287
+| VVV BBB  | 2286
+|  VYYBVVVV| 2285
+|   YY OOO | 2284
+|    VVO   | 2283
+|     VV   | 2282
+|     OO VV| 2281
+|     OO VV| 2280
+|      RRRR| 2279
+|       VV | 2278
+|        VV| 2277
+|      VVVV| 2276
+|RRR   BB  | 2275
+| R     BB | 2274
+| RR     YY| 2273
+| RR     YY| 2272
+|  RRR  RR | 2271
+|  R     RR| 2270
+|  YYYY GG | 2269
+|   GGG GG | 2268
+|   G  GGGG| 2267
+|  VVV  VVV| 2266
+|   V   V  | 2265
+|  VVV RRR | 2264
+|  VBB  R  | 2263
+|   BB BBB | 2262
+| RR OOB   | 2261
+| RR  OO   | 2260
+|  BB RR   | 2259
+|   BB RR  | 2258
+|RRRR   GG | 2257
+|   RR   GG| 2256
+|    RRGGGG| 2255
+|     BB   | 2254
+|      BB  | 2253
+|      OO  | 2252
+|       OO | 2251
+|       BBB| 2250
+|        B | 2249
+|     YY BB| 2248
+|     YY BB| 2247
+|    OOOOOO| 2246
+|YYY O YYO | 2245
+|YRR    YY | 2244
+|  RR   VV | 2243
+| BBB    VV| 2242
+|  B    OOO| 2241
+| BBB   O  | 2240
+| B OO YYYY| 2239
+|    OO GGG| 2238
+|    GGGGBB| 2237
+|GGGGG   BB| 2236
+|   BB YYYY| 2235
+|    BBYYYY| 2234
+| BBVVV GG | 2233
+| BBV    GG| 2232
+|  GGGGBBB | 2231
+|     GGB  | 2230
+|     GG   | 2229
+|      VVV | 2228
+|       V  | 2227
+|       RRR| 2226
+|       R  | 2225
+|     OOO  | 2224
+|YYY  O    | 2223
+| Y  VVV   | 2222
+|GGGGV     | 2221
+|   RR  BB | 2220
+|   RR   BB| 2219
+|   YYY VVV| 2218
+|   Y BBV  | 2217
+|      BB  | 2216
+|       GGG| 2215
+|       GVV| 2214
+|        VV| 2213
+|       RRR| 2212
+| RR OOOOR | 2211
+|  RR  GGGG| 2210
+| RR  RR   | 2209
+|  RR RR   | 2208
+|   BBBB   | 2207
+|    VV    | 2206
+|    VV    | 2205
+|     YYY  | 2204
+|     YBB  | 2203
+|       BB | 2202
+| VV   GGG | 2201
+| VV   GOOO| 2200
+|  OO   O  | 2199
+|  OO BBB  | 2198
+|YYYY B    | 2197
+|GG   VVVV | 2196
+| GG BB YYY| 2195
+|GG  BB  Y | 2194
+|GG   BBBB | 2193
+| OORR VVV | 2192
+| OORR VRR | 2191
+| OOO    RR| 2190
+| O   GGGG | 2189
+| GG     BB| 2188
+| GGRRR  BB| 2187
+| GGGR RRR | 2186
+| G GG R   | 2185
+|   GG GGGG| 2184
+|    VVV   | 2183
+|    V     | 2182
+|   GG     | 2181
+|   GG     | 2180
+|VV  BB    | 2179
+| VV BB    | 2178
+|  VVV     | 2177
+|   V      | 2176
+| BBB      | 2175
+| BYYY  VVV| 2174
+|  Y    VRR| 2173
+| GGG    RR| 2172
+| G   VVVV | 2171
+|BB      GG| 2170
+| BB  GGGGG| 2169
+|YYY   GBBB| 2168
+| Y     B  | 2167
+| RR    RRR| 2166
+|  RR    R | 2165
+|   VV VVVV| 2164
+|   VV  OOO| 2163
+|    RR  O | 2162
+|  RRRRRRRR| 2161
+|   R    R | 2160
+|  OO VVGG | 2159
+|   OOVV GG| 2158
+|    BB RRR| 2157
+|    BB  R | 2156
+|  OOO  VV | 2155
+|  O VVVVVV| 2154
+|       YY | 2153
+|OOOO    YY| 2152
+| VVV   VVV| 2151
+|  V    V  | 2150
+|  OOO  RRR| 2149
+|  OGGG  R | 2148
+|    G  OO | 2147
+|    GGGGOO| 2146
+|   BBB YY | 2145
+|    B  YY | 2144
+|    YYRRRR| 2143
+|    YY OOO| 2142
+| YYBB  O  | 2141
+|  YYBB YYY| 2140
+|  VVV  Y  | 2139
+|  VVVVRRR | 2138
+|   V   R  | 2137
+|   OOOOBBB| 2136
+|  GG    B | 2135
+|  GG   OOO| 2134
+|GGG    O  | 2133
+| G     GGG| 2132
+| OO     G | 2131
+|  OOVVVOOO| 2130
+|   BBV O  | 2129
+|   BB  RR | 2128
+|   VV   RR| 2127
+|   VV  GG | 2126
+|    BBB GG| 2125
+|    B GGGG| 2124
+|        RR| 2123
+|        RR| 2122
+|       BBB| 2121
+|       B  | 2120
+|       RRR| 2119
+|        R | 2118
+|   GGG VVV| 2117
+|   G    V | 2116
+|  YYOOGGGG| 2115
+|  YYOO YY | 2114
+|   RR  YY | 2113
+|YYYRR   RR| 2112
+| Y GG   RR| 2111
+| VV GGGGGG| 2110
+|  VV RR   | 2109
+|   OOORR  | 2108
+|   O VVV  | 2107
+|     V YYY| 2106
+|       Y  | 2105
+|       VVV| 2104
+|        V | 2103
+|       BBB| 2102
+|       B  | 2101
+|      GG  | 2100
+|   GGG GG | 2099
+|  OOG   BB| 2098
+|   OO YYBB| 2097
+| RRRRBBYY | 2096
+| RRRRBBGGG| 2095
+| RRRRBBBG | 2094
+|OOO   BBBB| 2093
+| O      B | 2092
+|GGGVV  VVV| 2091
+|G  VV   V | 2090
+|YY YYYYBBB| 2089
+| YY  OOOB | 2088
+|GGG   O   | 2087
+| G    VVVV| 2086
+| OOO   OOO| 2085
+|YYO    O  | 2084
+|YY    OOOO| 2083
+| GG     BB| 2082
+|  GGOOOOBB| 2081
+|GGGG  GGGG| 2080
+| OO   YYY | 2079
+|  OO   Y  | 2078
+|  GG  OOO | 2077
+|  GG   O  | 2076
+|OOOOBBBVV | 2075
+| BB  B  VV| 2074
+| BB OOO BB| 2073
+| OO OGG BB| 2072
+|  OO GGYYY| 2071
+|  VVVBB Y | 2070
+|   V BB OO| 2069
+|   RRR  OO| 2068
+|    R   VV| 2067
+|   YY   VV| 2066
+|    YY BB | 2065
+|     VVVBB| 2064
+|      V   | 2063
+| YY   YY  | 2062
+|  YY   YY | 2061
+|  GGGGRRRR| 2060
+| OO     GG| 2059
+| OO     GG| 2058
+|  RRR GGGG| 2057
+|  R   OO  | 2056
+|OOYYY OO  | 2055
+|OOY   RRRR| 2054
+| GGVVVRRR | 2053
+| GGV  RBBB| 2052
+|  OOO  B  | 2051
+|  O GGBB  | 2050
+|     GGBB | 2049
+|      OOOO| 2048
+|       YY | 2047
+| OOOO  YY | 2046
+|  GGGOOO  | 2045
+|   G  O   | 2044
+| VVV GG RR| 2043
+|  VOOGG RR| 2042
+|   OORR VV| 2041
+| YYY RR VV| 2040
+|  YBBBBVVV| 2039
+|      BBV | 2038
+|       BB | 2037
+|   VV  BB | 2036
+|    VV  BB| 2035
+|YYYVVVVVV | 2034
+|Y   V  V  | 2033
+|YY VVGGG  | 2032
+| YY VVG BB| 2031
+|OO  GGG BB| 2030
+| OO  GGGGG| 2029
+|OOOO    GG| 2028
+| RR     GG| 2027
+|  RR  OOOO| 2026
+|   GG  VVV| 2025
+|    GG V  | 2024
+|     OOO  | 2023
+|      O   | 2022
+|      GGGG| 2021
+|     YYYY | 2020
+|       RRR| 2019
+|       RBB| 2018
+|        BB| 2017
+|      RRR | 2016
+|      R   | 2015
+|  YYRRR   | 2014
+|  YY R    | 2013
+|  GGGG    | 2012
+|   BB     | 2011
+|   BB     | 2010
+|   VV  OO | 2009
+|  RRVV OO | 2008
+| RRRR  VVV| 2007
+|  RR  OOV | 2006
+| OOOOOOOO | 2005
+|  O O     | 2004
+|GGG YYY   | 2003
+| G   Y    | 2002
+|GG GGG    | 2001
+| GGG   VV | 2000
+|  BB    VV| 1999
+| VVBB  RR | 1998
+| VV   BBRR| 1997
+|YY     BB | 1996
+|YY    OOOO| 1995
+| BBB    OO| 1994
+|OOB     OO| 1993
+| OO     GG| 1992
+|OO   OOOGG| 1991
+| OO  O GG | 1990
+|  RRR  GG | 1989
+|   R   GGG| 1988
+|  OOO  G  | 1987
+|  O  RROOO| 1986
+| RRR RR O | 1985
+| R   RRBB | 1984
+|YYYY  RRBB| 1983
+|   BBBB   | 1982
+|   VVVV   | 1981
+|   OOOO   | 1980
+|     OOO  | 1979
+|      ORR | 1978
+|        RR| 1977
+|     RRRR | 1976
+|      RRRR| 1975
+|        BB| 1974
+|        BB| 1973
+|        YY| 1972
+|        YY| 1971
+|      BBBB| 1970
+| GGG  RRRR| 1969
+|  G     VV| 1968
+|OOO     VV| 1967
+|O     VVV | 1966
+|YYYY  VBBB| 1965
+|   VV   B | 1964
+|   VV   YY| 1963
+|RRBBB   YY| 1962
+|RR B   RRR| 1961
+| RRR    R | 1960
+| RVVVVGGG | 1959
+|     RRG  | 1958
+|      RR  | 1957
+|      OOOO| 1956
+|      OO  | 1955
+|      OO  | 1954
+|     VVV  | 1953
+|   VV V   | 1952
+|   VV GGGG| 1951
+|   OOO VV | 1950
+|    OGGVV | 1949
+|GG    GG  | 1948
+| GG   BB  | 1947
+|RR    BB  | 1946
+| RR   YY  | 1945
+| BBB  YY  | 1944
+| B   YYY  | 1943
+|RRR   Y   | 1942
+| RYY  BBBB| 1941
+|  YY  BBBB| 1940
+|  YYY OOOO| 1939
+|   Y VV   | 1938
+| VVV VV   | 1937
+|  VRRRGGGG| 1936
+|   R VV   | 1935
+|     VV   | 1934
+|     RRR  | 1933
+|YY   R    | 1932
+| YY  RR   | 1931
+|VV   RR   | 1930
+|VV  GG    | 1929
+|GGGGGG    | 1928
+|   BB     | 1927
+|    BB  BB| 1926
+|   VV   BB| 1925
+|   VVRROOO| 1924
+| RRRYYRRO | 1923
+| R  YY    | 1922
+|YY   GGGG | 1921
+| YYGGG RRR| 1920
+| VVVG   R | 1919
+| V     BBB| 1918
+|OO  RR  B | 1917
+| OO RR GGG| 1916
+| YY GG G  | 1915
+|  YY GGGG | 1914
+|   OOO  GG| 1913
+|   O   BB | 1912
+|   OOO  BB| 1911
+|   O   OO | 1910
+|  RR    OO| 1909
+|  RR   GG | 1908
+|   YYRRGG | 1907
+|   YY RR  | 1906
+|    YYY   | 1905
+|GGG Y     | 1904
+|G   VV    | 1903
+|GG  VV    | 1902
+|GGGGG     | 1901
+| OOG      | 1900
+|  OO      | 1899
+|   GGGG   | 1898
+|  GG      | 1897
+|   GG     | 1896
+| VVV    RR| 1895
+| V      RR| 1894
+|GGG    VVV| 1893
+| G      V | 1892
+|GGGG GGOOO| 1891
+|BBBB GG O | 1890
+|  GG GGVVV| 1889
+|   GGGGV  | 1888
+|    GGGG  | 1887
+|      RRRR| 1886
+|     OOO  | 1885
+|      OVV | 1884
+|       VV | 1883
+|     VVVV | 1882
+|    GGG   | 1881
+|    GVVVV | 1880
+|    BBB   | 1879
+|    B     | 1878
+|YYYVV     | 1877
+| Y VV     | 1876
+|BB YYY    | 1875
+|BB  Y     | 1874
+|OOO RRRR  | 1873
+|O RRRR    | 1872
+|    YY    | 1871
+| YYYYY    | 1870
+| YVVV     | 1869
+|  VRRRRGG | 1868
+|  YYY OOGG| 1867
+|   Y BBOO | 1866
+|RRRR BB   | 1865
+| GG  OOOO | 1864
+|  GG   BBB| 1863
+|   OO RRB | 1862
+|    OO RR | 1861
+|   OO BBB | 1860
+|   OO  B  | 1859
+|  YY  VV  | 1858
+|   YY VV  | 1857
+| OOO   YY | 1856
+| O    BBYY| 1855
+|RR    BB  | 1854
+|RR    RRRR| 1853
+| VVV    OO| 1852
+| V      OO| 1851
+| YYYY  OO | 1850
+|    VVV OO| 1849
+|     V VVV| 1848
+|   BBB  V | 1847
+|    B OOOO| 1846
+|  YYY  OOO| 1845
+|  Y    O  | 1844
+|  VV  RRRR| 1843
+|   VV VVV | 1842
+|    BB V  | 1841
+|    BBGGGG| 1840
+|     BB   | 1839
+|     BB   | 1838
+|    OOO   | 1837
+|     O    | 1836
+|    RRR   | 1835
+|     R GGG| 1834
+|    YY  G | 1833
+|    YY GG | 1832
+|     VVVGG| 1831
+|BBYYY V   | 1830
+|BBY  BBB  | 1829
+| BB  B RR | 1828
+|  BB    RR| 1827
+|   GG  YY | 1826
+|  YYGG YY | 1825
+|  YYRRRVVV| 1824
+| OOOR   V | 1823
+| O OOOOOO | 1822
+|    VVV OO| 1821
+|    V  OOO| 1820
+|    BBBO  | 1819
+|     BVVVV| 1818
+|      BBBB| 1817
+|  YY   RR | 1816
+|  YY   RR | 1815
+| BB    BB | 1814
+|  BB   BB | 1813
+|VVVV GGG  | 1812
+|VV   G YYY| 1811
+|VV      Y | 1810
+| BBB   RRR| 1809
+| B RRRR R | 1808
+|   RRRROOO| 1807
+|    VVV O | 1806
+|    V   RR| 1805
+| VVVV   RR| 1804
+|   OO  RR | 1803
+|   OO   RR| 1802
+|VVVV  YYYY| 1801
+|   GG OOOO| 1800
+|   GG  GG | 1799
+|   YYY  GG| 1798
+|   Y   VVV| 1797
+|RRRR   VBB| 1796
+| VV YYY BB| 1795
+| VV Y VVVV| 1794
+|  BB  GG  | 1793
+|YYYBB  GG | 1792
+|Y VV  OOO | 1791
+|  VV  O   | 1790
+| YYYY VVVV| 1789
+| YY    VVV| 1788
+|  YY   V  | 1787
+| GG   YYY | 1786
+|  GG  YGGG| 1785
+|   RRRRG  | 1784
+|      YYY | 1783
+|       Y  | 1782
+|      GGGG| 1781
+|       GGG| 1780
+|       G  | 1779
+|       BB | 1778
+|        BB| 1777
+|      YYYY| 1776
+|     RR   | 1775
+|  OOO RR  | 1774
+|YY OVVVV  | 1773
+| YYYY     | 1772
+|VVVVYY  BB| 1771
+|  OO    BB| 1770
+|   OO YYYY| 1769
+|    OOO   | 1768
+|RRRRO     | 1767
+| RRRVV    | 1766
+|  R VV    | 1765
+|  VVVV    | 1764
+|  RRRBBBB | 1763
+|   RVV  BB| 1762
+|    VV  BB| 1761
+|  YYYYRRRR| 1760
+|    BBB   | 1759
+|    B     | 1758
+| YY VV    | 1757
+|  YYVV YYY| 1756
+|BB GG   Y | 1755
+|BB GG OOOO| 1754
+| BBB  RRRR| 1753
+|  B    GGG| 1752
+|BBRRRGG G | 1751
+| BBR GGOOO| 1750
+|  YYY BBO | 1749
+|   Y  BB  | 1748
+|   BBBB   | 1747
+|    OOO   | 1746
+|     OYYYY| 1745
+|     YY   | 1744
+|      YY  | 1743
+| VVV   VVV| 1742
+| V YYY V  | 1741
+|    Y  BBB| 1740
+|    OO B  | 1739
+|    OOYYYY| 1738
+|     GGG  | 1737
+|     G    | 1736
+|     GGBBB| 1735
+|     GG B | 1734
+|      RRR | 1733
+|       R  | 1732
+|       GGG| 1731
+|        G | 1730
+|       OO | 1729
+|BBB     OO| 1728
+| BBB  YYYY| 1727
+|  BB  BBBB| 1726
+|  VV YYY  | 1725
+|   VVY    | 1724
+|    BB    | 1723
+|    BB    | 1722
+|    GG    | 1721
+|GG  GGBBB | 1720
+|GG   VVB  | 1719
+|YYY  VV   | 1718
+|Y YYYY    | 1717
+|RR RR     | 1716
+|RR RR     | 1715
+| GGG      | 1714
+|  G    RR | 1713
+|BBOOOO  RR| 1712
+|BB   RRBBB| 1711
+| BB  RR B | 1710
+|  BBRRBBBB| 1709
+|BBBB RROOO| 1708
+| YYY YYYO | 1707
+| Y    YVV | 1706
+| BBBB  VV | 1705
+|  OOOBBBB | 1704
+|  O BBB   | 1703
+|    B     | 1702
+|   OOO    | 1701
+|   O      | 1700
+|  GGGG    | 1699
+|YYYY      | 1698
+| OO    YYY| 1697
+|  OO   Y  | 1696
+| BBB  GGGG| 1695
+|  B  GGGG | 1694
+| VVV   OOO| 1693
+| V     O  | 1692
+|RRR    VVV| 1691
+| R    RRV | 1690
+|GGGG   RR | 1689
+| BBBB  RR | 1688
+|  VVV   RR| 1687
+|  VYY OOOO| 1686
+|GGG YYBBBB| 1685
+|G BBB  RR | 1684
+|  B     RR| 1683
+|  YYY  YYY| 1682
+|   Y YYYY | 1681
+|   VVVY   | 1680
+|    V     | 1679
+|   YY     | 1678
+|    YYYYYY| 1677
+|     YYY  | 1676
+|      Y   | 1675
+|     YYY  | 1674
+|      YOOO| 1673
+|        O | 1672
+|      BBBB| 1671
+|      VVVV| 1670
+|       YY | 1669
+|        YY| 1668
+|      GGGG| 1667
+|       RRR| 1666
+|       R  | 1665
+|       BBB| 1664
+|YYY    B  | 1663
+| YGGGGOOO | 1662
+|   YY  O  | 1661
+|   YY  GGG| 1660
+|  OOOO  G | 1659
+| VV    GGG| 1658
+|  VV   G  | 1657
+|OOOO   VVV| 1656
+| BB  GGGV | 1655
+|  BB G    | 1654
+|   OOO    | 1653
+|   O   RR | 1652
+|  VVVVOORR| 1651
+|    RRROO | 1650
+|    R     | 1649
+|    OOOO  | 1648
+|       YYY| 1647
+|        Y | 1646
+|        VV| 1645
+|    BB  VV| 1644
+|    BB BB | 1643
+|     BBBBB| 1642
+|  OO B    | 1641
+|  OOGGG   | 1640
+|   BBG    | 1639
+|    BB    | 1638
+|  RRR     | 1637
+|  R       | 1636
+|  VVVGGGVV| 1635
+|   VRRG VV| 1634
+|GGGGRR GGG| 1633
+|   RR   G | 1632
+|    RR GGG| 1631
+|     GGG  | 1630
+|      GG  | 1629
+|       VVV| 1628
+|       V  | 1627
+|      BBBB| 1626
+|       OOO| 1625
+| OOO   O  | 1624
+|  O BBRRR | 1623
+| VVVBBROOO| 1622
+| V YYY O  | 1621
+|   YOOOVVV| 1620
+|    O   V | 1619
+|   OOOOOOO| 1618
+|GG O GG   | 1617
+| GG  GGRRR| 1616
+|VVV  BBBR | 1615
+| V   B RR | 1614
+| GGG    RR| 1613
+|  G    BBB| 1612
+|BBB     B | 1611
+|B GGGG GGG| 1610
+|  YY   G  | 1609
+|   YY VVVV| 1608
+|    YYY   | 1607
+|     Y OOO| 1606
+|   VVVOOO | 1605
+|    V  OO | 1604
+|   BB  GGG| 1603
+|    BB G  | 1602
+| YYYY  RR | 1601
+|   GG GGRR| 1600
+|    GGGG  | 1599
+|     RR   | 1598
+|      RR  | 1597
+|       YYY| 1596
+|        Y | 1595
+|        BB| 1594
+|        BB| 1593
+|      VVV | 1592
+|       V  | 1591
+|     BBB  | 1590
+|     B    | 1589
+|     RR   | 1588
+|  VVV RR  | 1587
+|   VRRR   | 1586
+|     RBB  | 1585
+|  OOO BB  | 1584
+|  O    VV | 1583
+| VVVV  VV | 1582
+|    OOOO  | 1581
+|     RRR  | 1580
+|     R RR | 1579
+|        RR| 1578
+|       RRR| 1577
+|       R  | 1576
+|    RRRVV | 1575
+|OOO R   VV| 1574
+|O GGGVVVV | 1573
+|  G VVVVV | 1572
+|    V  VV | 1571
+|   BBBBYY | 1570
+|   GGG YY | 1569
+| RRG VVV  | 1568
+|  RR V    | 1567
+|   OOOO   | 1566
+|   OOOO   | 1565
+| VVV      | 1564
+|  V       | 1563
+| RR   OOOO| 1562
+| RR BBB   | 1561
+| BBB BGGGG| 1560
+|  BBBB GGG| 1559
+|    BRRRG | 1558
+|     R RRR| 1557
+|        R | 1556
+|       OO | 1555
+|      VVOO| 1554
+|       VV | 1553
+|       RR | 1552
+|       RR | 1551
+|       BBB| 1550
+|   VV   B | 1549
+|   VV  VVV| 1548
+|  VV   V  | 1547
+|  VV   VV | 1546
+| VVV    VV| 1545
+|  V    YY | 1544
+|  VV    YY| 1543
+|   VV  GGG| 1542
+|   VVOO G | 1541
+|   VVOOOOO| 1540
+|  VVVV  O | 1539
+|  OOO RRRR| 1538
+|   O  VVVV| 1537
+|   YYYYVVV| 1536
+|  VVVV V  | 1535
+|     GGG  | 1534
+|      GGGG| 1533
+|    VVVGBB| 1532
+|RRRR V  BB| 1531
+| VVV RR RR| 1530
+|  V   RRRR| 1529
+| GGGG BBBB| 1528
+|OO     RR | 1527
+|OO     RR | 1526
+| RRR   GGG| 1525
+|  R     G | 1524
+| VVBBB OO | 1523
+| VV B   OO| 1522
+|  RRRR OO | 1521
+|    YY  OO| 1520
+|    YY  YY| 1519
+|   GGG  YY| 1518
+|   G   YYY| 1517
+| RRR    Y | 1516
+|  R  RRRR | 1515
+|  BBBB RRR| 1514
+|    GGGGR | 1513
+|      OOOO| 1512
+|     OO   | 1511
+|     OO   | 1510
+|    OO    | 1509
+|    OO    | 1508
+|VV   RRRR | 1507
+| VV   RRRR| 1506
+|  OO  GG  | 1505
+|  OO   GG | 1504
+|OOO   GGGG| 1503
+| O  OOO   | 1502
+|OOOOO     | 1501
+|  OOO     | 1500
+|  O  VVV  | 1499
+|RRRR V  RR| 1498
+|   GGGG RR| 1497
+| VVVV YYY | 1496
+|   BB  Y  | 1495
+|   BB  VVV| 1494
+|   OOOO V | 1493
+|      OOOO| 1492
+|       GG | 1491
+|        GG| 1490
+|       OOO| 1489
+|       O  | 1488
+|       VVV| 1487
+|    VVV V | 1486
+|    V BBBB| 1485
+|     GG   | 1484
+|     GG   | 1483
+|      VV  | 1482
+|      VV  | 1481
+|      GGGG| 1480
+|     YY   | 1479
+|     YY   | 1478
+|Y   RRR Y | 1477
+|OO   RVVV | 1476
+|OO     VOO| 1475
+| GGGG   OO| 1474
+|  BB   YYY| 1473
+|   BB  Y  | 1472
+|  GGGGYYYY| 1471
+|    OOO   | 1470
+|     O    | 1469
+|  YYYY    | 1468
+|   OO     | 1467
+|    OO    | 1466
+|    YYVVV | 1465
+|    YYV   | 1464
+|     YYYY | 1463
+|      BBBB| 1462
+|  BB YY   | 1461
+|  BB  YY  | 1460
+|   YYYY   | 1459
+|   OO     | 1458
+|   OO  YYY| 1457
+|    BBB Y | 1456
+|     B GGG| 1455
+|    BBB G | 1454
+|YYYYB  RRR| 1453
+|   BBBB R | 1452
+|      OOOO| 1451
+|       VV | 1450
+|       VV | 1449
+|      OOOO| 1448
+|        BB| 1447
+|        BB| 1446
+|       GGG| 1445
+|   YYY G  | 1444
+|    Y BBBB| 1443
+|    OOO   | 1442
+|    OOO   | 1441
+|     OOGGG| 1440
+|      YYG | 1439
+|    VV YY | 1438
+|    VV OOO| 1437
+|   YY  O  | 1436
+|OOOYY  RRR| 1435
+| OBB  BBR | 1434
+|   BB BB  | 1433
+|    GGGG  | 1432
+|       YYY| 1431
+|       Y  | 1430
+|      RRR | 1429
+|       R  | 1428
+| YYY   RRR| 1427
+|  Y     R | 1426
+| RROO   RR| 1425
+| RROO   RR| 1424
+|  BB   VVV| 1423
+|   BB  V  | 1422
+| RRR YYYY | 1421
+| R BBB    | 1420
+|   BRRYYYY| 1419
+|     RR   | 1418
+|      GGG | 1417
+|      G   | 1416
+|      BBB | 1415
+|      BRRR| 1414
+|        R | 1413
+|       BB | 1412
+|       BB | 1411
+|   BBB GGG| 1410
+|    B  G  | 1409
+|    RR GGG| 1408
+|     RR G | 1407
+| VVV  OOOO| 1406
+| V    GGGG| 1405
+|RR  OOO   | 1404
+| RR O     | 1403
+|YYY YY    | 1402
+| Y  YY    | 1401
+| VVYYY    | 1400
+| VVY      | 1399
+|  GGG  VVV| 1398
+|VVG     V | 1397
+| VVOOO RR | 1396
+|GG  O   RR| 1395
+| GGRR BBBB| 1394
+|RRRRROO   | 1393
+|R  OOOO   | 1392
+|OOOOOYYYY | 1391
+| O  YYYY  | 1390
+| GGVV  OOO| 1389
+|  GGVV  O | 1388
+|  RR  GGGG| 1387
+|   RR BB  | 1386
+|   BBBBB  | 1385
+|   B   GGG| 1384
+|  RRRBBBG | 1383
+|  RGGGB   | 1382
+|    G     | 1381
+|OOVVV     | 1380
+|OO V      | 1379
+| BBB      | 1378
+| BOOO     | 1377
+|   O  OOOO| 1376
+|   GGGVVVV| 1375
+|    G GGG | 1374
+|   RRR G  | 1373
+|   R   GG | 1372
+|  RRR   GG| 1371
+|   RRRR GG| 1370
+| GGGGR  GG| 1369
+| YYY   RRR| 1368
+| Y OOO RGG| 1367
+|    O   GG| 1366
+|   GG RRR | 1365
+|    GGR   | 1364
+|GGG GGG   | 1363
+|G YYG     | 1362
+|   YY  RR | 1361
+|  RR    RR| 1360
+|   RRBBBB | 1359
+|   OOO    | 1358
+|   O      | 1357
+|   YYY    | 1356
+|   Y      | 1355
+|  YYY     | 1354
+|  Y VV    | 1353
+|    VV YYY| 1352
+|   OO  Y  | 1351
+|   OO GG  | 1350
+|    GGGGG | 1349
+|     GYYY | 1348
+|      Y   | 1347
+|      OO  | 1346
+|       OO | 1345
+|    OOOO  | 1344
+|     RR   | 1343
+|     RR   | 1342
+|      RRRR| 1341
+|        BB| 1340
+|        BB| 1339
+|     RRYYY| 1338
+|     RRY  | 1337
+|      YY  | 1336
+|      YY  | 1335
+|       VVV| 1334
+|        V | 1333
+|      GGGG| 1332
+|      OOO | 1331
+|      OVVV| 1330
+|       V  | 1329
+|      OOO | 1328
+|VV     O  | 1327
+|VV    BB  | 1326
+|GGGG  BB  | 1325
+|   YY  RR | 1324
+|   YY  RR | 1323
+|   RR VVVV| 1322
+|   RR BBB | 1321
+|VVVV   B  | 1320
+|  GGGGVVV | 1319
+|  GGRR V  | 1318
+|  GGRR YYY| 1317
+|   GGG  Y | 1316
+| BB GBBVVV| 1315
+|  BB BBV  | 1314
+|OOOO BBB  | 1313
+|OOO   B   | 1312
+| O    YYYY| 1311
+| OOOO  RRR| 1310
+|    GGGGR | 1309
+|       GGG| 1308
+|        G | 1307
+|       BBB| 1306
+|        B | 1305
+|     YYYY | 1304
+|    RR    | 1303
+|     RRBB | 1302
+|      VVBB| 1301
+|    VVVVV | 1300
+|     V    | 1299
+|    YYY   | 1298
+|    Y     | 1297
+|    VVV   | 1296
+|   YYVBBBB| 1295
+|    YYRRR | 1294
+| GGGVVR   | 1293
+|  G  VV   | 1292
+| OOOO RRRR| 1291
+|    OO RR | 1290
+|     OO RR| 1289
+|    OO RR | 1288
+|BBB  OO RR| 1287
+|B OOOO OOO| 1286
+| OOOO  O  | 1285
+| YY    VV | 1284
+| YY BBBVV | 1283
+|OOOOBOO RR| 1282
+|   VVVOORR| 1281
+|    V RRRR| 1280
+|    RRRR  | 1279
+|       BB | 1278
+|        BB| 1277
+|       VV | 1276
+|        VV| 1275
+|      VVV | 1274
+|      V   | 1273
+|    VVV   | 1272
+|     V    | 1271
+|    OOO   | 1270
+|    ORR   | 1269
+| BB   RR  | 1268
+| BB   GGGG| 1267
+|VVV  BB   | 1266
+|VOOO  BB  | 1265
+| O    GGG | 1264
+|VV RR  G  | 1263
+| VVRROOO  | 1262
+|  RRRORRRR| 1261
+|  RRRBBB  | 1260
+|   RRB    | 1259
+|   BBB BBB| 1258
+|   B GGGB | 1257
+|     GGG  | 1256
+|      GG  | 1255
+|       BBB| 1254
+|YY     BBB| 1253
+|YY   VVVBB| 1252
+|OOOO V VV | 1251
+|  OO    VV| 1250
+|  OO  GGG | 1249
+|  BBBB G  | 1248
+|     VVYYY| 1247
+|      VVY | 1246
+|       VVV| 1245
+|  GGG RRV | 1244
+|  G    RR | 1243
+| OO     OO| 1242
+| OO     OO| 1241
+|  YY YYYY | 1240
+|  YY YYYY | 1239
+| GGG  VVOO| 1238
+|  G   VVOO| 1237
+|  BBBBGGGG| 1236
+|    GGVV  | 1235
+|  RRGG VV | 1234
+|   RR  BB | 1233
+|    VVV BB| 1232
+|     VOOOO| 1231
+|OO      GG| 1230
+| OO     GG| 1229
+|BB     BBB| 1228
+| BB    BYY| 1227
+|  VVVV  YY| 1226
+|    VV BB | 1225
+|     VV BB| 1224
+|    GGBBB | 1223
+|    GGB   | 1222
+|     OOO  | 1221
+|     OBBGG| 1220
+|BBBB  BBGG| 1219
+|  VV   OO | 1218
+|  VV    OO| 1217
+|OOO    VV | 1216
+|OOO    VV | 1215
+|  OO   GGG| 1214
+| BBBB   G | 1213
+|    YYYBBB| 1212
+|    Y  B  | 1211
+|   VVVOO  | 1210
+|   VYYOO  | 1209
+|     YY   | 1208
+|      VV  | 1207
+|       VV | 1206
+|     BBVV | 1205
+| BB  BBVV | 1204
+|  BB YYYY | 1203
+| RR  RRRVV| 1202
+| RR   R VV| 1201
+|OOO  VVRRR| 1200
+|O     VVR | 1199
+|RRR    YY | 1198
+|R YYY  YY | 1197
+|   YBBYYYY| 1196
+|   YYBB   | 1195
+|   YY     | 1194
+|GGGG      | 1193
+|GGGG      | 1192
+| BBBB     | 1191
+| YYY      | 1190
+|  Y  GGG  | 1189
+|  RRRRG   | 1188
+|BBBB      | 1187
+|BBBB      | 1186
+|  RRR     | 1185
+|  R       | 1184
+| BB       | 1183
+|  BB      | 1182
+|  RRR     | 1181
+|  R       | 1180
+|YYY       | 1179
+| YYYY     | 1178
+|  YYYY    | 1177
+|   YOO    | 1176
+|YYYYOO GGG| 1175
+|  RRGG G  | 1174
+|  RR GGBBB| 1173
+|OOOOGGGGB | 1172
+|  BBBBYYYY| 1171
+|     GG   | 1170
+|YYY  GG   | 1169
+| YRRRR    | 1168
+|   BBB    | 1167
+|    B     | 1166
+|   BBB    | 1165
+|BBGGB     | 1164
+|BBGG      | 1163
+| GGG      | 1162
+| G VV     | 1161
+|    VV    | 1160
+|   OO     | 1159
+|BBBOO  YYY| 1158
+|BYY RRRY  | 1157
+|  YYR VV  | 1156
+|GGG RRRVV | 1155
+|G  YYR OOO| 1154
+|VV YY   O | 1153
+|VVOO    YY| 1152
+|GGGOO   YY| 1151
+| GYY   VVV| 1150
+|   YYGGGV | 1149
+|   GGGG   | 1148
+|    GGG   | 1147
+|      GGYY| 1146
+|     BBBYY| 1145
+|      BRRR| 1144
+|        R | 1143
+| GGG   GGG| 1142
+| GGGG OOG | 1141
+|  G   OO  | 1140
+| VV    BB | 1139
+|  VV    BB| 1138
+|RRR  BBBB | 1137
+| R RRR    | 1136
+|OOOOR     | 1135
+|   VVV    | 1134
+|   V      | 1133
+|  OOO     | 1132
+|   OVV    | 1131
+|     VVVV | 1130
+|     RRRVV| 1129
+|      R   | 1128
+|    VVV   | 1127
+|    V     | 1126
+|    OOO   | 1125
+|   VVO YYY| 1124
+|    VV Y  | 1123
+|     BBB  | 1122
+| BB   B   | 1121
+|  BB  RR  | 1120
+|  RR   RR | 1119
+|  RR  GGRR| 1118
+|  BB  GGRR| 1117
+| YYBB  RRR| 1116
+|  YY   R  | 1115
+|RRR    BBB| 1114
+| ROOO  B  | 1113
+|  O    YYY| 1112
+|RRR    Y  | 1111
+| R    OOOO| 1110
+| OOO GGGG | 1109
+|  ORR  OOO| 1108
+|GGGRRBB O | 1107
+|GYYY BBBBB| 1106
+| Y  VVVB  | 1105
+|GGG V  GGG| 1104
+| G  BB G  | 1103
+| YYY BBBBB| 1102
+|  YGGG B  | 1101
+|   G RRR  | 1100
+|      R   | 1099
+|      RRRR| 1098
+|       RR | 1097
+|        RR| 1096
+|        YY| 1095
+|        YY| 1094
+|       BB | 1093
+|  YYY   BB| 1092
+|  Y GG  GG| 1091
+|     GG GG| 1090
+|  GGGG BB | 1089
+| BBB    BB| 1088
+| B    VVVV| 1087
+| BB    VV | 1086
+|  BBVV  VV| 1085
+| YYYYVVYYY| 1084
+|YYYY    Y | 1083
+|   GGGBBBB| 1082
+|   GGGGG  | 1081
+|       VVV| 1080
+|       V  | 1079
+|     BBBB | 1078
+| OOO    OO| 1077
+|  ORRR  OO| 1076
+|   RGGVVVV| 1075
+|     GG   | 1074
+|   YYYY   | 1073
+|     GGBBB| 1072
+|  OOOGGB  | 1071
+|   OBBGG  | 1070
+|    BB GG | 1069
+| OOOO  GGG| 1068
+|  BB   G  | 1067
+|   BB OOO | 1066
+|    BB O  | 1065
+| VVV BBRR | 1064
+|  VRRR  RR| 1063
+|    R  VVV| 1062
+|    RRRRV | 1061
+|      GGGG| 1060
+| BB  GG   | 1059
+|  BB GG   | 1058
+| GGGG GGGG| 1057
+| OOOO  GGG| 1056
+| RR    G  | 1055
+| RR GG YY | 1054
+| BBB GG YY| 1053
+|  B   GGGG| 1052
+|RRRR  VVV | 1051
+|  RRRRVGG | 1050
+|  BBBB GG | 1049
+|     VVV  | 1048
+|      V   | 1047
+| RR   BB  | 1046
+|  RR  BB  | 1045
+|GGG    YY | 1044
+|G       YY| 1043
+|GG      GG| 1042
+| GG     GG| 1041
+|GG   YYOOO| 1040
+| GG  YY O | 1039
+|VV    GGG | 1038
+|VVGG VVG  | 1037
+|RRGG  VV  | 1036
+| RR VV YYY| 1035
+|RR   VVY  | 1034
+| RR  RRR  | 1033
+| RR   R   | 1032
+| RR   RRRR| 1031
+| GGG  BBB | 1030
+| G OOOB   | 1029
+|   O RRR  | 1028
+|     RYYYY| 1027
+|VVVV OOO  | 1026
+|VV    OYY | 1025
+| VV    YY | 1024
+|  VVV  GG | 1023
+|  V GGG GG| 1022
+|    G RRR | 1021
+|       R  | 1020
+|      VVVV| 1019
+|    VV  BB| 1018
+|     VV BB| 1017
+|      OOO | 1016
+|      O   | 1015
+|      YY  | 1014
+|      YY  | 1013
+|     YYY  | 1012
+|     Y BBB| 1011
+|       B  | 1010
+|       YYY| 1009
+|       Y  | 1008
+|      BBBB| 1007
+|        BB| 1006
+| OO     BB| 1005
+|VVOO   VV | 1004
+| VV  GGGVV| 1003
+| BB   G   | 1002
+| BB   VVVV| 1001
+| BB    VVV| 1000
+|  BB   V  | 999
+|BBB  VVVV | 998
+| B     YYY| 997
+|VV     Y  | 996
+|VV     YYY| 995
+|BB     YOO| 994
+| BB     OO| 993
+| RR    VV | 992
+| RR     VV| 991
+|  VVV VVV | 990
+|   V  V   | 989
+|  OOORRRR | 988
+|  OYYYVVV | 987
+|   Y RRV  | 986
+|     RR   | 985
+|      RR  | 984
+|       RR | 983
+|      VVVV| 982
+|      VVVV| 981
+|       RR | 980
+|        RR| 979
+|       OOO| 978
+|       O  | 977
+|       BBB| 976
+|   RRR  B | 975
+|    ROOOO | 974
+|     VVVV | 973
+|     BBB  | 972
+|     B    | 971
+|     RRR  | 970
+|      R   | 969
+|      VVV | 968
+|       V  | 967
+|       GG | 966
+|        GG| 965
+|RR     OO | 964
+|RR    RROO| 963
+| VV    RR | 962
+|  VV  VV  | 961
+|  OOO VV  | 960
+|   OVVV   | 959
+|     V    | 958
+|    GGGG  | 957
+| YY    YY | 956
+|RRYY    YY| 955
+| RR   YYYY| 954
+|  YY   VVV| 953
+|  YY    V | 952
+|GGGGG  GGG| 951
+| G  GG G  | 950
+|GGG OOOO  | 949
+| G    RRRR| 948
+|OOOO  VV  | 947
+|  VV BBVV | 946
+|   VV BB  | 945
+|   BB  BBB| 944
+|    BB B  | 943
+|     YYRRR| 942
+|     YY R | 941
+|      VVVV| 940
+|       BB | 939
+|       BB | 938
+|       RR | 937
+|    RRR RR| 936
+|     RBBBB| 935
+|      VVVV| 934
+|      GGGG| 933
+|       BBB| 932
+|        B | 931
+|   YYY GGG| 930
+|    Y  G  | 929
+|   BB  GG | 928
+|OO  BB GG | 927
+| OOOO OO  | 926
+|RRR OOOO  | 925
+| RRRR  GGG| 924
+|  R VVV G | 923
+|     VOOO | 922
+|       O  | 921
+|       RR | 920
+|       RR | 919
+|        OO| 918
+|        OO| 917
+|BBB    YYY| 916
+|B      Y  | 915
+|OO    RRRR| 914
+|OO   VVVV | 913
+| BB   BB  | 912
+| BB BBBBB | 911
+|YYYYB     | 910
+|   OOO  RR| 909
+|   O    RR| 908
+|  VV    VV| 907
+|  VV    VV| 906
+|  RRR   GG| 905
+| VVR    GG| 904
+| VV    GG | 903
+|  VVV   GG| 902
+|   V  VVVV| 901
+|   VV VVV | 900
+|    VVV   | 899
+|     VVVV | 898
+| OOOO OOOO| 897
+|    VV RRR| 896
+|  RR VVR  | 895
+|   RRBBBB | 894
+|   YYYVVVV| 893
+|   Y  OOOO| 892
+|  GGGG  BB| 891
+|   GG   BB| 890
+|   OO   YY| 889
+|    OO  YY| 888
+|     YYOO | 887
+|     YY OO| 886
+|     GGGG | 885
+| YY    BB | 884
+|  YY  YYBB| 883
+|GGRRRRYY  | 882
+| GG    RRR| 881
+| GGG    R | 880
+|  G     YY| 879
+|VVV     YY| 878
+|V      OO | 877
+|VV GG   OO| 876
+| VVGG OOO | 875
+|  VV   O  | 874
+|   VV YYYY| 873
+|   RRRR   | 872
+|  BB      | 871
+|  BB   RRR| 870
+| GGGG  R  | 869
+|   GGG RR | 868
+|    G   RR| 867
+|   RRRBBBB| 866
+|   R  GGGG| 865
+| YYY  OO  | 864
+| Y GGGGOO | 863
+|   RR     | 862
+|   RR GGGG| 861
+|  BB  RRRR| 860
+|  BB    RR| 859
+|GGG OOO RR| 858
+|GVV O RRRR| 857
+|  VV   BB | 856
+| VVRR   BB| 855
+| VVRR  RR | 854
+|  YY    RR| 853
+|  YY   VVV| 852
+| RR     V | 851
+|  RR   RR | 850
+| GG YYY RR| 849
+|  GGY  VVV| 848
+| GGGG  V  | 847
+| GG  RRR  | 846
+|  GG R VVV| 845
+|   BBB V  | 844
+|   B BBB  | 843
+|      B   | 842
+|    OOOO  | 841
+|     VVV  | 840
+|      V   | 839
+|   GGGGGG | 838
+|    GG    | 837
+|    VVVV  | 836
+|    YYYY  | 835
+|    YYY   | 834
+|    Y     | 833
+|    BBB   | 832
+|     BBBBB| 831
+|  RR YY   | 830
+|   RR YY  | 829
+|   YYYY   | 828
+|  RRR     | 827
+|   R  OOOO| 826
+| RRR YYY  | 825
+| R BBBY   | 824
+|   BGGG   | 823
+|     G    | 822
+| YYVVV    | 821
+| YYV      | 820
+|OOOOO     | 819
+|OOO       | 818
+| RRR      | 817
+| RYY  BB  | 816
+|  YY  BB  | 815
+|  BBB  OOO| 814
+|   B   O  | 813
+|   BB RRRR| 812
+|    BB BB | 811
+|   VVV BB | 810
+|    VBBB  | 809
+|     B    | 808
+|    RRRR  | 807
+|      GGGG| 806
+|        YY| 805
+|        YY| 804
+|       GGG| 803
+|       G  | 802
+|      YYYY| 801
+|       YYY| 800
+|       YOO| 799
+|        OO| 798
+|       VVV| 797
+|   VV   V | 796
+|    VV RR | 795
+|    RRR RR| 794
+|     RRRRR| 793
+|       OOO| 792
+|OO      O | 791
+|OO     YY | 790
+| YY     YY| 789
+| YY    BB | 788
+|YY      BB| 787
+| YYRR  VV | 786
+|VVV RR  VV| 785
+|VV OBB OOO| 784
+|GGG  BB O | 783
+|GGG   YYYY| 782
+| GG     VV| 781
+|  VVV   VV| 780
+|   V   GGG| 779
+|  YY   G  | 778
+|  YY   YYY| 777
+| VVV OOY  | 776
+|  V   OO  | 775
+|YYY   OO  | 774
+| Y    OO  | 773
+|VV  GGG   | 772
+| VV G     | 771
+| YYVV     | 770
+| YYVV OO  | 769
+|  VV  OO  | 768
+|  VV YY BB| 767
+|   VVVYYBB| 766
+|    V  GGG| 765
+|    OO  G | 764
+|     OO VV| 763
+|     VVVVV| 762
+|      VBB | 761
+|       BB | 760
+|      RRRR| 759
+| RR   GGG | 758
+| RR   GVVV| 757
+| VVVV  V  | 756
+|    GG YYY| 755
+|GGGG GG Y | 754
+|VVVVGG GG | 753
+| OO  GGGG | 752
+|  OO  GGGG| 751
+|   BBBVVVV| 750
+|   B VV   | 749
+|      VV  | 748
+|      RR  | 747
+|       RR | 746
+|       GGG| 745
+|       G  | 744
+|       RR | 743
+|   GGG RR | 742
+|YYYG   OO | 741
+| YYY VVVOO| 740
+|  YY  VGGG| 739
+|  GGGG G  | 738
+|     YYY  | 737
+|      Y   | 736
+|    GGG   | 735
+|    GVVV  | 734
+|      VYYY| 733
+|       Y  | 732
+|       OOO| 731
+|        O | 730
+|OOO   OOOO| 729
+| O   GGGG | 728
+| VV    VVV| 727
+|  VV   V  | 726
+|  OO   GGG| 725
+|   OO   G | 724
+|  VV   VVV| 723
+|   VV   V | 722
+|   VVVVRRR| 721
+|     OOOR | 720
+|     O OOO| 719
+|  RRR  O  | 718
+|  R YYYOO | 717
+|     Y OO | 716
+|    YYVVVV| 715
+|     YY   | 714
+|      BBBB| 713
+|     VVBBB| 712
+|     VVB  | 711
+|     VVV  | 710
+|      V   | 709
+|      OOOO| 708
+|       BBB| 707
+|        B | 706
+|       OOO| 705
+|    GGG O | 704
+|    GVVVV | 703
+|       GGG| 702
+|    YYY G | 701
+|    YRRRR | 700
+|      BB  | 699
+|      BB  | 698
+|     RR   | 697
+|    OORR  | 696
+|    OOBBBB| 695
+|     RRR  | 694
+| OO   R   | 693
+| OO   OO  | 692
+|GGG   OO  | 691
+| G   GG   | 690
+|GGG   GG  | 689
+|GBB   YYYY| 688
+| BB    RRR| 687
+| OO     R | 686
+|  OO   RRR| 685
+| OO     R | 684
+| OO  VVVV | 683
+|  VV   GGG| 682
+| BBVV  G  | 681
+|  BBGGGG  | 680
+|   YYY    | 679
+|GG  Y  RRR| 678
+| GGRRRR R | 677
+| RRR   YY | 676
+| R      YY| 675
+|VVVV    VV| 674
+| VVV    VV| 673
+| VRR   YYY| 672
+|  RR VV Y | 671
+|  GGGVVOOO| 670
+|  G YY  O | 669
+|    YY OO | 668
+|  GGG   OO| 667
+|  G   GGG | 666
+|RRR   G   | 665
+| R    GGGG| 664
+| YYVVVV   | 663
+|  YYVVVV  | 662
+| OO       | 661
+|  OO      | 660
+|   VVV RRR| 659
+| BBBV   R | 658
+| B    BBBB| 657
+|RR    VVVV| 656
+| RR  VV   | 655
+| BBB  VV  | 654
+|RRB    BB | 653
+|RR      BB| 652
+| BBB   RRR| 651
+| B      R | 650
+| VV    VV | 649
+| VV     VV| 648
+|BB   YYYY | 647
+| BBBBB    | 646
+|GGGGB     | 645
+|BB        | 644
+| BB   RRRR| 643
+| VV     BB| 642
+| VV     BB| 641
+|  GGGGYYY | 640
+|  YYYYY   | 639
+|    OOO   | 638
+|    O     | 637
+|  OOO     | 636
+|   O      | 635
+| YYY YY   | 634
+|  Y  YY   | 633
+|YYYYYY    | 632
+| YY       | 631
+|VVVV   YY | 630
+|  OOO   YY| 629
+|   O  YYYY| 628
+|  BBBBOOOO| 627
+|     BBBB | 626
+|       VVV| 625
+|       V  | 624
+|      GGGG| 623
+|     GGG  | 622
+|     GRR  | 621
+|    BBRR  | 620
+|     BB   | 619
+|      VV  | 618
+|       VV | 617
+|OOOGGG BBB| 616
+|O  G   B  | 615
+|BBBB  RRRR| 614
+|  OOOOGGGG| 613
+|     RR   | 612
+|     RR RR| 611
+|    BBB RR| 610
+|    B BBBB| 609
+|       BB | 608
+|        BB| 607
+|      GGGG| 606
+|      RRRR| 605
+|      VVVV| 604
+|   BBB  VV| 603
+|   BRRRRVV| 602
+|       BBB| 601
+|       B  | 600
+|      YYYY| 599
+|     BB   | 598
+|     BB   | 597
+|    BBB   | 596
+|     B    | 595
+|     GG   | 594
+|      GG  | 593
+|       RRR| 592
+|       R  | 591
+| VV    GG | 590
+| VV BBB GG| 589
+| BB  BOOOO| 588
+|  BB  RRR | 587
+|  RRRRR   | 586
+|     BB   | 585
+|      BB  | 584
+|       VV | 583
+|        VV| 582
+|      VVVV| 581
+|       GG | 580
+|     GGGGG| 579
+|GG   G    | 578
+|GG VVRRR  | 577
+|RRRVV R   | 576
+| ROOOOOOO | 575
+|   OOOO   | 574
+|     O GGG| 573
+|    RRRRG | 572
+|     OOOO | 571
+|      GGGG| 570
+|    VVVV  | 569
+|      RRR | 568
+|      R   | 567
+|     OOOO | 566
+|       BBB| 565
+|       B  | 564
+|      BBB | 563
+|       B  | 562
+|       VVV| 561
+|        V | 560
+|       BBB| 559
+|        B | 558
+|       YYY| 557
+|       Y  | 556
+|       OOO| 555
+|       O  | 554
+|       BB | 553
+|        BB| 552
+| OO    BB | 551
+|  OO    BB| 550
+|  RR   YYY| 549
+|  RR   Y  | 548
+| YYY  VVVV| 547
+| Y RRR RR | 546
+|BBB R   RR| 545
+|B OOOO VV | 544
+|BBBB    VV| 543
+| OOO   YY | 542
+| O      YY| 541
+|RRR   YYYY| 540
+| RVVV  BB | 539
+|   V    BB| 538
+|  GG    YY| 537
+|YY GG   YY| 536
+| YYOO   OO| 535
+|YYOOOO  OO| 534
+|YYOO   OOO| 533
+|GGG    O  | 532
+|GVVVV RRRR| 531
+|    BBBB  | 530
+|      BB  | 529
+|      BB  | 528
+|       OOO| 527
+|        O | 526
+|       RR | 525
+|        RR| 524
+|       BB | 523
+|    YYY BB| 522
+|    Y YYY | 521
+|       YGG| 520
+|        GG| 519
+| BBB   BBB| 518
+|  B    B  | 517
+| RR OOOOOO| 516
+| RR O  O  | 515
+|  RRRR OOO| 514
+|    VVV O | 513
+|     VRRRR| 512
+|      GGG | 511
+| YYYY  G  | 510
+|   RR  YYY| 509
+|    RR  Y | 508
+|   OOO GG | 507
+| RR ORRRGG| 506
+| RR  R    | 505
+|OOOOOOO   | 504
+|O RRRR    | 503
+|    RRR   | 502
+|     R    | 501
+|     YYRRR| 500
+|      YYR | 499
+|       GGG| 498
+|       G  | 497
+|GGG    BB | 496
+| G     BB | 495
+|VVVV  VVVV| 494
+| VVV  RR  | 493
+|  VYY RR  | 492
+|   YY  BBB| 491
+|   VV  B  | 490
+|   VV YYYY| 489
+| RRROOO   | 488
+|  R O     | 487
+|  BBB     | 486
+|  B       | 485
+|  GG BB   | 484
+|   GGBB   | 483
+|   VVV    | 482
+|   V  RR  | 481
+|   GGGRR  | 480
+|    GBB   | 479
+|  BBBBB YY| 478
+|   BBBB YY| 477
+|     B BBB| 476
+|     BBBB | 475
+|  YY  B VV| 474
+|  YY BB VV| 473
+| RRRRBBRRR| 472
+|    VV  R | 471
+|    VVOOOO| 470
+|    GGG   | 469
+|    G     | 468
+|    GGG   | 467
+|     GVV  | 466
+|OOO   VV  | 465
+| O  RRRR  | 464
+|BBRRRR    | 463
+|BB  YYY   | 462
+| VV  YVVV | 461
+|  VV  V   | 460
+|YY GGGG   | 459
+| YY  VV   | 458
+|  RR  VV  | 457
+|   RR YYY | 456
+|   OOO Y  | 455
+|   O VVOO | 454
+|      VVOO| 453
+|       YY | 452
+|        YY| 451
+|      OOOO| 450
+|    VV OO | 449
+|     VV OO| 448
+|      GGG | 447
+|YYY    G  | 446
+| YYYYGGGG | 445
+|  Y OO    | 444
+|     OO   | 443
+|   BBBB   | 442
+|      GGG | 441
+|       G  | 440
+|       GG | 439
+|        GG| 438
+|BBB    GG | 437
+| B      GG| 436
+|RR     BB | 435
+| RR     BB| 434
+|GG  GGRRRR| 433
+| GG  GG   | 432
+|  VV BB   | 431
+|  VV BB   | 430
+|  VVVV    | 429
+| OOO      | 428
+| O        | 427
+|BBBB      | 426
+|   GGG    | 425
+|    GBB   | 424
+|     BB   | 423
+|    BBBRRR| 422
+|    B   R | 421
+|   RR   VV| 420
+|   RR   VV| 419
+|OOOYY OOOO| 418
+| O YY  RR | 417
+|YY BBBB RR| 416
+| YY VV BBB| 415
+|RR   VV B | 414
+| RR   VVVV| 413
+| BB    OOO| 412
+| BB    O  | 411
+|OOO   RRRR| 410
+|O      OOO| 409
+|VVVV   O  | 408
+| OO   GGGG| 407
+| OO  OO   | 406
+|  VVV OO  | 405
+|   VVVVV  | 404
+|       BB | 403
+|        BB| 402
+|        YY| 401
+|        YY| 400
+|       RRR| 399
+|       R  | 398
+|      RRRR| 397
+|      OOO | 396
+|       O  | 395
+|       BBB| 394
+|  RR   B  | 393
+|  RR  OOO | 392
+| RRRR  O  | 391
+|   OOORRRR| 390
+|   O YYY  | 389
+|      Y   | 388
+|     GGG  | 387
+| OO  G    | 386
+| OO YY RRR| 385
+| RRR YY R | 384
+|  RYYYYRR | 383
+|     VVVRR| 382
+|     V VV | 381
+|       VV | 380
+|     GGG  | 379
+|      GVVV| 378
+|        V | 377
+|       VVV| 376
+|     OOV  | 375
+|    OOOO  | 374
+|    OO    | 373
+|  VVV     | 372
+|  V BBGGGG| 371
+|     BB   | 370
+|     OO   | 369
+|     OO   | 368
+|VVYYYVVV  | 367
+|VVY   VGG | 366
+| RRRR  GG | 365
+|    RRRR  | 364
+|  OOO     | 363
+|   O   GGG| 362
+|   OOOO G | 361
+|      OOO | 360
+|      O   | 359
+|     BBB  | 358
+|      B   | 357
+|      RRR | 356
+|     GGR  | 355
+|      GG  | 354
+| OOO  GGG | 353
+| O YYY GGG| 352
+|   YVVV GG| 351
+|    V  RR | 350
+|    RR  RR| 349
+|    RR RRR| 348
+|  YYY   R | 347
+|   Y  BBBB| 346
+| YYYY  RR | 345
+|   BBBB RR| 344
+|      VVV | 343
+|      V   | 342
+|      VV  | 341
+|      VV  | 340
+|       GGG| 339
+|        G | 338
+|      OOOO| 337
+|       RRR| 336
+|       R  | 335
+|       OOO| 334
+|YY     O  | 333
+|YY     RRR| 332
+|BBBB   R  | 331
+|BBBBYYYY  | 330
+|VVV   BB  | 329
+|V     BB  | 328
+|VVV  YYYGG| 327
+| VOOGGY GG| 326
+|Y    GG Y | 325
+|RRRR GGRRR| 324
+|   BBBBR  | 323
+|      RR  | 322
+|       RR | 321
+| GGG  YY  | 320
+|  GOO  YY | 319
+|   OOYYY  | 318
+|   GGY    | 317
+|    GG    | 316
+|   OOO    | 315
+|    O     | 314
+|  GGG RRRR| 313
+|   G GGG  | 312
+| OOOO G   | 311
+|   OOOGG  | 310
+|    O  GG | 309
+| YYYY  GGG| 308
+|    BBB G | 307
+|    BYYRRR| 306
+|     YY R | 305
+|      RRRR| 304
+|  YYYYVVV | 303
+| OOOO VOO | 302
+|    BBBBOO| 301
+|   VV     | 300
+|   VV     | 299
+|  OO      | 298
+|   OO     | 297
+|    BBB   | 296
+|    B     | 295
+|    YYYY  | 294
+|     OORRR| 293
+|     OO R | 292
+|      OOOO| 291
+|      GG  | 290
+|       GG | 289
+|   GGG  RR| 288
+|    G   RR| 287
+|   OOOOBBB| 286
+|     RRRB | 285
+|      RBBB| 284
+|        B | 283
+|      OOO | 282
+|      O   | 281
+|      VV  | 280
+|      VV  | 279
+|     OOO  | 278
+|     OOOOO| 277
+|        RR| 276
+|        RR| 275
+|      OOO | 274
+| YYY   O  | 273
+|  Y   BBBB| 272
+|  GGGG RRR| 271
+|     VVVR | 270
+|      V   | 269
+|     VVV  | 268
+|      VYYY| 267
+|       Y  | 266
+|       GGG| 265
+|       G  | 264
+|       OOO| 263
+|     BBO  | 262
+|      BB  | 261
+|     BBB  | 260
+|      B   | 259
+|     GGGG | 258
+| RR    OO | 257
+|GGRR    OO| 256
+|GG     BBB| 255
+|RRR     B | 254
+|RVVVV  RR | 253
+|    OOOORR| 252
+|    OO    | 251
+|    OO    | 250
+|     RRRR | 249
+|     BBYY | 248
+|     BBYY | 247
+|   VVYYYY | 246
+|    VV    | 245
+|    BBRR  | 244
+|RRR BBRR  | 243
+| RBBBBYYYY| 242
+| YYY  YYYY| 241
+|  Y     OO| 240
+|YYY     OO| 239
+| Y    VVVV| 238
+| YYY   BB | 237
+| Y      BB| 236
+|VVV   GGGG| 235
+| VRRRR  BB| 234
+|    RRRRBB| 233
+|       YYY| 232
+|       Y  | 231
+|     VVV  | 230
+|     V    | 229
+|     RR   | 228
+|     RR   | 227
+|      OOO | 226
+|       O  | 225
+|      YYYY| 224
+|      OOO | 223
+|       O  | 222
+|      OO  | 221
+|     OOOO | 220
+|     OORR | 219
+|GG    OORR| 218
+| GG   OO  | 217
+|  YY   VV | 216
+|   YY   VV| 215
+|  OOOOOBB | 214
+|   O  OOBB| 213
+|  GGG  OOO| 212
+|   G    O | 211
+|GGGGG BBB | 210
+|GGG    B  | 209
+|YYY    OOO| 208
+|Y     OOO | 207
+|VVVV   OO | 206
+|  RRRR BB | 205
+|VVVV    BB| 204
+|GGG     OO| 203
+| G      OO| 202
+|YY     VV | 201
+|YY YYY  VV| 200
+|OO  Y OOOO| 199
+| OO GG BBB| 198
+|VVVVGG  B | 197
+| RRRR  RRR| 196
+| VV    R  | 195
+| VV    GGG| 194
+| OOOO  G  | 193
+|  GGG BB  | 192
+|   G   BB | 191
+|  RRR  BBB| 190
+|  R OOO B | 189
+|OO  ORR RR| 188
+| OO   RRRR| 187
+| GGGG VVV | 186
+|    OOOVVV| 185
+|     O  VV| 184
+|     VV VV| 183
+|      VVVV| 182
+|      GGGG| 181
+|       YY | 180
+|        YY| 179
+|   YYY  GG| 178
+|    YGGGGG| 177
+|      GYYY| 176
+|       Y  | 175
+|       GG | 174
+|        GG| 173
+|  YYY  YYY| 172
+|   Y    Y | 171
+|  OO  RRRR| 170
+|   OOBBGG | 169
+|  GGGGBBGG| 168
+|    VV RR | 167
+|    VV  RR| 166
+|    RR RR | 165
+|     RR RR| 164
+|     VVVVV| 163
+|      VVV | 162
+|      GGG | 161
+|       G  | 160
+|       YYY| 159
+|        Y | 158
+|       VV | 157
+|        VV| 156
+|       OOO| 155
+|       O  | 154
+|       VV | 153
+|        VV| 152
+|       BBB| 151
+|       B  | 150
+|     GGG  | 149
+|     G BB | 148
+|        BB| 147
+|     YY BB| 146
+|     YY BB| 145
+|      VVVV| 144
+|VVVV  YYY | 143
+| GGG   Y  | 142
+|  G   OO  | 141
+|  BBB OO  | 140
+|   B  VVVV| 139
+| YYY  RRRR| 138
+|  YOOO GG | 137
+|   O VVVGG| 136
+| YY   V   | 135
+| YY   VVVV| 134
+|RR    OOO | 133
+| RR    O  | 132
+| BBB VVBBB| 131
+| B RRVVB  | 130
+|    RR OO | 129
+|    OOOOO | 128
+|     OBBBB| 127
+| VV   OO  | 126
+| VV   OO  | 125
+|  GG  OOOO| 124
+|  GG  BBGG| 123
+|   YYYBBGG| 122
+|    YVVOO | 121
+|      VVOO| 120
+|      OO  | 119
+|     VVOO | 118
+|      VV  | 117
+|     RR   | 116
+|      RROO| 115
+|      BBOO| 114
+|       BB | 113
+|        VV| 112
+|        VV| 111
+|        GG| 110
+|        GG| 109
+|       YY | 108
+|        YY| 107
+| YYYY  RR | 106
+|BB      RR| 105
+|BB     VVV| 104
+|RRRR    V | 103
+|BBBRRRRGG | 102
+|BOOO    GG| 101
+|  O    RR | 100
+| YYOO   RR| 99
+| YYOO  VV | 98
+|  VVVYYVV | 97
+|   V  YY  | 96
+|OO VVVV   | 95
+|OO    VV  | 94
+|RR    VV  | 93
+|RR GGG VVV| 92
+| RRG   VOO| 91
+|  RR    OO| 90
+|  OOO  GGG| 89
+|   O    G | 88
+| BBB   GG | 87
+|  B     GG| 86
+| OO   OOOO| 85
+|  OO    YY| 84
+| BBB GGGYY| 83
+|  B  G YYY| 82
+| OOO   Y  | 81
+| O   BBGGG| 80
+|YYYY BB G | 79
+|   OOO YY | 78
+|  VVO   YY| 77
+|BBBVVGGGG | 76
+|B RR   OOO| 75
+|   RR OOO | 74
+|  VVV OO  | 73
+|   V  BBB | 72
+|   BBB B  | 71
+|    B  GG | 70
+|    RRR GG| 69
+| BB  R VV | 68
+| BB GGG VV| 67
+|  BB GOOO | 66
+|   BB  O  | 65
+| BBRR OOO | 64
+|  BBRR O  | 63
+|  YY   YYY| 62
+|OO YY   Y | 61
+|OO BB  BBB| 60
+|YYYBB  B  | 59
+|YGGG   BBB| 58
+|  GBB   B | 57
+|    BB VVV| 56
+|     VVVYY| 55
+|     VV YY| 54
+|      RRRR| 53
+|       RRR| 52
+|       R  | 51
+|      RRRR| 50
+|       VVV| 49
+|       V  | 48
+|    OOOO  | 47
+|       VVV| 46
+|        V | 45
+|      OOOO| 44
+|     RRR  | 43
+|     R RRR| 42
+|        R | 41
+|       GGG| 40
+|        G | 39
+|VVV    YYY| 38
+| V  RRRRY | 37
+|BB     OO | 36
+| BB     OO| 35
+| OO  OOOO | 34
+|  OOVVVOOO| 33
+| YY V BBO | 32
+| YY   BB  | 31
+|VVVV   GGG| 30
+|BBB    G  | 29
+| B    VVV | 28
+|BBBB  V   | 27
+| OO   GGG | 26
+|  OO  G   | 25
+|  OO  GGGG| 24
+|  OO  GGG | 23
+|  GG   G  | 22
+|  GG   OOO| 21
+| YYY    O | 20
+| YGGG  YY | 19
+|  G  BB YY| 18
+|  OOOBB YY| 17
+|  O  OOOYY| 16
+|VVV  OOOOO| 15
+| V   YYYY | 14
+|GGGG    BB| 13
+|GGG  VV BB| 12
+|G YY VVVVV| 11
+|   YY YYV | 10
+|  YY   YY | 9
+|   YY   RR| 8
+|  YYYY  RR| 7
+| GGGG  VVV| 6
+|VVVV   VVV| 5
+|  BB  GGVV| 4
+|  BB   GG | 3
+| YYY   GGG| 2
+|  Y    G  | 1
+ ----------

@@ -1,0 +1,114 @@
+110
+2
+
+|OO        | 110
+|OO        | 109
+|BB        | 108
+|BB        | 107
+|YY        | 106
+|YY        | 105
+|RR        | 104
+|RR        | 103
+|RR        | 102
+|RR        | 101
+|RR        | 100
+|RR        | 99
+|RR        | 98
+|RR        | 97
+|VV        | 96
+|VV        | 95
+|OO        | 94
+|OO        | 93
+|BB        | 92
+|BB        | 91
+|YY        | 90
+|YY        | 89
+|RRRR      | 88
+|RRRR      | 87
+|RRGGRRRR  | 86
+|RRGGRRRR  | 85
+| RR RRRRRR| 84
+| RR RRRRRR| 83
+|  RRBBVVRR| 82
+|  RRBBVVRR| 81
+|   RR BBVV| 80
+|   RR BBVV| 79
+|  RRRRYYYY| 78
+|  RRRRYYYY| 77
+|  GG RR YY| 76
+|  GG RR YY| 75
+|  VVRRRRYY| 74
+|  VVRRRRYY| 73
+|  OORR RR | 72
+|  OORR RR | 71
+|  BBGGRR  | 70
+|  BBGGRR  | 69
+|GGYYOORR  | 68
+|GGYYOORR  | 67
+|VVRRBBGG  | 66
+|VVRRBBGG  | 65
+|YYGGBBVV  | 64
+|YYGGBBVV  | 63
+|GGVVRROO  | 62
+|GGVVRROO  | 61
+|VVOOGGBB  | 60
+|VVOOGGBB  | 59
+|YYBBVVRR  | 58
+|YYBBVVRR  | 57
+| VV BBVVRR| 56
+| VV BBVVRR| 55
+|  OOYYOOVV| 54
+|  OOYYOOVV| 53
+|   BB BBOO| 52
+|   BB BBOO| 51
+|    YYYYRR| 50
+|    YYYYRR| 49
+|     RR OO| 48
+|     RR OO| 47
+|      GGBB| 46
+|      GGBB| 45
+|       VV | 44
+|       VV | 43
+|        OO| 42
+|        OO| 41
+|       BB | 40
+|       BB | 39
+|      YY  | 38
+|      YY  | 37
+|     RR   | 36
+|     RR   | 35
+|    GG    | 34
+|    GG    | 33
+|   VV     | 32
+|   VV     | 31
+|  OO      | 30
+|  OO      | 29
+| BB       | 28
+| BB       | 27
+|YY        | 26
+|YY        | 25
+|BB   BB   | 24
+|BB   BB   | 23
+|BB   BB   | 22
+|BB   BB   | 21
+|YY    VV  | 20
+|YY    VV  | 19
+|YY    VV  | 18
+|YY    VV  | 17
+|RRRR  OOOO| 16
+|RRRR  OOOO| 15
+| VV VVGGGG| 14
+| VV VVGGGG| 13
+|BBBB BBBB | 12
+|BBBB BBBB | 11
+|YYYY  VVVV| 10
+|YYYY  VVVV| 9
+|RRRR  OOOO| 8
+|RRRR  OOOO| 7
+| VV VVGGGG| 6
+| VV VVGGGG| 5
+|BBBB BBBB | 4
+|BBBB BBBB | 3
+|YYYY  VVVV| 2
+|YYYY  VVVV| 1
+ ----------

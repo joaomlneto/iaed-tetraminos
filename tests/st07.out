@@ -1,0 +1,20 @@
+16
+4
+
+|OOO       | 16
+|    OOO   | 15
+|    O     | 14
+|  VVV     | 13
+|   VGG    | 12
+|     GG   | 11
+|   YY VVV | 10
+|   YY  V  | 9
+| BBB  OOOO| 8
+| B GGGGYYY| 7
+| OOOO   Y | 6
+| BBBBVVBBB| 5
+|RRRGGVV B | 4
+| R GG YYYY| 3
+|YYYY RR OO| 2
+| VVVV RROO| 1
+ ----------

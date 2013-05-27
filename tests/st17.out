@@ -1,0 +1,134 @@
+130
+4
+
+|       BBB| 130
+|     BBBRR| 129
+|     BB RR| 128
+|     BBBRR| 127
+|      B RR| 126
+|  BB  GGGG| 125
+|  BB   BB | 124
+|  BBB BBBB| 123
+|   BBB BB | 122
+|     BBOO | 121
+|      OOOO| 120
+|    OO OO | 119
+|     OOVV | 118
+|      VVVV| 117
+|    VV VV | 116
+|     VVRR | 115
+|      RRRR| 114
+|    RR RR | 113
+|     RRYY | 112
+|      YYYY| 111
+|    YY YY | 110
+|GGG  YYOO | 109
+|GBBBBOOOO | 108
+|YYYY      | 107
+| YYYY     | 106
+|RRRR      | 105
+| RRRR     | 104
+|VVVV      | 103
+| VVVV     | 102
+|OOOO      | 101
+| OOOO     | 100
+|BBBB      | 99
+| BBBB     | 98
+| YY       | 97
+|RRYY      | 96
+| RR       | 95
+| RR       | 94
+|  RRYY    | 93
+| RRRRYY   | 92
+|RRRRRR    | 91
+| RR VV    | 90
+| RR  VV   | 89
+|  RR BBBB | 88
+|   RR BBBB| 87
+| RR RRVV  | 86
+|RRRR GGVV | 85
+| RR   GG  | 84
+|  RRVV VV | 83
+|   RRVV VV| 82
+| RRRR  YY | 81
+|  RRRRYYYY| 80
+|   RRRRYY | 79
+|    RRRR  | 78
+|     RRRR | 77
+|      RRRR| 76
+|    RRRR  | 75
+|     RRRR | 74
+|     RRRR | 73
+|      RRRR| 72
+| RRRRRRRR | 71
+|  RRRRRRRR| 70
+|GGGGRRRR  | 69
+| GGGGRRRR | 68
+|  VVVVVV  | 67
+|VV VVVVVV | 66
+| VVOOOOOO | 65
+|  OOOOOOOO| 64
+|   OO     | 63
+| BBBBBBBB | 62
+|  BBBBBBBB| 61
+|YYYYYYYY  | 60
+| YYYYYYYY | 59
+|GGGG      | 58
+| GGGG     | 57
+|VVVV      | 56
+| VVVV     | 55
+|OOOO      | 54
+| OOOO     | 53
+|BBBB      | 52
+| BBBB     | 51
+| YYYY     | 50
+|  YYYY    | 49
+|  RRRR    | 48
+|   RRRR   | 47
+|   GGGG   | 46
+|    GGGG  | 45
+|     VVVV | 44
+|      VVVV| 43
+|     OOOO | 42
+|      OOOO| 41
+|     BBBB | 40
+|      BBBB| 39
+|     YYYY | 38
+|      YYYY| 37
+|     RRRR | 36
+|      RRRR| 35
+|    GGGG  | 34
+|     GGGG | 33
+|   VVVV   | 32
+|    VVVV  | 31
+|  OOOO    | 30
+|   OOOO   | 29
+| BBBB     | 28
+|  BBBB    | 27
+|YYYY      | 26
+| YYYY     | 25
+|BBBB      | 24
+| BBBB     | 23
+|YYYY      | 22
+| YYYY     | 21
+|RRRR BBBB | 20
+| RRRR BBBB| 19
+|VV   VVVV | 18
+| VV   VVVV| 17
+|VVGG OOOO | 16
+| VVGG OOOO| 15
+|BBBB   GG | 14
+| BBBB   GG| 13
+|YYYY BBBB | 12
+| YYYY BBBB| 11
+|RRRR VVVV | 10
+| RRRR VVVV| 9
+|VV   OOOO | 8
+| VV   OOOO| 7
+|VV   GGGG | 6
+| VV   GGGG| 5
+|BBBB BBBB | 4
+| BBBB BBBB| 3
+|YYYY VVVV | 2
+| YYYY VVVV| 1
+ ----------
