@@ -34,8 +34,10 @@ GameArea* newGameArea() {
 	setGameAreaNumLines(g, 0);
 	setGameAreaHeightMap(g, newHeightMap());
 	setGameAreaDeletedFirst(g, NULL);
+	setGameAreaDeletedLast(g, NULL);
 	setGameAreaNumDeletedLines(g, 0);
 	setGameAreaScore(g, 0);
+	setGameAreaPieceCounts(g, newTHash());
 	return g;
 }
 
@@ -52,11 +54,23 @@ void clearGameArea(GameArea *gameArea) {
 	line = getGameAreaFirst(gameArea);
 	while(line != NULL) {
 		aux = getNextLine(line);
-		free(line);
+		/* Apagar pecas completas! */
+		eraseTLocations(gameArea, line);
+		deleteLine(line);
 		line = aux;
 	}
 	/* Apagar mapa de alturas */
 	free(getGameAreaHeightMap(gameArea));
+	/* Esvaziar lista de linhas eliminadas */
+	line = getGameAreaDeletedFirst(gameArea);
+	while(line != NULL) {
+		aux = getNextLine(line);
+		deleteLine(line);
+		line = aux;
+	}
+	/* Apagar pecas completas */
+	/* Apagar contadores de pecas completas */
+	free(getGameAreaPieceCounts(gameArea));
 	/* Libertar a propria estrutura da area de jogo */
 	free(gameArea);
 	return;
@@ -134,6 +148,16 @@ int getGameAreaNumDeletedLines(GameArea *g) {
  **************************************************************/
 int getGameAreaScore(GameArea *g) {
 	return g->score;
+}
+
+/***************************************************************
+ *  - getGameAreaPieceCounts
+ *
+ * Devolve um ponteiro para o vector de contadores de pecas
+ * completas em jogo
+ **************************************************************/
+int* getGameAreaPieceCounts(GameArea *g) {
+	return g->piece_count;
 }
 
 /***************************************************************
@@ -222,6 +246,17 @@ void setGameAreaScore(GameArea *g, int score) {
 }
 
 /***************************************************************
+ *  - setGameAreaPieceCounts
+ *
+ * Altera o ponteiro para o contador de pecas completas da area
+ * de jogo
+ **************************************************************/
+void setGameAreaPieceCounts(GameArea *g, int* piece_counts) {
+	g->piece_count = piece_counts;
+	return;
+}
+
+/***************************************************************
  *  - getGameLine
  *
  * Devolve um ponteiro para a linha numero 'line_num' da area
@@ -231,7 +266,7 @@ Line* getGameLine(GameArea *g, int line_num) {
 	int i;
 	int num_lines = getGameAreaNumLines(g);
 	Line *line;
-	if (line_num > num_lines) {
+	if (line_num > num_lines || line_num < 1) {
 		return NULL;
 	}
 	if((line_num <= (num_lines/2))) {
@@ -400,6 +435,8 @@ void eraseLine(GameArea *g, int line) {
 	fixHeightMap(g);
 	/* Inserir linha na lista de linhas eliminadas */
 	insertSortDeletedLine(g, l);
+	/* processar t_location's */
+	eraseTLocations(g, l);
 	return;	
 }
 
@@ -430,6 +467,8 @@ void fixHeightMap(GameArea *gameArea) {
  **************************************************************/
 void insertPiece(GameArea *g, tetromino *piece) {
 	position *pos;
+	t_location *tl;
+	/*Line* l;*/
 	int i;
 	int line;
 	int column;
@@ -443,6 +482,8 @@ void insertPiece(GameArea *g, tetromino *piece) {
 		if(getGameAreaColumnHeight(g, column) < line)
 			setGameAreaColumnHeight(g, column, line);
 	}
+	tl = createTLocation(g, piece);
+	getGameAreaPieceCounts(g)[getTLocationHashPos(tl)] += 1;
 	free(pos); /* Apaga o lixo da memória :) yay! */
 	return;
 }

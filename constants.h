@@ -1,5 +1,9 @@
 #pragma once
 
+/****************************
+ * Definicao das constantes *
+ ***************************/
+
 /* Numero de colunas da area de jogo */
 #define NUM_COLUNAS 10
 

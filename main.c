@@ -15,6 +15,11 @@ int main() {
 	return 0;
 }
 
+/***************************************************************
+ *  -readInput
+ *
+ * Efectua o processamento do input, peca a peca
+ **************************************************************/
 void readInput(GameArea *gameArea) {
 	int i, num_pieces;
 	char buffer[BUFFER_SIZE];
@@ -28,13 +33,18 @@ void readInput(GameArea *gameArea) {
 		piece = processBuffer(gameArea, buffer); /* Transformar linha num tetromino */
 		gravity(gameArea, piece); /* Aplicar gravidade a peca */
 		insertPiece(gameArea, piece); /* Inserir a Peca na Area de Jogo */
-		updateScore(gameArea, piece); /* BUGGED!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-		deleteFilledLines(gameArea, piece); /* INNEFICIENT!!!!!!!!!!!!!!!!!!!!!! */
+		deleteFilledLines(gameArea, piece); /* Eliminar linhas e actualizar pontuacao */
 		deletePiece(piece); /* DeletePiece */
 	}
 	return;
 }
 
+/***************************************************************
+ *  - processBuffer
+ *
+ * Recebe uma string e devolve uma peca com os atributos
+ * descritos na string
+ **************************************************************/
 tetromino* processBuffer(GameArea *gameArea, char *buffer) {
 	tetromino *t;
 	int piece_type;
@@ -58,6 +68,11 @@ tetromino* processBuffer(GameArea *gameArea, char *buffer) {
 	return t;
 }
 
+/***************************************************************
+ *  - gravity
+ *
+ * Efectua a arrumacao de uma peca (deslocando-a para baixo)
+ **************************************************************/
 void gravity(GameArea *gameArea, tetromino *t) {
 	int i, floor_size;
 	position *floor;
@@ -78,79 +93,51 @@ void gravity(GameArea *gameArea, tetromino *t) {
 	return;
 }
 
-void updateScore(GameArea *gameArea, tetromino *t) {
+/***************************************************************
+ *  - deleteFilledLines
+ *
+ * Responsavel por detectar linhas completas e elimina-las, bem
+ * como a actualizacao da pontuacao.
+ **************************************************************/
+void deleteFilledLines(GameArea *gameArea, tetromino *t) {
+	int* lines = getPieceLines(t);
+	int linespan = getLineSpan(t);
 	int i;
-	int score = getGameAreaScore(gameArea);
-	int lines[4];
-	Line *line;
-	position *cells = getPositions(t);
-	vectorInit(lines, 4, 0);
-	for (i=0; i<4; i++) {
-		if (!(vectorValueExists(lines, 4, getLine(&cells[i])))) {
-			lines[i] = getLine(&cells[i]);
-		}
-	}
-	for (i=0; i<4; i++) {
+	Line* line;
+	for(i=0; i<linespan; i++) {
 		line = getGameLine(gameArea, lines[i]);
-		if(lineFilled(line) && (lineDiversity(line) == 1)) {
-			score += 3;
-		}
-		if(lineFilled(line) && (lineDiversity(line) != 1)) {
-			score += 1;
-			line = getGameLine(gameArea, lines[i]+1);
-			if(lineFilled(line) && (lineDiversity(line) == 1)) {
-				score -= 1;
+		if(lineFilled(line)) {
+			if(hasAdjacentMonocolors(line)) {
+				if(lineDiversity(line) == 1) {
+					increaseScore(gameArea, 3);
+					eraseLine(gameArea, lines[i]);
+				}
 			}
-			line = getGameLine(gameArea, lines[i]-1);
-			if(lineFilled(line) && (lineDiversity(line) == 1)) {
-				score -= 1;
+			else {
+				if(lineDiversity(line) == 1) {
+					increaseScore(gameArea, 3);
+					eraseLine(gameArea, lines[i]+1);
+					eraseLine(gameArea, lines[i]);
+					eraseLine(gameArea, lines[i]-1);
+				}
+				else {
+					increaseScore(gameArea, 1);
+					eraseLine(gameArea, lines[i]);
+				}
 			}
 		}
 	}
-	setGameAreaScore(gameArea, score);
-	free(cells);
+	free(lines);
 	return;
 }
 
-void deleteFilledLines(GameArea *gameArea, tetromino *t) {
-	int i;
-	int list[10];
-	int listptr = 0;
-	int lines[4];
-	Line *line;
-	position *cells = getPositions(t);
-	vectorInit(list, 10, 0);
-	vectorInit(lines, 4, 0);
-	for (i=0; i<4; i++) {
-		lines[i] = getLine(&cells[i]);
-	}
-	for (i=0; i<4; i++) {
-		line = getGameLine(gameArea, lines[i]);
-		if(lineFilled(line)) {
-			if(!(vectorValueExists(list, 10, lines[i]))) {
-				list[listptr++] = lines[i];
-			}
-			if(lineDiversity(line) == 1) {
-				if(!(vectorValueExists(list, 10, lines[i]+1))) {
-					list[listptr++] = lines[i]+1;
-					line = getGameLine(gameArea, lines[i]+1);
-				}
-				if(!(vectorValueExists(list, 10, lines[i]-1))) {
-					list[listptr++] = lines[i]-1;
-					line = getGameLine(gameArea, lines[i]-1);
-				}
-			}
-		}
-	}
-	bubbleSortDesc(list, listptr);
-	for (i=0; i<listptr; i++) {
-		eraseLine(gameArea, list[i]);
-	}
-	free(cells);
-}
-
+/***************************************************************
+ *  - writeOutput
+ *
+ * Escreve no Standard Output o resultado do processamento
+ **************************************************************/
 void writeOutput(GameArea *gameArea) {
-	int i, j, num_lines, median;
+	int i, j, num_lines, *num_pieces, median, color, type;
 	Line* line = getGameAreaLast(gameArea);
 	num_lines = getGameAreaNumLines(gameArea);
 	printf("%d\n", getGameAreaNumLines(gameArea));
@@ -166,11 +153,25 @@ void writeOutput(GameArea *gameArea) {
 		printf("| %d\n", i);
 		line = getPreviousLine(line);
 	}
-
 	/* Imprimir tracinhos por baixo da area de jogo */
 	printf(" ");
 	for(i=0; i<NUM_COLUNAS; i++) {
 		printf("-");
+	}
+
+	printf("\n\n");
+
+	/* Numero de pecas completas em jogo */
+	printf("%d\n", vectorSum(getGameAreaPieceCounts(gameArea), NUM_TYPES*NUM_CORES));
+
+	/* Imprimir tipo e cor das pecas completas em jogo, ordenadas */
+	num_pieces = getGameAreaPieceCounts(gameArea); /* hashtable */
+	for(i=0; i<(NUM_CORES*NUM_TYPES); i++) {
+		color = (i % NUM_CORES) + 1;
+		type = (i / NUM_CORES) + 1;
+		for(j=0; j<num_pieces[i]; j++) {
+			printf("%d %c\n", type, int2color(color));
+		}
 	}
 
 	printf("\n");
@@ -187,33 +188,11 @@ void writeOutput(GameArea *gameArea) {
 		while((median--) > 1)
 			line = getNextLine(line);
 		/* Mostrar a linha */
-		for(i=0; i<NUM_COLUNAS; i++) {
+		for(i=0; i<NUM_COLUNAS && getLineColumn(line)[i] != EMPTY_SPACE; i++) {
 			printf("%c", getLineColumn(line)[i]);
 		}
 	}
 
 	printf("\n");
 	return;
-}
-
-void debugInfo(GameArea *gameArea) {
-	Line* line;
-	int i;
-	system("clear");
-	/*writeOutput(gameArea);*/
-	printf("| ");
-	for(i=1; i<=NUM_COLUNAS; i++) {
-		printf("%2d|", getGameAreaColumnHeight(gameArea, i));
-	}
-	printf("\n");
-	printf("LISTA DE LINHAS APAGADAS:\n");
-	line = getGameAreaDeletedFirst(gameArea);
-	while(line != NULL) {
-		for(i=0; i<NUM_COLUNAS; i++) {
-			printf("%c", getLineColumn(line)[i]);
-		}
-		printf("\n");
-		line = getNextLine(line);
-	}
-	sleep(3);
 }

@@ -7,10 +7,6 @@
 
 #include <stdio.h>
 
-/*struct HeightMap {
-	int columns[NUM_COLUNAS];
-}*/
-
 HeightMap* newHeightMap();
 void deleteHeightMap(HeightMap *heightMap);
 

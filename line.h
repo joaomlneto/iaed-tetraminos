@@ -8,14 +8,6 @@
 #include "tetromino.h"
 #include "t_location.h"
 
-/*
-struct Line {
-	struct Line* previous;
-	struct Line* next;
-	char column[NUM_COLUNAS];
-	struct t_location* *pieces;
-}*/
-
 Line* newLine();
 void deleteLine(Line *line);
 
@@ -29,3 +21,9 @@ void setLineColumn(Line *l, int c, char contents);
 
 int lineDiversity(Line *line);
 int lineFilled(Line *line);
+int hasAdjacentMonocolors(Line *line);
+
+void setLineT_location(Line *l, t_location *tl);
+t_location** getLineT_location(Line *l);
+int getLineTLIndex(Line *l);
+void setLineTLIndex(Line *l, int i);

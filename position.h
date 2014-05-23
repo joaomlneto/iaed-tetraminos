@@ -2,11 +2,6 @@
 
 #include <stdlib.h>
 #include "common.h"
-/*
-struct position {
-	int line;
-	int column;
-}*/
 
 int getLine(position *pos);
 int getColumn(position *pos);

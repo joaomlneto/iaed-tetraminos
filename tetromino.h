@@ -5,12 +5,6 @@
 #include "constants.h"
 #include "functions.h"
 #include "position.h"
-/*
-struct tetromino {
-	position position;
-	int type;
-	char color;
-}*/
 
 tetromino* newPiece(int type, int line, int column, char color);
 void deletePiece(tetromino* piece);
@@ -47,3 +41,4 @@ int* getPieceColumns(tetromino *t);
 int* getPieceLines(tetromino *t);
 
 int color2int(char color);
+char int2color(int color);

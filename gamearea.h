@@ -10,17 +10,6 @@
 #include "position.h"
 #include "tetromino.h"
 
-/*struct GameArea {
-	Line *gameLineFirst;
-	Line *gameLineLast;
-	int num_lines;
-	HeightMap *heightMap;
-	Line *deletedLinesFirst;
-	Line *deletedLinesLast;
-	int num_deleted_lines;
-	int score;
-}*/
-
 GameArea* newGameArea();
 void clearGameArea(GameArea *gameArea);
 
@@ -32,6 +21,7 @@ Line* getGameAreaDeletedFirst(GameArea *g);
 Line* getGameAreaDeletedLast(GameArea *g);
 int getGameAreaNumDeletedLines(GameArea *g);
 int getGameAreaScore(GameArea *g);
+int* getGameAreaPieceCounts(GameArea *g);
 
 void setGameAreaFirst(GameArea *g, Line *l);
 void setGameAreaLast(GameArea *g, Line *l);
@@ -41,6 +31,7 @@ void setGameAreaDeletedFirst(GameArea *g, Line* l);
 void setGameAreaDeletedLast(GameArea *g, Line* l);
 void setGameAreaNumDeletedLines(GameArea *g, int n);
 void setGameAreaScore(GameArea *g, int score);
+void setGameAreaPieceCounts(GameArea *g, int* piece_counts);
 
 Line* getGameLine(GameArea *g, int line_num);
 

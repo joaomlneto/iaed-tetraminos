@@ -431,6 +431,7 @@ int* getPieceLines(tetromino *t) {
  *  - color2int
  *
  * Transforma o caracter correspondente a uma cor em um inteiro
+ * Se aquele caracter nao corresponder uma cor, devolve 0.
  **************************************************************/
 int color2int(char color) {
 	switch(color) {
@@ -440,6 +441,24 @@ int color2int(char color) {
 		case 'R': return 4;
 		case 'V': return 5;
 		case 'Y': return 6;
+	}
+	return 0;
+}
+
+/***************************************************************
+ *  - int2color
+ *
+ * Transforma um inteiro no caracter correspondente a uma cor.
+ * Se aquele numero nao corresponder uma cor, devolve 0.
+ **************************************************************/
+char int2color(int color) {
+	switch(color) {
+		case 1: return 'B';
+		case 2: return 'G';
+		case 3: return 'O';
+		case 4: return 'R';
+		case 5: return 'V';
+		case 6: return 'Y';
 	}
 	return 0;
 }
